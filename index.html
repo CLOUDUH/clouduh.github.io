@@ -1,0 +1,125 @@
+---
+layout: page
+description: Forever Young, Forever Free
+---
+
+<h1>欢迎来到我的博客😁</h1>
+
+<blockquote>从浪潮的观望者，努力成长为波涛上的弄潮儿。</blockquote>
+
+<p><h4>我写的文章：<a href="https://clouduh.cn/blog/">📚Articles</a></h4></p>
+<p><h4>我拍的照片：<a href="https://clouduh.cn/gallery/">📷Gallery</a></h4></p>
+<p><h4>我到底是谁：<a href="https://clouduh.cn/about/">👴About</a></h4></p>
+<p>为什么想要搭建这个博客：<a href="https://clouduh.cn/posts/220908">✌️一次不务正业的尝试</a></p>
+
+<hr>
+
+<h1>我最近的几篇文章⬇️</h1>
+
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">
+            {{ post.date | date: "%y%m%d" }} {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:200 }} 
+        </div>
+    </a>
+    <p class="post-meta">
+        {{ post.date | date: "%Y-%m-%d" }} via {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} 
+    </p>
+</div>
+<hr>
+{% endfor %}
+
+<!-- 同时兼容http与https -->
+<script src="//cdn1.lncld.net/static/js/2.5.0/av-min.js"></script>
+<script>
+    // 第一个参数是appid，第二个参数是appkey，此处的只是示例
+    AV.initialize("gQJjjB93fxTAN0W6cmFdlOrW-gzGzoHsz", "IcwsNtdTDwM9gdkJfLNJKcck");
+    // 自己创建的Class的名字
+    var name='Counter';
+    function createRecord(Counter){
+      // 设置 ACL
+      var acl = new AV.ACL();
+      acl.setPublicReadAccess(true);
+      acl.setPublicWriteAccess(true);
+      // 获得span的所有元素
+      var elements=document.getElementsByClassName('leancloud_visitors');
+      // 一次创建多条记录
+      var allcounter=[];
+      for (var i = 0; i < elements.length ; i++) {
+        // 若某span的内容不包括 '-' ，则不必创建记录
+        if(elements[i].textContent.indexOf('-') == -1){
+          continue;
+        }
+        var title = elements[i].getAttribute('data-flag-title');
+        var url = elements[i].id;
+        var newcounter = new Counter();
+        newcounter.setACL(acl);
+        newcounter.set("title", title);
+        newcounter.set("url", url);
+        newcounter.set("time", 0);
+        allcounter.push(newcounter);
+        // 顺便更新显示span为默认值0
+        elements[i].textContent=0;
+      }
+      AV.Object.saveAll(allcounter).then(function (todo) {
+        // 成功保存记录之后
+        console.log('创建记录成功！');
+      }, function (error) {
+        // 异常错误 
+        console.error('创建记录失败: ' + error.message);
+      });
+    }
+    function showCount(Counter){
+      // 是否需要创建新纪录的标志（添加一篇新文章）
+      var flag=false;
+      var query = new AV.Query(name);
+      query.greaterThanOrEqualTo('time', 0);
+      query.find().then(function (results) {
+        // 当获取到的记录为0时置默认值
+        if(results.length==0){
+          $('.leancloud_visitors').text('-');
+          flag=true;
+          console.log('返回查询记录为空');
+          // 如果获取到空记录就创建新记录
+          createRecord(Counter);
+          return;
+        }
+        // 将获取到的数据设置为text
+        for (var i = 0; i < results.length; i++) {
+          var item = results[i];
+          var url = item.get('url');
+          var time = item.get('time');
+          var element = document.getElementById(url);
+          element.textContent = time;
+        }
+        // 当某个span含有默认值时说明需要创建记录
+        if($('.leancloud_visitors').text().indexOf("-") != -1){
+          flag=true;
+        }
+        // 当获取的记录数与span个数不吻合时
+        if(results.length != $('.leancloud_visitors').length){
+          flag=true;
+        }
+        if(flag){
+          createRecord(Counter);
+        }
+      }, function (error) {
+        console.log('query error:'+error.message);
+      });
+    }
+    $(function() {
+      var Counter = AV.Object.extend(name);
+      showCount(Counter);
+    });
+</script>
+
+

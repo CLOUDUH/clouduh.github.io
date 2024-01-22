@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "761852a1867caf71",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c30873846457274",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbeb6052b38a21e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f255be73a3b90f17",
+    "type": "split",
+    "children": [
+      {
+        "id": "350eeed0d96683f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce5f9ba4af413aec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "b91b0427408be8b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "docker",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5433514ccd2adb7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "156d1c1dda5dc6b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "bd3490ecf4bd8502",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef5c465cd5294cc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40e7444b49521198",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d955ce462618b48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eeb91a296a8c45f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md"
+              }
+            }
+          },
+          {
+            "id": "2e1f2ca1248dde30",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "templates:插入模板": false
+    }
+  },
+  "active": "2cbeb6052b38a21e",
+  "lastOpenFiles": [
+    "_posts/23-04-12-服务器普通用户指南.md",
+    "_posts/23-09-03-奥本海默观后感.md",
+    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+    "_posts/23-03-23-服务器管理员配置.md",
+    "_posts/_templete/post_templete.md",
+    "_posts/22-10-30-macOS系统回退.md",
+    "_site/post/230903.html",
+    "_site/post/230902.html",
+    "_site/post/230412.html",
+    "_site/post/230323.html",
+    "_site/attachment/Pasted image 20230903212057.png",
+    "_site/attachment/Pasted image 20230903210433.png",
+    "_site/attachment/Pasted image 20230903210426.png",
+    "_site/attachment/Pasted image 20230903210421.png",
+    "_site/attachment/Pasted image 20230903210343.png",
+    "_site/attachment/Pasted image 20230903205314.png",
+    "_site/attachment/Pasted image 20230627183625.png",
+    "_site/attachment/Pasted image 20230627182933.png",
+    "_site/attachment/Pasted image 20230627182714.png",
+    "_site/attachment/Pasted image 20230627181351.png",
+    "_posts/22-10-31-Mac微信双开.md",
+    "_posts/23-03-01-AltServer & iOS 微信双开.md",
+    "_posts/23-09-03-赣味人家 & 茶话弄 & 高胖妹面庄.md",
+    "_posts/23-09-04-奥本海默观后感.md",
+    "_posts/22-11-19-Mac旋转显示器.md",
+    "_posts/22-11-24-Mac & Matlab.md",
+    "_posts/23-03-04-LaTeX &  Grammerly & AI.md",
+    "_posts/_templete/未命名.md",
+    "_posts/21-11-24-校园网 & 黑群晖.md",
+    "_posts/22-05-24-M1 环境配置.md",
+    "211019_Git 版本管理.md",
+    "_posts/21-10-19-Git.md",
+    "_posts/22-05-11-Windows Remote Desktop.md",
+    "_posts/20-06-10-Windows 软件安利.md",
+    "_posts/22-01-02-Synology Drive.md",
+    "_posts/23-03-27-ARM Mac 机器学习环境配置.md",
+    "_posts/22-09-08-欢迎.md",
+    "_posts/22-09-07-Jeykll & Github Pages.md",
+    "_posts/22-06-15-Zotero WebDAV.md",
+    "_posts/22-04-02-天大邮箱 SMTP.md",
+    "_site/post/230304.html",
+    "_posts/_templete",
+    "_site/post/200610.html",
+    "_site/2020/06/10/Windows-软件安利/index.html",
+    "_site/2020/06/10/Windows-软件安利",
+    "_site/2020/06/10"
+  ]
+}

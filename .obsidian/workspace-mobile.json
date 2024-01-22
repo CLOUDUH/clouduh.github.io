@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "761852a1867caf71",
+    "type": "split",
+    "children": [
+      {
+        "id": "c63dfdb88327e8e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe00ccc9688fef24",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8afc4205a2147120",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b220df2d1c07f8c7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabeticalReverse"
+          }
+        }
+      },
+      {
+        "id": "7767c00660f2b793",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8f50fc5d3112981e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "126b1696ce7e5bec",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "48c2dd62d88b9153",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "167bbaf46ad39937",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "161191aae2704b3a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3b1f5513b202e8a8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "fe00ccc9688fef24",
+  "lastOpenFiles": [
+    "50_Project/502_Introduction/220615_利用实验室服务器同步Zotero文献.md",
+    "30_Research/305_电池管理/220310_飞行器充电设计/220721_充电优化论文框架.md",
+    "30_Research/305_电池管理/220310_飞行器充电设计/220719_充电优化结果说明.md",
+    "50_Project/501_Blog/220929_Shottr.md",
+    "30_Research/305_电池管理/211205_电池在线辨识/211205_递推最小二乘法.md",
+    "40_Work/200723_天大面试稿子/200723_天大面试稿.md",
+    "30_Research/302_文献笔记/220403_PN_MPC充电优化.md",
+    "30_Research/302_文献笔记/220407_PN_优化电池脉冲放电.md",
+    "30_Research/305_电池管理/220310_飞行器充电设计/220223_呼文韬临近空间交流.md",
+    "30_Research/305_电池管理/220310_飞行器充电设计/220523_充电优化目标函数设计.md"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "git",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Work",
+      "color": {
+        "a": 1,
+        "rgb": 14718802
+      }
+    },
+    {
+      "query": "tag:#Opinion",
+      "color": {
+        "a": 1,
+        "rgb": 5420768
+      }
+    },
+    {
+      "query": "tag:#Study",
+      "color": {
+        "a": 1,
+        "rgb": 9130720
+      }
+    },
+    {
+      "query": "tag:#Life",
+      "color": {
+        "a": 1,
+        "rgb": 5431447
+      }
+    },
+    {
+      "query": "tag:#Research",
+      "color": {
+        "a": 1,
+        "rgb": 873427
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 2.084765625,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 1.8774299155538896,
+  "close": true
+}
