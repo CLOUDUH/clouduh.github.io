@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c30873846457274",
+        "id": "f25fdab0b7eb5b24",
         "type": "tabs",
         "children": [
           {
-            "id": "2cbeb6052b38a21e",
+            "id": "194a708422ade0fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+                "file": "_posts/24-07-12-Windows 远程串流.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+                "file": "_posts/24-07-12-Windows 远程串流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md"
+                "file": "_posts/24-07-12-Windows 远程串流.md"
               }
             }
           },
@@ -138,52 +138,54 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "templates:插入模板": false
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "2cbeb6052b38a21e",
+  "active": "194a708422ade0fd",
   "lastOpenFiles": [
-    "_posts/23-04-12-服务器普通用户指南.md",
-    "_posts/23-09-03-奥本海默观后感.md",
+    "attachment/Pasted image 20240712215722.png",
+    "attachment/Pasted image 20240712215216.png",
+    "attachment/Pasted image 20240712215114.png",
+    "attachment/Pasted image 20240712214847.png",
+    "attachment/Pasted image 20240712214754.png",
+    "attachment/Pasted image 20240712214410.png",
+    "attachment/Pasted image 20240712214238.png",
+    "attachment/Pasted image 20240712213909.png",
+    "attachment/Pasted image 20240712213836.png",
+    "attachment/Pasted image 20240712213631.png",
+    "attachment/Pasted image 20240712213558.png",
     "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+    "_posts/24-07-12-Windows 远程串流.md",
+    "_posts/23-09-03-奥本海默观后感.md",
     "_posts/23-03-23-服务器管理员配置.md",
+    "_posts/23-04-12-服务器普通用户指南.md",
+    "_posts/23-09-02-赣味人家 & 茶话弄 & 高胖妹面庄.md",
+    "_posts/23-03-01-AltServer & iOS 微信双开.md",
+    "_posts/22-05-24-M1 环境配置.md",
     "_posts/_templete/post_templete.md",
     "_posts/22-10-30-macOS系统回退.md",
     "_site/post/230903.html",
     "_site/post/230902.html",
     "_site/post/230412.html",
     "_site/post/230323.html",
-    "_site/attachment/Pasted image 20230903212057.png",
-    "_site/attachment/Pasted image 20230903210433.png",
-    "_site/attachment/Pasted image 20230903210426.png",
-    "_site/attachment/Pasted image 20230903210421.png",
-    "_site/attachment/Pasted image 20230903210343.png",
-    "_site/attachment/Pasted image 20230903205314.png",
-    "_site/attachment/Pasted image 20230627183625.png",
-    "_site/attachment/Pasted image 20230627182933.png",
-    "_site/attachment/Pasted image 20230627182714.png",
-    "_site/attachment/Pasted image 20230627181351.png",
     "_posts/22-10-31-Mac微信双开.md",
-    "_posts/23-03-01-AltServer & iOS 微信双开.md",
     "_posts/23-09-03-赣味人家 & 茶话弄 & 高胖妹面庄.md",
     "_posts/23-09-04-奥本海默观后感.md",
     "_posts/22-11-19-Mac旋转显示器.md",
     "_posts/22-11-24-Mac & Matlab.md",
     "_posts/23-03-04-LaTeX &  Grammerly & AI.md",
-    "_posts/_templete/未命名.md",
     "_posts/21-11-24-校园网 & 黑群晖.md",
-    "_posts/22-05-24-M1 环境配置.md",
     "211019_Git 版本管理.md",
     "_posts/21-10-19-Git.md",
     "_posts/22-05-11-Windows Remote Desktop.md",
@@ -192,8 +194,6 @@
     "_posts/23-03-27-ARM Mac 机器学习环境配置.md",
     "_posts/22-09-08-欢迎.md",
     "_posts/22-09-07-Jeykll & Github Pages.md",
-    "_posts/22-06-15-Zotero WebDAV.md",
-    "_posts/22-04-02-天大邮箱 SMTP.md",
     "_site/post/230304.html",
     "_posts/_templete",
     "_site/post/200610.html",
