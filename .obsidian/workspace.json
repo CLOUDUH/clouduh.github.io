@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/24-07-12-Windows 远程串流.md",
+                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/24-07-12-Windows 远程串流.md",
+                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/24-07-12-Windows 远程串流.md"
+                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md"
               }
             }
           },
@@ -152,10 +152,8 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "fca31fd7783ef889",
+  "active": "ce5f9ba4af413aec",
   "lastOpenFiles": [
-    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
-    "_posts/23-09-03-奥本海默观后感.md",
     "_posts/24-07-12-Windows 远程串流.md",
     "attachment/Pasted image 20240712215722.png",
     "attachment/Pasted image 20240712215216.png",
@@ -167,6 +165,9 @@
     "attachment/Pasted image 20240712213909.png",
     "attachment/Pasted image 20240712213836.png",
     "attachment/Pasted image 20240712213631.png",
+    "_posts/23-03-01-Altserver & iOS 微信双开.md",
+    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+    "_posts/23-09-03-奥本海默观后感.md",
     "_posts/23-03-23-服务器管理员配置.md",
     "_posts/23-04-12-服务器普通用户指南.md",
     "_posts/23-09-02-赣味人家 & 茶话弄 & 高胖妹面庄.md",
@@ -192,7 +193,6 @@
     "_posts/22-01-02-Synology Drive.md",
     "_posts/23-03-27-ARM Mac 机器学习环境配置.md",
     "_posts/22-09-08-欢迎.md",
-    "_posts/22-09-07-Jeykll & Github Pages.md",
     "_site/post/230304.html",
     "_posts/_templete",
     "_site/post/200610.html",
