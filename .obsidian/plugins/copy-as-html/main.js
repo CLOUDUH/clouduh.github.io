@@ -3654,25 +3654,46 @@ __export(exports, {
 });
 var import_obsidian = __toModule(require("obsidian"));
 var showdown = __toModule(require_showdown());
+var DEFAULT_SETTINGS = {
+  removeBrackets: true,
+  removeEmphasis: false,
+  removeTags: false,
+  removeComments: false
+};
 var MarkdownToHTML = class extends import_obsidian.Plugin {
   onload() {
     return __async(this, null, function* () {
+      yield this.loadSettings();
       this.addCommand({
         id: "copy-as-html-command",
         name: "Copy as HTML command",
         editorCallback: (editor) => this.markdownToHTML(editor)
       });
+      this.addSettingTab(new MarkdownToHTMLSettingTab(this.app, this));
     });
   }
   markdownToHTML(editor) {
     const converter = new showdown.Converter();
     converter.setFlavor("github");
     converter.setOption("ellipsis", false);
-    const text = editor.getSelection();
-    const noBrackets = text.replace(/\[\[(?:[^\]]+\|)?([^\]]+)\]\]/g, "$1");
-    const html = converter.makeHtml(noBrackets).toString();
+    let text = editor.getSelection();
+    text = text.replace(/==/g, "");
+    text = text.replace(/\^\w+/g, "");
+    if (this.settings.removeBrackets) {
+      text = text.replace(/\[\[(.*?)\]\]/g, "$1");
+    }
+    if (this.settings.removeEmphasis) {
+      text = text.replace(/[*~]+(\w+)[*~]+/g, "$1");
+    }
+    if (this.settings.removeTags) {
+      text = text.replace(/#\w+/g, "");
+    }
+    if (this.settings.removeComments) {
+      text = text.replace(/%%.+%%/g, "");
+    }
+    const html = converter.makeHtml(text).toString();
     const withDivWrapper = `<!-- directives:[] -->
-			<div id="content">${html}</div>`;
+            <div id="content">${html}</div>`;
     const blob = new Blob([withDivWrapper], {
       type: ["text/plain", "text/html"]
     });
@@ -3682,7 +3703,43 @@ var MarkdownToHTML = class extends import_obsidian.Plugin {
     })];
     navigator.clipboard.write(data);
   }
+  loadSettings() {
+    return __async(this, null, function* () {
+      this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
+    });
+  }
+  saveSettings() {
+    return __async(this, null, function* () {
+      yield this.saveData(this.settings);
+    });
+  }
   onunload() {
+  }
+};
+var MarkdownToHTMLSettingTab = class extends import_obsidian.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.plugin = plugin;
+  }
+  display() {
+    let { containerEl } = this;
+    containerEl.empty();
+    new import_obsidian.Setting(containerEl).setName("Remove Wikilink brackets").setDesc("If enabled, removes wikilink brackets from copied text.").addToggle((toggle) => toggle.setValue(this.plugin.settings.removeBrackets).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.removeBrackets = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Remove text emphasis").setDesc("If enabled, removes text styling such as bold, italics, and highlights.").addToggle((toggle) => toggle.setValue(this.plugin.settings.removeEmphasis).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.removeEmphasis = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Remove hashtags").setDesc("If enabled, removes text immediately after a hashtag.").addToggle((toggle) => toggle.setValue(this.plugin.settings.removeTags).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.removeTags = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian.Setting(containerEl).setName("Remove comments").setDesc("If enabled, removes commented text.").addToggle((toggle) => toggle.setValue(this.plugin.settings.removeComments).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.removeComments = value;
+      yield this.plugin.saveSettings();
+    })));
   }
 };
 /*! showdown v 2.1.0 - 21-04-2022 */
