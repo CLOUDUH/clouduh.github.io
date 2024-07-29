@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+                "file": "_posts/24-07-12-Windows 远程串流.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+                "file": "_posts/24-07-12-Windows 远程串流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md"
+                "file": "_posts/24-07-12-Windows 远程串流.md"
               }
             }
           },
@@ -152,9 +152,16 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ce5f9ba4af413aec",
+  "active": "fca31fd7783ef889",
   "lastOpenFiles": [
+    "_posts/22-10-31-Mac微信双开.md",
+    "_posts/22-09-08-欢迎.md",
+    "_posts/23-03-04-LaTeX &  Grammerly & AI.md",
+    "_posts/23-03-01-Altserver & iOS 微信双开.md",
+    "_posts/23-04-12-服务器普通用户指南.md",
     "_posts/24-07-12-Windows 远程串流.md",
+    "attachment/Pasted image 20240729145715.png",
+    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
     "attachment/Pasted image 20240712215722.png",
     "attachment/Pasted image 20240712215216.png",
     "attachment/Pasted image 20240712215114.png",
@@ -164,12 +171,8 @@
     "attachment/Pasted image 20240712214238.png",
     "attachment/Pasted image 20240712213909.png",
     "attachment/Pasted image 20240712213836.png",
-    "attachment/Pasted image 20240712213631.png",
-    "_posts/23-03-01-Altserver & iOS 微信双开.md",
-    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
     "_posts/23-09-03-奥本海默观后感.md",
     "_posts/23-03-23-服务器管理员配置.md",
-    "_posts/23-04-12-服务器普通用户指南.md",
     "_posts/23-09-02-赣味人家 & 茶话弄 & 高胖妹面庄.md",
     "_posts/23-03-01-AltServer & iOS 微信双开.md",
     "_posts/22-05-24-M1 环境配置.md",
@@ -179,12 +182,10 @@
     "_site/post/230902.html",
     "_site/post/230412.html",
     "_site/post/230323.html",
-    "_posts/22-10-31-Mac微信双开.md",
     "_posts/23-09-03-赣味人家 & 茶话弄 & 高胖妹面庄.md",
     "_posts/23-09-04-奥本海默观后感.md",
     "_posts/22-11-19-Mac旋转显示器.md",
     "_posts/22-11-24-Mac & Matlab.md",
-    "_posts/23-03-04-LaTeX &  Grammerly & AI.md",
     "_posts/21-11-24-校园网 & 黑群晖.md",
     "211019_Git 版本管理.md",
     "_posts/21-10-19-Git.md",
@@ -192,7 +193,6 @@
     "_posts/20-06-10-Windows 软件安利.md",
     "_posts/22-01-02-Synology Drive.md",
     "_posts/23-03-27-ARM Mac 机器学习环境配置.md",
-    "_posts/22-09-08-欢迎.md",
     "_site/post/230304.html",
     "_posts/_templete",
     "_site/post/200610.html",

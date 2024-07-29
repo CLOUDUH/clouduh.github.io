@@ -9,12 +9,13 @@ permalink: /post/240712
 tags:
   - Windows
 ---
-
 # 利用 Sunshine 和 Moonlight 实现 Windows 远程串流
+
+![](../attachment/Pasted%20image%2020240729145715.png)
 
 ## Abstract
 
-本文利用 Sunshine 作为串流 HOST 端，并利用 MOONLIGHT 作为串流 CLIENT 端实现 WINDOWS 的远程串流。在校园网下实现了低延迟的远程游戏体验。
+本文利用 Sunshine 作为串流 HOST 端，并利用 Moonlight 作为串流 Client 端实现 Windows 的远程串流。在校园网下实现了低延迟的远程游戏体验。
 
 ## 1 Background
 
@@ -186,7 +187,7 @@ Sunshine 啥都好，就要求必须有一个实体显示器才能进行映射�
 
 [GitHub - KtzeAbyss/Easy-Virtual-Display: Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显卡欺骗。](https://github.com/KtzeAbyss/Easy-Virtual-Display)
 
-# 5 实机延迟测试
+# 6 实机延迟测试
 
 这是非局域网的延迟，我很惊讶为啥几乎看不到延迟。
 
