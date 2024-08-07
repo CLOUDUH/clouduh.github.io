@@ -16,13 +16,12 @@ tags:
 
 ## Abstract
 
-本文介绍了如何通过 AltStore 自签名实现 iOS 微信双开，首先使用通过 AltServer 电脑端（本文以 macOS 为例，后续可能会更新 Windows 版本）连接 iPhone 安装 AltStore，接着通过 iMazing 获取微信 IPA 文件进行自签安装，随后通过设置后台自动更新即可实现免费的 iOS 微信持续双开。
+本文介绍了如何通过 AltStore 自签名实现 iOS 微信双开，首先介绍了如何安装 AltStore 和 AltServer 软件，随后说明了 IPA 砸壳安装包的获取方式以及为了避免 URL 冲突而做出的代码修改，最后实现了 iOS 的微信双开以及后台的自动更新。
 
 优点：完全免费、不用担心数据安全、可以自动更新
-
 缺点：操作稍微复杂、单次更新最多使用7天、更新需要有电脑在身边。
 
-## 1 macOS 安装 AltServer
+## 1 电脑端安装 AltServer
 
 关于 AltStore：
 
@@ -34,7 +33,7 @@ tags:
 
 ### 1.1 下载安装
 
-官方提供了 macOS 和 Windows 两个版本，根据自己的需求进行下载安装。官网下载链接：[Welcome to AltStore](https://altstore.io/)
+官方提供了 macOS 和 Windows 两个版本，根据自己的需求进行下载安装，本篇文章以 macOS 为例子。官网下载链接：[Welcome to AltStore](https://altstore.io/) 
 
 下载安装完成后，AltServer 没有应用程序主界面，在电脑右上角的状态栏，能找到一个小小的图标。
 
@@ -92,15 +91,7 @@ AltServer 需要安装一个邮箱插件，直接安装即可。
 
 安装之前需要获取微信的安装包，理论上你是找不到微信的 IPA 安装包的，因为所有 iOS 软件的发行是通过 App Store 的，有自行折腾和网络获取两种方式，这里重点介绍如何获取安装包，自行折腾的砸壳方式不做具体介绍。
 
-### 3.1 网络资源下载
-
-这个网站的安装包是我觉得最良心的，提供的微信 IPA 基本上是纯净版，已经帮我们删掉了 WatchKit 和 Plugin 等影响安装的文件。不想折腾的小白就直接点这个下载吧。
-
-[DumpApp 网盘](https://pan.dumpapp.com/)
-
-![](../attachment/Pasted%20image%2020230627181351.png)
-
-### 3.2 通过 IPATool 的方式获取
+### 3.1 IPATool 自行砸壳
 
 本方法是基于终端操作的，通过 HomeBrew 安装工具，然后完全通过命令行进行下载。
 
@@ -128,6 +119,14 @@ ipatool download -b <bundleId>
 例如，微信就是 `com.tencent.xin`，输入命令就可以下载安装包到电脑中。
 
 **这个安装包是不能直接使用的，需要进一步砸壳才能使用**
+
+### 3.1 白嫖已有资源
+
+这个网站的安装包是我觉得最良心的，提供的微信 IPA 基本上是纯净版，已经帮我们删掉了 WatchKit 和 Plugin 等影响安装的文件。不想折腾的小白就直接点这个下载吧。
+
+[DumpApp 网盘](https://pan.dumpapp.com/)
+
+![](../attachment/Pasted%20image%2020230627181351.png)
 
 ## 4 修改 IPA 代码*
 

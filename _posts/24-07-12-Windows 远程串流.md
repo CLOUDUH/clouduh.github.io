@@ -15,7 +15,7 @@ tags:
 
 ## Abstract
 
-本文利用 Sunshine 作为串流 HOST 端，并利用 Moonlight 作为串流 Client 端实现 Windows 的远程串流。在校园网下实现了低延迟的远程游戏体验。
+本文利用 Sunshine 作为串流 Host 端，并利用 Moonlight 作为串流 Client 端实现 Windows 的远程串流。在校园网下实现了低延迟的远程游戏体验。
 
 ## 1 Background
 
@@ -132,6 +132,10 @@ Sunshine 支持 AMD、Intel、Nvidia GPU 硬件编码以及软件编码，可以
 > 这里感谢我校信网中心近几年的倾力付出，基本实现了高速 Wi-Fi6 无死角覆盖，让我随时随地在学校里看 NAS 上的 PLEX 和畅玩串流游戏。
 
 这部分内容比较麻烦，这里不做详细介绍了，给大家一个思路可以去自己琢磨一下。
+
+我的方案是校园网内的 DDNS，将校内获取的 IPv4 地址定到一个域名上，通过 NAS 中的 Docker 或者 ikuai 路由器自带的 DDNS 实现。这样只要在校园网环境内（通过 VPN 也可以实现），就可以获取到的 Host 端的 IP 地址。
+
+> 注意：市面上大多数的
 
 ## 3.2 UPnP 方案设置
 
