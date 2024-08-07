@@ -13,7 +13,7 @@ tags:
 
 # 使用 AltStore 实现 iOS 微信双开
 
-
+![](../attachment/Pasted%20image%2020240807174847.png)
 ## Abstract
 
 本文介绍了如何通过 AltStore 自签名实现 iOS 微信双开，首先介绍了如何安装 AltStore 和 AltServer 软件，随后说明了 IPA 砸壳安装包的获取方式以及为了避免 URL 冲突而做出的代码修改，最后实现了 iOS 的微信双开以及后台的自动更新。
@@ -81,7 +81,7 @@ AltServer 需要安装一个邮箱插件，直接安装即可。
 
 ![](../attachment/Pasted%20image%2020230304143517.png)
 
-### 2.3 登陆 AltStore
+### 2.3 登录 AltStore
 
 完成之后，AltStore 就可以正常打开了，输入账号密码登录 Apple ID。
 
@@ -104,7 +104,7 @@ brew tap majd/repo
 brew install ipatool
 ```
 
-登陆账户，会收到一个验证码
+登录账户，会收到一个验证码
 
 ```shell
 ipatool auth login -e <appleId> -p <password>
@@ -120,7 +120,7 @@ ipatool download -b <bundleId>
 
 **这个安装包是不能直接使用的，需要进一步砸壳才能使用**
 
-### 3.1 白嫖已有资源
+### 3.2 白嫖已有资源
 
 这个网站的安装包是我觉得最良心的，提供的微信 IPA 基本上是纯净版，已经帮我们删掉了 WatchKit 和 Plugin 等影响安装的文件。不想折腾的小白就直接点这个下载吧。
 
