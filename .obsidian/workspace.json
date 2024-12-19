@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/23-03-01-AltServer & iOS 微信双开.md",
+                "file": "_posts/24-12-24-群晖摄像头.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "24-12-24-群晖摄像头"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -71,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -94,10 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/23-03-01-AltServer & iOS 微信双开.md",
+                "file": "_posts/23-03-23-服务器管理员配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "23-03-23-服务器管理员配置 的出链列表"
             }
           },
           {
@@ -108,7 +120,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -117,8 +131,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/23-03-01-AltServer & iOS 微信双开.md"
-              }
+                "file": "_posts/24-12-24-群晖摄像头.md"
+              },
+              "icon": "lucide-list",
+              "title": "24-12-24-群晖摄像头 的大纲"
             }
           },
           {
@@ -130,7 +146,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
@@ -149,35 +167,38 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "fca31fd7783ef889",
   "lastOpenFiles": [
+    "_posts/24-07-12-Windows 远程串流.md",
+    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+    "_posts/24-12-24-群晖摄像头.md",
+    "attachment/Pasted image 20241219181741.png",
+    "attachment/Pasted image 20241219181630.png",
+    "attachment/Pasted image 20241219181439.png",
+    "attachment/Pasted image 20241219181254.png",
+    "attachment/Pasted image 20241219181050.png",
+    "attachment/Pasted image 20241219180022.png",
+    "attachment/Pasted image 20241219175605.png",
+    "attachment/Pasted image 20241219174936.png",
+    "attachment/Pasted image 20241219174715.png",
+    "attachment/Pasted image 20241219174458.png",
+    "_posts/_templete/未命名.md",
+    "_posts/23-03-23-服务器管理员配置.md",
+    "_posts/23-04-12-服务器普通用户指南.md",
+    "_posts/23-03-01-AltServer & iOS 微信双开.md",
     "_layouts/~$front_cover.pptx",
     "_layouts/front_cover.pptx",
-    "attachment/Pasted image 20240807174847.png",
-    "attachment/图片 1 1.png",
     "_posts/22-05-11-Windows Remote Desktop.md",
-    "_posts/24-07-12-Windows 远程串流.md",
     "_posts/22-10-31-Mac微信双开.md",
     "_posts/22-09-08-欢迎.md",
     "_posts/23-03-04-LaTeX &  Grammerly & AI.md",
     "_posts/23-03-01-Altserver & iOS 微信双开.md",
-    "_posts/23-04-12-服务器普通用户指南.md",
-    "attachment/Pasted image 20240729145715.png",
-    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
-    "attachment/Pasted image 20240712215722.png",
-    "attachment/Pasted image 20240712215216.png",
-    "attachment/Pasted image 20240712215114.png",
-    "attachment/Pasted image 20240712214847.png",
-    "attachment/Pasted image 20240712214754.png",
-    "attachment/Pasted image 20240712214410.png",
-    "attachment/Pasted image 20240712214238.png",
     "_posts/23-09-03-奥本海默观后感.md",
-    "_posts/23-03-23-服务器管理员配置.md",
     "_posts/23-09-02-赣味人家 & 茶话弄 & 高胖妹面庄.md",
-    "_posts/23-03-01-AltServer & iOS 微信双开.md",
     "_posts/22-05-24-M1 环境配置.md",
     "_posts/_templete/post_templete.md",
     "_posts/22-10-30-macOS系统回退.md",
@@ -193,12 +214,9 @@
     "211019_Git 版本管理.md",
     "_posts/21-10-19-Git.md",
     "_posts/20-06-10-Windows 软件安利.md",
-    "_posts/22-01-02-Synology Drive.md",
-    "_posts/23-03-27-ARM Mac 机器学习环境配置.md",
     "_site/post/230304.html",
     "_posts/_templete",
     "_site/post/200610.html",
-    "_site/2020/06/10/Windows-软件安利/index.html",
-    "_site/2020/06/10/Windows-软件安利"
+    "_site/2020/06/10/Windows-软件安利/index.html"
   ]
 }
