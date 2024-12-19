@@ -5,4 +5,4 @@ node_modules
 */*/.DS_Store
 *.sh
 .trash
-.obsidian/plugins/remotely-save/main.js:90
+.obsidian/plugins/remotely-save/main.js
