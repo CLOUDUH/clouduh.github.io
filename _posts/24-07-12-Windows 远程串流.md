@@ -9,12 +9,13 @@ permalink: /post/240712
 tags:
   - Windows
 ---
-
 # 利用 Sunshine 和 Moonlight 实现 Windows 远程串流
+
+![](../attachment/Pasted%20image%2020240729145715.png)
 
 ## Abstract
 
-本文利用 Sunshine 作为串流 HOST 端，并利用 MOONLIGHT 作为串流 CLIENT 端实现 WINDOWS 的远程串流。在校园网下实现了低延迟的远程游戏体验。
+本文利用 Sunshine 作为串流 Host 端，并利用 Moonlight 作为串流 Client 端实现 Windows 的远程串流。在校园网下实现了低延迟的远程游戏体验。
 
 ## 1 Background
 
@@ -132,6 +133,10 @@ Sunshine 支持 AMD、Intel、Nvidia GPU 硬件编码以及软件编码，可以
 
 这部分内容比较麻烦，这里不做详细介绍了，给大家一个思路可以去自己琢磨一下。
 
+我的方案是校园网内的 DDNS，将校内获取的 IPv4 地址定到一个域名上，通过 NAS 中的 Docker 或者 ikuai 路由器自带的 DDNS 实现。这样只要在校园网环境内（通过 VPN 也可以实现），就可以获取到的 Host 端的 IP 地址。
+
+> 注意：市面上大多数的
+
 ## 3.2 UPnP 方案设置
 
 进入 `网络设置——UPnP设置——UPnP设置`，开启 UPnP 服务，然后添加一条线路。
@@ -186,7 +191,7 @@ Sunshine 啥都好，就要求必须有一个实体显示器才能进行映射�
 
 [GitHub - KtzeAbyss/Easy-Virtual-Display: Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显卡欺骗。](https://github.com/KtzeAbyss/Easy-Virtual-Display)
 
-# 5 实机延迟测试
+# 6 实机延迟测试
 
 这是非局域网的延迟，我很惊讶为啥几乎看不到延迟。
 
