@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bfcf37aea54af871",
+        "id": "a1ca76b8e3f0c89f",
         "type": "tabs",
         "children": [
           {
-            "id": "56d29c69495bbe90",
+            "id": "4f51cffc8d6c39bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/24-12-24-群晖摄像头.md",
+                "file": "_posts/25-08-07-APC UPS 群晖与PVE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "24-12-24-群晖摄像头"
+              "title": "25-08-07-APC UPS 群晖与PVE"
             }
           }
         ]
@@ -132,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/24-12-24-群晖摄像头.md",
+                "file": "_posts/25-08-07-APC UPS 群晖与PVE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "24-12-24-群晖摄像头 的大纲"
+              "title": "25-08-07-APC UPS 群晖与PVE 的大纲"
             }
           },
           {
@@ -175,22 +175,24 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "56d29c69495bbe90",
+  "active": "4f51cffc8d6c39bd",
   "lastOpenFiles": [
-    "attachment/Pasted image 20250807164609.png",
-    "_posts/24-07-12-Windows 远程串流.md",
+    "attachment/Pasted image 20250811174900.png",
+    "attachment/Pasted image 20250811174100.png",
+    "attachment/Pasted image 20250811173847.png",
+    "attachment/Pasted image 20250811173726.png",
+    "attachment/Pasted image 20250811173706.png",
+    "attachment/Pasted image 20250811173359.png",
+    "attachment/Pasted image 20250811173329.png",
+    "attachment/Pasted image 20250811172245.png",
     "_posts/25-08-07-PVE安装.md",
-    "attachment/Pasted image 20250807155326.png",
-    "attachment/Pasted image 20250807154924.png",
-    "attachment/Pasted image 20250807152416.png",
-    "attachment/Pasted image 20250807152325.png",
-    "attachment/Pasted image 20250807152125.png",
-    "attachment/Pasted image 20250807151940.png",
-    "attachment/Pasted image 20250807151901.png",
-    "attachment/Pasted image 20250807151846.png",
-    "attachment/Pasted image 20250807151744.png",
-    "attachment/Pasted image 20250807151726.png",
+    "_posts/25-08-07-APC UPS 群晖与PVE.md",
+    "未命名.md",
+    "attachment/Pasted image 20250811171725.png",
+    "attachment/Pasted image 20250807165830.png",
+    "attachment/Pasted image 20250807165818.png",
     "_posts/24-12-24-群晖摄像头.md",
+    "_posts/24-07-12-Windows 远程串流.md",
     "_posts/25-04-18-微信平板登录.md",
     "_posts/_templete/post_templete.md",
     "_posts/_templete/未命名.md",
@@ -217,8 +219,6 @@
     "_posts/23-09-04-奥本海默观后感.md",
     "_posts/22-11-19-Mac旋转显示器.md",
     "_posts/22-11-24-Mac & Matlab.md",
-    "_posts/21-11-24-校园网 & 黑群晖.md",
-    "211019_Git 版本管理.md",
     "_site/post/230304.html",
     "_posts/_templete",
     "_site/post/200610.html",
