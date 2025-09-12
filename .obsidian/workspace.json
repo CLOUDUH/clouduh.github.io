@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "47ebd206fac36794",
+        "id": "c259a20857c86de3",
         "type": "tabs",
         "children": [
           {
-            "id": "4e201893b5679872",
+            "id": "06a7dd3ae8b59d49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/25-08-11-APC UPS 群晖与 PVE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "25-08-11-APC UPS 群晖与 PVE"
             }
           }
         ]
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "tag:#X",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +71,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -115,7 +120,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -127,12 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_posts/25-08-11-APC UPS 群晖与 PVE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "25-08-11-APC UPS 群晖与 PVE 的大纲"
             }
           },
           {
@@ -158,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "graph:查看关系图谱": false,
@@ -169,11 +178,36 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4e201893b5679872",
+  "active": "06a7dd3ae8b59d49",
   "lastOpenFiles": [
-    "_posts/25-08-07-PVE安装.md",
+    "_posts/25-09-12-群晖查看硬盘 SMART 信息.md",
+    "attachment/Pasted image 20250912151531.png",
     "_posts/25-08-11-APC UPS 群晖与 PVE.md",
+    "_posts/25-08-25-实验室白皮书.md",
     "_posts/25-04-18-微信平板登录.md",
+    "_posts/25-08-25-能源组代码规范.md",
+    "rs-test-folder-ymhOcnIvQed3WGbK8aOKj",
+    "rs-test-folder-stQTSoz5PWee-WL65rOOj",
+    "attachment/Pasted image 20250825112615.png",
+    "_posts/_templete/post_templete.md",
+    "_posts/22-09-07-Jeykll & Github Pages.md",
+    "_posts/22-03-28-Easy Scholar.md",
+    "_posts/22-04-02-天大邮箱 SMTP.md",
+    "_posts/22-05-11-Windows Remote Desktop.md",
+    "_posts/22-05-24-M1 环境配置.md",
+    "_posts/22-06-15-Zotero WebDAV.md",
+    "_posts/22-10-30-macOS系统回退.md",
+    "_posts/22-09-08-欢迎.md",
+    "_posts/22-11-24-Mac & Matlab.md",
+    "_posts/23-03-01-AltServer & iOS 微信双开.md",
+    "_posts/23-03-04-LaTeX &  Grammerly & AI.md",
+    "_posts/23-09-02-赣味人家 & 茶话弄 & 高胖妹面庄.md",
+    "_posts/23-09-03-奥本海默观后感.md",
+    "_posts/23-04-12-服务器普通用户指南.md",
+    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
+    "_posts/24-07-12-Windows 远程串流.md",
+    "_posts/25-08-07-PVE安装.md",
+    "_posts/24-12-24-群晖摄像头.md",
     "attachment/Pasted image 20250811174900.png",
     "attachment/Pasted image 20250811174100.png",
     "attachment/Pasted image 20250811173847.png",
@@ -183,38 +217,13 @@
     "attachment/Pasted image 20250811173329.png",
     "attachment/Pasted image 20250811172245.png",
     "未命名.md",
-    "attachment/Pasted image 20250811171725.png",
-    "attachment/Pasted image 20250807165830.png",
-    "_posts/24-12-24-群晖摄像头.md",
-    "_posts/24-07-12-Windows 远程串流.md",
-    "_posts/_templete/post_templete.md",
-    "_posts/_templete/未命名.md",
-    "_posts/23-09-03-奥本海默观后感.md",
-    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
-    "_posts/23-03-04-LaTeX &  Grammerly & AI.md",
-    "_posts/23-04-12-服务器普通用户指南.md",
-    "_posts/23-03-23-服务器管理员配置.md",
-    "_posts/23-03-01-AltServer & iOS 微信双开.md",
     "_layouts/~$front_cover.pptx",
     "_layouts/front_cover.pptx",
-    "_posts/22-05-11-Windows Remote Desktop.md",
-    "_posts/22-10-31-Mac微信双开.md",
-    "_posts/22-09-08-欢迎.md",
-    "_posts/23-03-01-Altserver & iOS 微信双开.md",
-    "_posts/23-09-02-赣味人家 & 茶话弄 & 高胖妹面庄.md",
-    "_posts/22-05-24-M1 环境配置.md",
-    "_posts/22-10-30-macOS系统回退.md",
     "_site/post/230903.html",
     "_site/post/230902.html",
     "_site/post/230412.html",
     "_site/post/230323.html",
-    "_posts/23-09-03-赣味人家 & 茶话弄 & 高胖妹面庄.md",
-    "_posts/23-09-04-奥本海默观后感.md",
-    "_posts/22-11-19-Mac旋转显示器.md",
-    "_posts/22-11-24-Mac & Matlab.md",
     "_site/post/230304.html",
-    "_posts/_templete",
-    "_site/post/200610.html",
-    "_site/2020/06/10/Windows-软件安利/index.html"
+    "_posts/_templete"
   ]
 }

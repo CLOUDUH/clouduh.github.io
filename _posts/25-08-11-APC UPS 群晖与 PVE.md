@@ -7,7 +7,8 @@ author: CLOUDUH
 header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
 permalink: /post/250811
 tags:
-  - X
+  - Homelab
+  - NAS
 ---
 
 # APC UPS 在群晖和 PVE 的部署
