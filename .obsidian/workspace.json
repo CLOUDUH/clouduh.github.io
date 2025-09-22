@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/25-09-17-Docker 安装与部署.md",
+                "file": "_posts/24-09-22-利用 Scrcpy 远程远程使用微信.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "25-09-17-Docker 安装与部署"
+              "title": "24-09-22-利用 Scrcpy 远程远程使用微信"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/25-09-17-Docker 安装与部署.md",
+                "file": "_posts/24-09-22-利用 Scrcpy 远程远程使用微信.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "25-09-17-Docker 安装与部署 的大纲"
+              "title": "24-09-22-利用 Scrcpy 远程远程使用微信 的大纲"
             }
           },
           {
@@ -180,22 +180,24 @@
   },
   "active": "a8d14d1f9b0eaa3e",
   "lastOpenFiles": [
+    "attachment/Pasted image 20250922224723.png",
+    "attachment/Pasted image 20250922224704.png",
+    "attachment/Pasted image 20250922224701.png",
+    "attachment/Pasted image 20250922224542.png",
+    "attachment/Pasted image 20250922224348.png",
+    "attachment/Pasted image 20250922224323.png",
+    "attachment/Pasted image 20250922224209.png",
+    "attachment/Pasted image 20250922224130.png",
+    "attachment/Pasted image 20250922224005.png",
+    "attachment/Pasted image 20250922223918.png",
+    "attachment/Pasted image 20250922223443.png",
+    "_posts/25-09-17-Docker 安装与部署.md",
+    "_posts/24-09-22-利用 Scrcpy 远程远程使用微信.md",
     "_posts/25-09-12-群晖查看硬盘 SMART 信息.md",
     "_posts/25-08-11-APC UPS 群晖与 PVE.md",
     "_posts/25-08-07-PVE 安装.md",
     "_posts/25-04-18-微信平板登录.md",
     "_posts/24-12-24-群晖摄像头.md",
-    "_posts/25-09-17-Docker 安装与部署.md",
-    "attachment/Pasted image 20250917111218.png",
-    "attachment/Pasted image 20250917111126.png",
-    "attachment/Pasted image 20250917111028.png",
-    "attachment/Pasted image 20250917103742.png",
-    "attachment/Pasted image 20250916211953.png",
-    "attachment/Pasted image 20250916210941.png",
-    "attachment/Pasted image 20250916205420.png",
-    "attachment/Pasted image 20250916204617.png",
-    "attachment/Pasted image 20250916202055.png",
-    "attachment/Pasted image 20250916202003.png",
     "_posts/25-08-25-实验室白皮书.md",
     "_posts/25-08-25-能源组代码规范.md",
     "rs-test-folder-ymhOcnIvQed3WGbK8aOKj",
@@ -216,7 +218,6 @@
     "_posts/23-09-03-奥本海默观后感.md",
     "_posts/23-04-12-服务器普通用户指南.md",
     "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
-    "_posts/24-07-12-Windows 远程串流.md",
     "_layouts/~$front_cover.pptx",
     "_layouts/front_cover.pptx",
     "_site/post/230903.html",
