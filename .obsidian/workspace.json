@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/24-09-22-利用 Scrcpy 远程远程使用微信.md",
+                "file": "_posts/24-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "24-09-22-利用 Scrcpy 远程远程使用微信"
+              "title": "24-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/24-09-22-利用 Scrcpy 远程远程使用微信.md",
+                "file": "_posts/24-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "24-09-22-利用 Scrcpy 远程远程使用微信 的大纲"
+              "title": "24-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机 的大纲"
             }
           },
           {
@@ -180,19 +180,19 @@
   },
   "active": "a8d14d1f9b0eaa3e",
   "lastOpenFiles": [
-    "attachment/Pasted image 20250922224723.png",
-    "attachment/Pasted image 20250922224704.png",
-    "attachment/Pasted image 20250922224701.png",
-    "attachment/Pasted image 20250922224542.png",
-    "attachment/Pasted image 20250922224348.png",
-    "attachment/Pasted image 20250922224323.png",
-    "attachment/Pasted image 20250922224209.png",
-    "attachment/Pasted image 20250922224130.png",
-    "attachment/Pasted image 20250922224005.png",
-    "attachment/Pasted image 20250922223918.png",
-    "attachment/Pasted image 20250922223443.png",
+    "attachment/Pasted image 20250923110522.png",
+    "attachment/Pasted image 20250923105952.png",
+    "attachment/Pasted image 20250923105938.png",
+    "attachment/Pasted image 20250923104919.png",
+    "attachment/Pasted image 20250923104603.png",
+    "attachment/Pasted image 20250923104417.png",
+    "attachment/Pasted image 20250923103841.png",
+    "attachment/Pasted image 20250923103014.png",
+    "attachment/Pasted image 20250923102405.png",
+    "attachment/Pasted image 20250923101718.png",
+    "attachment/Pasted image 20250923101452.png",
     "_posts/25-09-17-Docker 安装与部署.md",
-    "_posts/24-09-22-利用 Scrcpy 远程远程使用微信.md",
+    "_posts/24-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机.md",
     "_posts/25-09-12-群晖查看硬盘 SMART 信息.md",
     "_posts/25-08-11-APC UPS 群晖与 PVE.md",
     "_posts/25-08-07-PVE 安装.md",
