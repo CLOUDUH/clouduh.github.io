@@ -180,6 +180,17 @@
   },
   "active": "15c072f29d271240",
   "lastOpenFiles": [
+    "_layouts/cv.html",
+    "_layouts/page copy.html",
+    "_site/cv/index.html",
+    "_site/cv",
+    "_site/pages/cv.html",
+    "_site/pages",
+    "pages/cv.html",
+    "_site/page4/index.html",
+    "_site/page4",
+    "_site/page3/index.html",
+    "_site/page3",
     "_posts/25-09-12-群晖查看硬盘 SMART 信息.md",
     "_posts/25-09-17-Docker 安装与部署.md",
     "_posts/25-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机.md",
@@ -199,8 +210,6 @@
     "_posts/24-12-24-群晖摄像头.md",
     "_posts/25-08-25-实验室白皮书.md",
     "_posts/25-08-25-能源组代码规范.md",
-    "rs-test-folder-ymhOcnIvQed3WGbK8aOKj",
-    "rs-test-folder-stQTSoz5PWee-WL65rOOj",
     "_posts/_templete/post_templete.md",
     "_posts/22-09-07-Jeykll & Github Pages.md",
     "_posts/22-03-28-Easy Scholar.md",
@@ -216,14 +225,6 @@
     "_posts/23-09-02-赣味人家 & 茶话弄 & 高胖妹面庄.md",
     "_posts/23-09-03-奥本海默观后感.md",
     "_posts/23-04-12-服务器普通用户指南.md",
-    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md",
-    "_layouts/~$front_cover.pptx",
-    "_layouts/front_cover.pptx",
-    "_site/post/230903.html",
-    "_site/post/230902.html",
-    "_site/post/230412.html",
-    "_site/post/230323.html",
-    "_site/post/230304.html",
-    "_posts/_templete"
+    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md"
   ]
 }
