@@ -27,14 +27,10 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
     }
 
     .page {
-      max-width: 960px;
-      margin: 24px auto;
-      padding: 24px 28px 32px;
-      background-color: #ffffff;
-      box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
-      border-radius: 10px;
-    }
-
+	  width:95% !important;
+	  max-width:95% !important;
+	  margin:24px auto !important;
+	}
     /* Header */
 
     .header {
@@ -62,12 +58,11 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
       font-weight: 500;
       color: #555;
       text-transform: none;
-      margin-bottom: 8px;
     }
 
     .contact {
       font-size: 16px;
-      margin-top: 8px;
+      margin-top: 0px;
       color: #333;
     }
 
@@ -87,7 +82,7 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
     /* Sections */
 
     .section {
-      margin-top: 12px;
+      margin-top: 0px;
     }
 
     .section-title {
@@ -176,27 +171,24 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
     .pub-keywords {
       font-size: 16px;
       color: #555;
-      margin-left: 18px;
+      margin-left: 0px;
       margin-top: 2px;
     }
 
     /* Skills */
 
     .skills-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 4px 24px;
-      margin-top: 4px;
+      display: block;
     }
 
     .skills-row-label {
       font-weight: 600;
-      font-size: 15px;
+      font-size: 16px;
       margin-right: 4px;
     }
 
     .skills-row {
-      font-size: 15px;
+      font-size: 16px;
     }
 
     /* Projects */
@@ -216,7 +208,7 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
       display: flex;
       justify-content: space-between;
       gap: 16px;
-      margin-bottom: 4px;
+      margin-bottom: 0px;
     }
 
     .project-main {
@@ -232,7 +224,7 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
     .project-role {
       font-size: 16px;
       color: #555;
-      margin-bottom: 2px;
+      margin-bottom: 0px;
     }
 
     .project-side {
@@ -246,6 +238,35 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
     .project ul {
       margin-top: 4px;
     }
+
+	.project-body {
+	display:flex;
+	align-items:flex-start;
+	gap:16px;
+	margin-top:0px;
+	}
+
+	.project-image {
+	flex:0 0 auto;
+	}
+
+	.project-image img {
+	width:360px;
+	max-width:100%;
+	height:auto;
+	display:block;
+	}
+
+	.project-list {
+	margin-top:0;
+	}
+
+	@media (max-width: 768px) {
+	.project-body {
+		flex-direction:column;
+	}
+	}
+	
 
     /* Small screen */
 
@@ -276,7 +297,51 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
         padding: 18px 16px 24px;
       }
     }
-  </style>
+  
+/* === Overrides for unified style === */
+.header { border-bottom: none !important; }
+
+.section { margin-top:24px !important; }
+
+.section-title {
+  font-size:20px !important;
+  font-weight:700 !important;
+  letter-spacing:0.1em;
+  text-transform:uppercase;
+  color:#000 !important;
+  padding-bottom:4px;
+  border-bottom:1px solid #ddd;
+  margin:24px 0 8px !important;
+}
+
+.item-title, .project-title {
+  font-size:18px !important;
+  font-weight:700 !important;
+  color:#000 !important;
+  margin:4px 0 !important;
+}
+
+.item-subtitle, .project-role {
+  font-size:16px !important;
+  font-weight:400 !important;
+  color:#777 !important;
+  margin:4px 0 !important;
+}
+
+.text-level-4 {
+  font-size:16px !important;
+  font-weight:400 !important;
+  color:#000 !important;
+  margin:4px 0 !important;
+}
+
+ul { padding-left:18px !important; margin:4px 0 0 !important;}
+li { margin-bottom:4px !important;}
+
+.item, .project, .pub-item { margin-bottom:12px !important;}
+/* === End overrides === */
+
+</style>
 </head>
 <body>
 <div class="page">
@@ -291,8 +356,8 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
       </div>
       <div class="contact">
         Address: No. 92 Weijin Road, Nankai District, Tianjin, China<br>
-		Telephone: (+86) 13954349756<br>
-		Email: <a href="mailto:clouduh@tju.edu.cn">clouduh@tju.edu.cn</a>
+		Telephone: (+86) 1XXXXXXXXX<br>
+		Email: <a href="mailto:clouduh@tju.edu.cn">clouduh@tju.edu.cn</a> (Work), <a href="mailto:clouduh@outlook.com">clouduh@outlook.com</a> (Personal)
       </div>
     </div>
     <div class="avatar">
@@ -356,7 +421,7 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
               B.E. in Vehicle Engineering (Program for Excellent Engineers)
             </div>
             <ul>
-              <li>Grades: GPA 3.6/4.0, ranked 1st of 59 in comprehensive evaluation.</li>
+              <li class="text-level-4">Grades: GPA 3.6/4.0, ranked 1st of 59 in comprehensive evaluation.</li>
               <li>Responsibilities: Class Monitor; Student Union President; Yan Xiang Racing Team Leader.</li>
               <li>Awards: China National Scholarship; China National Encouragement Scholarship; Provincial Three-Good Student Award; Outstanding Graduate; First-Class Graduate Scholarship.</li>
               <li>Recommended for direct admission to a master&rsquo;s program.</li>
@@ -421,48 +486,32 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
     <div class="section-title">Projects</div>
     <div class="section-content">
 
-      <div class="project">
+	  <div class="project">
         <div class="project-header">
           <div class="project-main">
             <div class="project-title">
-              DRL-Based Energy Flow Scheduling and Hardware Implementation
+              Electric Formula Vehicle Design, Manufacture, and Control
             </div>
             <div class="project-role">
-              Research Project Funded by National Government Agency, Project Manager
+              Formula Student Electric China, Yan Xiang Racing Team, Team Leader
             </div>
           </div>
           <div class="project-side">
-            <div>Oct 2022 &ndash; Mar 2025</div>
+            <div>Dec 2017 &ndash; Nov 2020</div>
           </div>
         </div>
-        <ul>
-          <li>Participated in many business projects and the application work for the NSFC programs.</li>
-          <li>Integrated near-space UAV flight environmental simulation into the hardware to emulate solar irradiance and propulsion loads.</li>
-          <li>Deployed deep reinforcement learning on a Huawei Atlas module (comparable to an NVIDIA Jetson Nano) with PyTorch and Stable-Baselines3, enabling continuous day and night energy-storage management.</li>
-          <li>Ran over one month of uninterrupted simulation testing to validate algorithm feasibility and robustness.</li>
-        </ul>
-      </div>
-
-      <div class="project">
-        <div class="project-header">
-          <div class="project-main">
-            <div class="project-title">
-              Energy Storage Scheduling and Cooperative Control for Near-Space UAVs
-            </div>
-            <div class="project-role">
-              National Natural Science Foundation (NSFC) Key Program, Core Researcher
-            </div>
-          </div>
-          <div class="project-side">
-            <div>Aug 2021 &ndash; Dec 2024</div>
-          </div>
+		<div class="project-body">
+  		  <div class="project-image">
+            <img src="https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-img/prj-1.png">
+          </div>		
+          <ul>
+            <li>2018 &amp; 2019 Formula Student Electric China National Third Prize; 2019 Challenge Cup Competition of Science Achievement National Third Prize.</li>
+            <li>Led a student team to design, build, and race an electric formula car.</li>
+            <li>Owned electrical system architecture and design: sensor and control harnesses, battery pack, and high-voltage traction components.</li>
+            <li>Developed battery management strategies and traction control algorithms, and analyzed telemetry to support mechanical tuning and performance validation.</li>
+          </ul>
         </div>
-        <ul>
-          <li>Established a laboratory battery test platform, completed battery HPPC and cycle charge-discharge tests under different operating conditions, and thereby established a three-dimensional coupled battery model.</li>
-          <li>Proposed a combined charging strategy under photovoltaic constraints to improve charging efficiency while reducing the aging speed of the battery.</li>
-          <li>Developed a health-aware multi-node energy balancing algorithm that balances state-of-charge balancing speed and battery aging speed.</li>
-        </ul>
-      </div>
+	  </div>
 
       <div class="project">
         <div class="project-header">
@@ -478,34 +527,70 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
             <div>Nov 2020 &ndash; Apr 2023</div>
           </div>
         </div>
-        <ul>
-          <li>Designed the system communications architecture, including CAN, NI-VISA, and TCP/IP protocols and the network topology.</li>
-          <li>Built a PyQt-based MVC host application for system monitoring, data acquisition, device control, and deployment of custom algorithms.</li>
-          <li>Developed an adaptive energy scheduling algorithm that prioritizes node energy states to meet real-time requirements and balance load, and quickly isolates fault nodes to maintain system stability and availability.</li>
-        </ul>
-      </div>
+		<div class="project-body">
+  		  <div class="project-image">
+            <img src="https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-img/prj-2.png">
+          </div>		
+          <ul>
+            <li>Designed the system communications architecture, including CAN, NI-VISA, and TCP/IP protocols and the network topology.</li>
+            <li>Built a PyQt-based MVC host application for system monitoring, data acquisition, device control, and deployment of custom algorithms.</li>
+            <li>Developed an adaptive energy scheduling algorithm that prioritizes node energy states to meet real-time requirements and balance load, and quickly isolates fault nodes to maintain system   stability and availability.</li>
+     	  </ul>
+        </div>
+	  </div>
 
       <div class="project">
         <div class="project-header">
           <div class="project-main">
             <div class="project-title">
-              Electric Formula Vehicle Design, Manufacture, and Control
+              DRL-Based Energy Flow Scheduling and Hardware Implementation
             </div>
             <div class="project-role">
-              Formula Student Electric China, Yan Xiang Racing Team, Team Leader
+              Research Project Funded by National Government Agency, Project Manager
             </div>
           </div>
           <div class="project-side">
-            <div>Dec 2017 &ndash; Nov 2020</div>
+            <div>Oct 2022 &ndash; Mar 2025</div>
           </div>
         </div>
-        <ul>
-          <li>2018 &amp; 2019 Formula Student Electric China National Third Prize; 2019 Challenge Cup Competition of Science Achievement National Third Prize.</li>
-          <li>Led a student team to design, build, and race an electric formula car.</li>
-          <li>Owned electrical system architecture and design: sensor and control harnesses, battery pack, and high-voltage traction components.</li>
-          <li>Developed battery management strategies and traction control algorithms, and analyzed telemetry to support mechanical tuning and performance validation.</li>
-        </ul>
-      </div>
+		<div class="project-body">
+  		  <div class="project-image">
+            <img src="https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-img/prj-3.png">
+          </div>		
+          <ul>
+            <li>Participated in many business projects and the application work for the NSFC programs.</li>
+            <li>Integrated near-space UAV flight environmental simulation into the hardware to emulate solar irradiance and propulsion loads.</li>
+            <li>Deployed deep reinforcement learning on a Huawei Atlas module (comparable to an NVIDIA Jetson Nano) with PyTorch and Stable-Baselines3, enabling continuous day and night energy-storage   management.</li>
+            <li>Ran over one month of uninterrupted simulation testing to validate algorithm feasibility and robustness.</li>
+          </ul>
+        </div>
+	  </div>
+
+      <div class="project">
+        <div class="project-header">
+          <div class="project-main">
+            <div class="project-title">
+              Energy Storage Scheduling and Cooperative Control for Near-Space UAVs
+            </div>
+            <div class="project-role">
+              National Natural Science Foundation (NSFC) Key Program, Core Researcher
+            </div>
+          </div>
+          <div class="project-side">
+            <div>Aug 2021 &ndash; Dec 2024</div>
+          </div>
+        </div>
+		<div class="project-body">
+  		  <div class="project-image">
+            <img src="https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-img/prj-4.png">
+          </div>		
+          <ul>
+            <li>Established a laboratory battery test platform, completed battery HPPC and cycle charge-discharge tests under different operating conditions, and thereby established a three-dimensional coupled battery model.</li>
+            <li>Proposed a combined charging strategy under photovoltaic constraints to improve charging efficiency while reducing the aging speed of the battery.</li>
+            <li>Developed a health-aware multi-node energy balancing algorithm that balances state-of-charge balancing speed and battery aging speed.</li>
+          </ul>
+        </div>
+	  </div>   
 
     </div>
   </section>
@@ -524,20 +609,20 @@ header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
           NCRE Level 2 | Python | MATLAB | Simscape | Qt | PyTorch
         </div>
         <div class="skills-row">
-          <span class="skills-row-label">Hobbies:</span>
-          Sports | Photography | HomeLab
-        </div>
-        <div class="skills-row">
           <span class="skills-row-label">Hardware:</span>
           STM32 | DSP | RapidECU | NVIDIA Jetson | ESXi Server
         </div>
         <div class="skills-row">
-          <span class="skills-row-label">Title:</span>
-          CAA TJU Student Branch Member | Shandong Doctoral Students Association Deputy Minister | CETC-18 intern
+          <span class="skills-row-label">Work:</span>
+          CAA TJU Student Branch Member | Shandong Doctoral Students Association Deputy Minister | The 18th Research Institute of China Electronics Technology Group Corporation Limited intern
         </div>
         <div class="skills-row">
           <span class="skills-row-label">Experience:</span>
           Organized multiple large-scale academic events | Managed team publicity and social media accounts
+        </div>
+		<div class="skills-row">
+          <span class="skills-row-label">Hobbies:</span>
+          Sports | Photography | HomeLab
         </div>
       </div>
     </div>
