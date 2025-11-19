@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/25-09-17-Docker 安装与部署.md",
+                "file": "_posts/25-11-17-群晖数据备份.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "25-09-17-Docker 安装与部署"
+              "title": "25-11-17-群晖数据备份"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/25-09-17-Docker 安装与部署.md",
+                "file": "_posts/25-11-17-群晖数据备份.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "25-09-17-Docker 安装与部署 的大纲"
+              "title": "25-11-17-群晖数据备份 的大纲"
             }
           },
           {
@@ -180,6 +180,20 @@
   },
   "active": "15c072f29d271240",
   "lastOpenFiles": [
+    "attachment/Pasted image 20251119163228.png",
+    "attachment/Pasted image 20251119154348.png",
+    "attachment/Pasted image 20251119154242.png",
+    "attachment/Pasted image 20251119154206.png",
+    "attachment/Pasted image 20251119154128.png",
+    "attachment/Pasted image 20251119153544.png",
+    "attachment/Pasted image 20251119153038.png",
+    "attachment/Pasted image 20251119152356.png",
+    "attachment/Pasted image 20251119152318.png",
+    "attachment/Pasted image 20251119151022.png",
+    "attachment/Pasted image 20251119151017.png",
+    "_posts/25-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机.md",
+    "_posts/25-11-17-群晖数据备份.md",
+    "_posts/25-09-17-Docker 安装与部署.md",
     "_layouts/cv.html",
     "_layouts/page copy.html",
     "_site/cv/index.html",
@@ -190,20 +204,7 @@
     "_site/page4/index.html",
     "_site/page4",
     "_site/page3/index.html",
-    "_site/page3",
     "_posts/25-09-12-群晖查看硬盘 SMART 信息.md",
-    "_posts/25-09-17-Docker 安装与部署.md",
-    "_posts/25-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机.md",
-    "attachment/Pasted image 20250923110522.png",
-    "attachment/Pasted image 20250923105952.png",
-    "attachment/Pasted image 20250923105938.png",
-    "attachment/Pasted image 20250923104919.png",
-    "attachment/Pasted image 20250923104603.png",
-    "attachment/Pasted image 20250923104417.png",
-    "attachment/Pasted image 20250923103841.png",
-    "attachment/Pasted image 20250923103014.png",
-    "attachment/Pasted image 20250923102405.png",
-    "attachment/Pasted image 20250923101718.png",
     "_posts/25-08-11-APC UPS 群晖与 PVE.md",
     "_posts/25-08-07-PVE 安装.md",
     "_posts/25-04-18-微信平板登录.md",
@@ -224,7 +225,6 @@
     "_posts/23-03-04-LaTeX &  Grammerly & AI.md",
     "_posts/23-09-02-赣味人家 & 茶话弄 & 高胖妹面庄.md",
     "_posts/23-09-03-奥本海默观后感.md",
-    "_posts/23-04-12-服务器普通用户指南.md",
-    "_posts/24-01-21-解决 macOS 音频核心占用导致卡顿的问题.md"
+    "_posts/23-04-12-服务器普通用户指南.md"
   ]
 }
