@@ -4,7 +4,6 @@ title: CV
 description: Yunhao Du's Curriculum Vitae
 permalink: /cv/
 header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
-publish: false
 ---
 
 <!DOCTYPE html>
