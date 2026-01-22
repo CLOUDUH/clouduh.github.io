@@ -631,3 +631,637 @@ li { margin-bottom:4px !important;}
 </div>
 </body>
 </html>
+---
+layout: cv
+title: CV
+description: Yunhao Du's Curriculum Vitae
+permalink: /cv/
+header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-bg.jpg
+publish: false
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CV · Yunhao Du</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    .page {
+	  width:95% !important;
+	  max-width:95% !important;
+	  margin:24px auto !important;
+	}
+    /* Header */
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      gap: 24px;
+      padding-bottom: 16px;
+      border-bottom: 2px solid #e6e6e6;
+    }
+
+    .header-main {
+      flex: 1 1 auto;
+    }
+
+    .name {
+      font-size: 32px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      margin: 0 0 4px;
+    }
+
+    .tagline {
+      font-size: 16px;
+      font-weight: 500;
+      color: #555;
+      text-transform: none;
+    }
+
+    .contact {
+      font-size: 16px;
+      margin-top: 0px;
+      color: #333;
+    }
+
+    .avatar {
+      flex: 0 0 200px;
+      text-align: right;
+    }
+
+    .avatar img {
+      width: 120px;
+      height: 160px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #e0e0e0;
+    }
+
+    /* Sections */
+
+    .section {
+      margin-top: 0px;
+    }
+
+    .section-title {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #333;
+      padding-bottom: 4px;
+      border-bottom: 1px solid #ddd;
+      margin-bottom: 6px;
+    }
+
+    .section-content {
+      font-size: 16px;
+    }
+
+    /* Timeline / items */
+
+    .item {
+      margin-bottom: 2px;
+    }
+
+    .item-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 0px;
+    }
+
+    .item-main {
+      flex: 1 1 auto;
+    }
+
+    .item-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+
+    .item-subtitle {
+      font-size: 16px;
+      color: #444;
+      margin-bottom: 2px;
+    }
+
+    .item-meta {
+      font-size: 16px;
+      color: #666;
+      margin-bottom: 4px;
+    }
+
+    .item-side {
+      flex: 0 0 160px;
+      text-align: right;
+      font-size: 16px;
+      color: #555;
+      white-space: nowrap;
+    }
+
+    .item-side div {
+      margin-bottom: 2px;
+    }
+
+    ul {
+      padding-left: 18px;
+      margin: 4px 0 0;
+    }
+
+    li {
+      margin-bottom: 2px;
+    }
+
+    /* Publications */
+
+    .pub-item {
+      margin-bottom: 10px;
+    }
+
+    .pub-title {
+      font-size: 16px;
+      font-weight: 500;
+	  margin-left: 2em;
+	  text-indent: -2em;
+    }
+
+    .pub-keywords {
+      font-size: 16px;
+      color: #555;
+      margin-left: 0px;
+      margin-top: 2px;
+    }
+
+    /* Skills */
+
+    .skills-grid {
+      display: block;
+    }
+
+    .skills-row-label {
+      font-weight: 600;
+      font-size: 16px;
+      margin-right: 4px;
+    }
+
+    .skills-row {
+      font-size: 16px;
+    }
+
+    /* Projects */
+
+    .project {
+      margin-bottom: 14px;
+      padding-bottom: 8px;
+      border-bottom: 1px dashed #e2e2e2;
+    }
+
+    .project:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .project-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 0px;
+    }
+
+    .project-main {
+      flex: 1 1 auto;
+    }
+
+    .project-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+
+    .project-role {
+      font-size: 16px;
+      color: #555;
+      margin-bottom: 0px;
+    }
+
+    .project-side {
+      flex: 0 0 180px;
+      text-align: right;
+      font-size: 16px;
+      color: #555;
+      white-space: nowrap;
+    }
+
+    .project ul {
+      margin-top: 4px;
+    }
+
+	.project-body {
+	display:flex;
+	align-items:flex-start;
+	gap:16px;
+	margin-top:0px;
+	}
+
+	.project-image {
+	flex:0 0 auto;
+	}
+
+	.project-image img {
+	width:360px;
+	max-width:100%;
+	height:auto;
+	display:block;
+	}
+
+	.project-list {
+	margin-top:0;
+	}
+
+	@media (max-width: 768px) {
+	.project-body {
+		flex-direction:column;
+	}
+	}
+	
+
+    /* Small screen */
+
+    @media (max-width: 700px) {
+      .header {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+      }
+
+      .avatar {
+        text-align: left;
+      }
+
+      .item-header,
+      .project-header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .item-side,
+      .project-side {
+        text-align: left;
+        white-space: normal;
+      }
+
+      .page {
+        margin: 12px;
+        padding: 18px 16px 24px;
+      }
+    }
+  
+/* === Overrides for unified style === */
+.header { border-bottom: none !important; }
+
+.section { margin-top:24px !important; }
+
+.section-title {
+  font-size:20px !important;
+  font-weight:700 !important;
+  letter-spacing:0.1em;
+  text-transform:uppercase;
+  color:#000 !important;
+  padding-bottom:4px;
+  border-bottom:1px solid #ddd;
+  margin:24px 0 8px !important;
+}
+
+.item-title, .project-title {
+  font-size:18px !important;
+  font-weight:700 !important;
+  color:#000 !important;
+  margin:4px 0 !important;
+}
+
+.item-subtitle, .project-role {
+  font-size:16px !important;
+  font-weight:400 !important;
+  color:#777 !important;
+  margin:4px 0 !important;
+}
+
+.text-level-4 {
+  font-size:16px !important;
+  font-weight:400 !important;
+  color:#000 !important;
+  margin:4px 0 !important;
+}
+
+ul { padding-left:18px !important; margin:4px 0 0 !important;}
+li { margin-bottom:4px !important;}
+
+.item, .project, .pub-item { margin-bottom:12px !important;}
+/* === End overrides === */
+
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-main">
+      <h1 class="name">Yunhao Du</h1>
+      <div class="tagline">
+        Tianjin Key Laboratory of Intelligent Unmanned Swarm Technology and System<br> 
+		School of Electrical and Information Engineering, Tianjin University
+      </div>
+      <div class="contact">
+        Address: No. 92 Weijin Road, Nankai District, Tianjin, China<br>
+		Telephone: (+86) 1XXXXXXXXX<br>
+		Email: <a href="mailto:clouduh@tju.edu.cn">clouduh@tju.edu.cn</a> (Work), <a href="mailto:clouduh@outlook.com">clouduh@outlook.com</a> (Personal)
+      </div>
+    </div>
+    <div class="avatar">
+      <img src="https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-img/cv-ava.jpg" alt="Profile photo">
+    </div>
+  </header>
+
+    <!-- Research Interests -->
+  <section class="section">
+    <div class="section-title">Research Interests</div>
+    <div class="section-content">
+      <div class="item">
+        <div class="item-title">
+          Near-Space Solar-Powered Unmanned Aerial Vehicle Energy Storage Management
+        </div>
+        <ul>
+          <li>Storage battery modeling and state estimation.</li>
+          <li>Health-aware battery charge/discharge strategy optimization.</li>
+          <li>Deep reinforcement learning for energy management.</li>
+          <li>Imitation learning from expert demonstrations.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Education & Awards -->
+  <section class="section">
+    <div class="section-title">Education &amp; Awards</div>
+    <div class="section-content">
+		
+
+      <div class="item">
+        <div class="item-header">
+          <div class="item-main">
+            <div class="item-title">
+              School of Electrical and Information Engineering, Tianjin University
+            </div>
+            <div class="item-subtitle">
+              Ph.D. student in Control Science and Engineering (Program for Successive M.E. and Ph.D.)
+            </div>
+            <ul>
+			  <li>Supervisor: Prof. Zhiqiang Zuo, Director of the Tianjin Key Laboratory of IUSTS</li>
+              <li>Responsibilities: Class Monitor; CAA Tianjin University Student Branch Executive Member.</li>
+              <li>Awards: Three-Good Student Award; Outstanding Paper Award at the CAA Doctoral Academic Forum; First-Class Graduate Scholarship.</li>
+            </ul>
+          </div>
+          <div class="item-side">
+            <div>Aug 2021 &ndash; Present</div>
+            <div>Tianjin, China</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="item-header">
+          <div class="item-main">
+            <div class="item-title">
+              School of Vehicles and Energy, Yanshan University
+            </div>
+            <div class="item-subtitle">
+              B.E. in Vehicle Engineering (Program for Excellent Engineers)
+            </div>
+            <ul>
+              <li class="text-level-4">Grades: GPA 3.6/4.0, ranked 1st of 59 in comprehensive evaluation.</li>
+              <li>Responsibilities: Class Monitor; Student Union President; Yan Xiang Racing Team Leader.</li>
+              <li>Awards: China National Scholarship; China National Encouragement Scholarship; Provincial Three-Good Student Award; Outstanding Graduate; First-Class Graduate Scholarship.</li>
+              <li>Recommended for direct admission to a master&rsquo;s program.</li>
+            </ul>
+          </div>
+          <div class="item-side">
+            <div>Aug 2017 &ndash; Jun 2021</div>
+            <div>Hebei, China</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Publications -->
+  <section class="section">
+    <div class="section-title">Publications</div>
+    <div class="section-content">
+
+      <div class="pub-item">
+        <div class="pub-title">
+          [1] Yunhao Du, Zhicheng Zhang, Zhiqiang Zuo, Yijing Wang, Lithium Battery Charging Optimization via Multi-Stage Combined Charging Strategy in Solar-Powered Vehicles, <i>Journal of Energy Storage</i>, 83: 110716, 2024.
+        </div>
+        <div class="pub-keywords">
+          Keywords: multi-objective charging optimization; battery coupling model; custom charging anxiety index.
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-title">
+          [2] Yunhao Du, Zhiqiang Zuo, Zhicheng Zhang, Peng Li, Yijing Wang, Rui Zhao, Zheng Li, Task-Oriented Energy Storage Management for Solar-Powered UAVs: An Enhanced Multi-Objective Deep Reinforcement Learning Approach, <i>64th IEEE Conference on Decision and Control (CDC)</i>, 2025. [Accepted]
+        </div>
+        <div class="pub-keywords">
+          Keywords: three-dimensional battery model; multi-objective energy management; deep reinforcement learning.
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-title">
+          [3] Zhiqiang Zuo, Yunhao Du, Yijing Wang, Zhicheng Zhang, Peng Li, State-of-Charge Balancing Control for Battery Energy Storage Systems of Near-Space Vehicles with an Electric-Thermal-Aging Coupling Model, <i>2023 42nd Chinese Control Conference (CCC)</i>, 2023: 1853&ndash;1858.
+        </div>
+        <div class="pub-keywords">
+          Keywords: state-of-charge balancing; battery coupling model; receding horizon control.
+        </div>
+      </div>
+
+      <div class="pub-item">
+        <div class="pub-title">
+          [4] Yunhao Du, Zhiqiang Zuo, Zhicheng Zhang, Peng Li, Health- and Dynamics-Constrained Energy Management for Solar-Powered UAVs based on Enhanced TD3 from Demonstrations. [Under Review]
+        </div>
+        <div class="pub-keywords">
+          Keywords: exponential-dilated multi-step TD3; reinforcement learning from demonstrations; gravity energy storage.
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Projects -->
+  <section class="section">
+    <div class="section-title">Projects</div>
+    <div class="section-content">
+
+	  <div class="project">
+        <div class="project-header">
+          <div class="project-main">
+            <div class="project-title">
+              Electric Formula Vehicle Design, Manufacture, and Control
+            </div>
+            <div class="project-role">
+              Formula Student Electric China, Yan Xiang Racing Team, Team Leader
+            </div>
+          </div>
+          <div class="project-side">
+            <div>Dec 2017 &ndash; Nov 2020</div>
+          </div>
+        </div>
+		<div class="project-body">
+  		  <div class="project-image">
+            <img src="https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-img/prj-1.png">
+          </div>		
+          <ul>
+            <li>2018 &amp; 2019 Formula Student Electric China National Third Prize; 2019 Challenge Cup Competition of Science Achievement National Third Prize.</li>
+            <li>Led a student team to design, build, and race an electric formula car.</li>
+            <li>Owned electrical system architecture and design: sensor and control harnesses, battery pack, and high-voltage traction components.</li>
+            <li>Developed battery management strategies and traction control algorithms, and analyzed telemetry to support mechanical tuning and performance validation.</li>
+          </ul>
+        </div>
+	  </div>
+
+      <div class="project">
+        <div class="project-header">
+          <div class="project-main">
+            <div class="project-title">
+              Distributed Autonomous Energy Supply System Collaboration and Scheduling
+            </div>
+            <div class="project-role">
+              13th Five-Year Plan Equipment Pre-Research Project, Core Researcher
+            </div>
+          </div>
+          <div class="project-side">
+            <div>Nov 2020 &ndash; Apr 2023</div>
+          </div>
+        </div>
+		<div class="project-body">
+  		  <div class="project-image">
+            <img src="https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-img/prj-2.png">
+          </div>		
+          <ul>
+            <li>Designed the system communications architecture, including CAN, NI-VISA, and TCP/IP protocols and the network topology.</li>
+            <li>Built a PyQt-based MVC host application for system monitoring, data acquisition, device control, and deployment of custom algorithms.</li>
+            <li>Developed an adaptive energy scheduling algorithm that prioritizes node energy states to meet real-time requirements and balance load, and quickly isolates fault nodes to maintain system   stability and availability.</li>
+     	  </ul>
+        </div>
+	  </div>
+
+      <div class="project">
+        <div class="project-header">
+          <div class="project-main">
+            <div class="project-title">
+              DRL-Based Energy Flow Scheduling and Hardware Implementation
+            </div>
+            <div class="project-role">
+              Research Project Funded by National Government Agency, Project Manager
+            </div>
+          </div>
+          <div class="project-side">
+            <div>Oct 2022 &ndash; Mar 2025</div>
+          </div>
+        </div>
+		<div class="project-body">
+  		  <div class="project-image">
+            <img src="https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-img/prj-3.png">
+          </div>		
+          <ul>
+            <li>Participated in many business projects and the application work for the NSFC programs.</li>
+            <li>Integrated near-space UAV flight environmental simulation into the hardware to emulate solar irradiance and propulsion loads.</li>
+            <li>Deployed deep reinforcement learning on a Huawei Atlas module (comparable to an NVIDIA Jetson Nano) with PyTorch and Stable-Baselines3, enabling continuous day and night energy-storage   management.</li>
+            <li>Ran over one month of uninterrupted simulation testing to validate algorithm feasibility and robustness.</li>
+          </ul>
+        </div>
+	  </div>
+
+      <div class="project">
+        <div class="project-header">
+          <div class="project-main">
+            <div class="project-title">
+              Energy Storage Scheduling and Cooperative Control for Near-Space UAVs
+            </div>
+            <div class="project-role">
+              National Natural Science Foundation (NSFC) Key Program, Core Researcher
+            </div>
+          </div>
+          <div class="project-side">
+            <div>Aug 2021 &ndash; Dec 2024</div>
+          </div>
+        </div>
+		<div class="project-body">
+  		  <div class="project-image">
+            <img src="https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/cv-img/prj-4.png">
+          </div>		
+          <ul>
+            <li>Established a laboratory battery test platform, completed battery HPPC and cycle charge-discharge tests under different operating conditions, and thereby established a three-dimensional coupled battery model.</li>
+            <li>Proposed a combined charging strategy under photovoltaic constraints to improve charging efficiency while reducing the aging speed of the battery.</li>
+            <li>Developed a health-aware multi-node energy balancing algorithm that balances state-of-charge balancing speed and battery aging speed.</li>
+          </ul>
+        </div>
+	  </div>   
+
+    </div>
+  </section>
+
+  <!-- Skills & Experience -->
+  <section class="section">
+    <div class="section-title">Skills &amp; Experience</div>
+    <div class="section-content">
+      <div class="skills-grid">
+        <div class="skills-row">
+          <span class="skills-row-label">Language:</span>
+          CET-4 475 | CET-6 530
+        </div>
+        <div class="skills-row">
+          <span class="skills-row-label">Coding:</span>
+          NCRE Level 2 | Python | MATLAB | Simscape | Qt | PyTorch
+        </div>
+        <div class="skills-row">
+          <span class="skills-row-label">Hardware:</span>
+          STM32 | DSP | RapidECU | NVIDIA Jetson | ESXi Server
+        </div>
+        <div class="skills-row">
+          <span class="skills-row-label">Work:</span>
+          CAA TJU Student Branch Member | Shandong Doctoral Students Association Deputy Minister | The 18th Research Institute of China Electronics Technology Group Corporation Limited intern
+        </div>
+        <div class="skills-row">
+          <span class="skills-row-label">Experience:</span>
+          Organized multiple large-scale academic events | Managed team publicity and social media accounts
+        </div>
+		<div class="skills-row">
+          <span class="skills-row-label">Hobbies:</span>
+          Sports | Photography | HomeLab
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
+</body>
+</html>
