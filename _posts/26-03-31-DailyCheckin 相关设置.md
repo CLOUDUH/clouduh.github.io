@@ -2,7 +2,7 @@
 layout: post
 title: DailyCheckin 相关设置
 subtitle: 总是忘记在哪
-date: 260331
+date: 20260331
 author: CLOUDUH
 header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
 permalink: /post/260331

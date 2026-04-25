@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "efd6c8ae142eee17",
+        "id": "cfcb62615f2d3641",
         "type": "tabs",
         "children": [
           {
-            "id": "62f3f32ed64c6105",
+            "id": "9874e2146a5efa30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/26-03-31-DailyCheckin 相关设置.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "26-03-31-DailyCheckin 相关设置"
+              "title": "新标签页"
             }
           }
         ]
@@ -134,13 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/26-03-31-DailyCheckin 相关设置.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "26-03-31-DailyCheckin 相关设置 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -178,25 +172,27 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "62f3f32ed64c6105",
+  "active": "9874e2146a5efa30",
   "lastOpenFiles": [
+    "_posts/26-04-25-Mac Logi 鼠标软件.md",
+    "attachment/Pasted image 20260425113510.png",
+    "attachment/Pasted image 20260425112735.png",
+    "attachment/Pasted image 20260425112732.png",
+    "attachment/Pasted image 20260425111633.png",
+    "attachment/Pasted image 20260425111344.png",
+    "attachment/Pasted image 20260425111103.png",
+    "attachment/Pasted image 20260425110723.png",
     "_posts/26-03-13-Zotero 相关设置.md",
-    "_posts/25-11-17-群晖数据备份.md",
-    "_posts/25-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机.md",
     "_posts/26-03-31-DailyCheckin 相关设置.md",
+    "_posts/25-11-17-群晖数据备份.md",
+    "_posts/25-08-11-APC UPS 群晖与 PVE.md",
+    "_posts/25-09-22-利用 Scrcpy 和 ADB 远程控制安卓手机.md",
     "_posts/25-09-17-Docker 安装与部署.md",
     "未命名 1.md",
     "未命名.md",
     "attachment/Pasted image 20260331142553.png",
     "attachment/Pasted image 20251119163228.png",
     "attachment/Pasted image 20251119154348.png",
-    "attachment/Pasted image 20251119154242.png",
-    "attachment/Pasted image 20251119154206.png",
-    "attachment/Pasted image 20251119154128.png",
-    "attachment/Pasted image 20251119153544.png",
-    "attachment/Pasted image 20251119153038.png",
-    "attachment/Pasted image 20251119152356.png",
-    "attachment/Pasted image 20251119152318.png",
     "_layouts/cv.html",
     "_layouts/page copy.html",
     "_site/cv/index.html",
@@ -208,7 +204,6 @@
     "_site/page4",
     "_site/page3/index.html",
     "_posts/25-09-12-群晖查看硬盘 SMART 信息.md",
-    "_posts/25-08-11-APC UPS 群晖与 PVE.md",
     "_posts/25-08-07-PVE 安装.md",
     "_posts/25-04-18-微信平板登录.md",
     "_posts/24-12-24-群晖摄像头.md",
@@ -223,8 +218,6 @@
     "_posts/22-06-15-Zotero WebDAV.md",
     "_posts/22-10-30-macOS系统回退.md",
     "_posts/22-09-08-欢迎.md",
-    "_posts/22-11-24-Mac & Matlab.md",
-    "_posts/23-03-01-AltServer & iOS 微信双开.md",
-    "_posts/23-03-04-LaTeX &  Grammerly & AI.md"
+    "_posts/22-11-24-Mac & Matlab.md"
   ]
 }
