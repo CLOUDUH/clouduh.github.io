@@ -2,10 +2,10 @@
 layout: post
 title: "多客户端通过 Remote Desktop 连接 Windows10 家庭版电脑"
 subtitle: "远程连接我的电脑做仿真"
-date: 220511
+date: "2022-05-11"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/220511
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/220511"
 tags:
 - Windows
 ---

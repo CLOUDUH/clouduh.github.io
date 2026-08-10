@@ -2,10 +2,10 @@
 layout: post
 title: "校外登录知网及文献 CAJ 转 PDF 的方法"
 subtitle: "被很多人问烦之后写出来的"
-date: 201231
+date: "2020-12-31"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/201231
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/201231"
 tags:
 - Research
 ---

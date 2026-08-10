@@ -2,10 +2,10 @@
 layout: post
 title: "Windows 使用技巧及软件安利"
 subtitle: "元旦出差时被隔壁情侣吵得睡不着"
-date: 210101
+date: "2021-01-01"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/210101
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/210101"
 tags:
 - Windows
 ---

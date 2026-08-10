@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Mac鼠标软件排查
-subtitle: 如何优雅地在mac上使用Logi办公鼠标
-date: 260425
-author: CLOUDUH
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
-permalink: /post/260425
+title: "Mac鼠标软件排查"
+subtitle: "如何优雅地在mac上使用Logi办公鼠标"
+date: "2026-04-25"
+author: "CLOUDUH"
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg"
+permalink: "/post/260425"
 tags:
   - Apple
 ---

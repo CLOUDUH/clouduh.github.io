@@ -1,11 +1,11 @@
 ---
 layout: post
-title: DailyCheckin 相关设置
-subtitle: 总是忘记在哪
-date: 20260331
-author: CLOUDUH
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
-permalink: /post/260331
+title: "DailyCheckin 相关设置"
+subtitle: "总是忘记在哪"
+date: "2026-03-31"
+author: "CLOUDUH"
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg"
+permalink: "/post/260331"
 tags:
   - Homelab
 ---

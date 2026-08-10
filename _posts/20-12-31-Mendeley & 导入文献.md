@@ -2,10 +2,10 @@
 layout: post
 title: "Mendeley 如何正确导入文献"
 subtitle: "刚开始接触科研生活"
-date: 201231
+date: "2020-12-31"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/201231
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/201231"
 tags:
 - Research
 ---

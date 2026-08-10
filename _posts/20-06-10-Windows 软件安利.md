@@ -2,10 +2,10 @@
 layout: post
 title: "Windows 的工科男使用心得"
 subtitle: "这可能是我最早的一篇博客"
-date: 200610
+date: "2020-06-10"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/200610
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/200610"
 tags:
 - Windows
 ---

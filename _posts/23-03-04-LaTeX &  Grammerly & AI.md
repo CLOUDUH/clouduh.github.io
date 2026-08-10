@@ -2,10 +2,10 @@
 layout: post
 title: "让 ChatGPT & GitHub Copilot 等人工智能帮你写论文"
 subtitle: "即将失业"
-date: 230304
+date: "2023-03-04"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/230304
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/230304"
 tags:
 - Research
 - Apple

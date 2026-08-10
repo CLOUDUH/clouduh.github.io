@@ -1,0 +1,69 @@
+media:
+  input: attachment
+  output: /attachment
+  rename: safe
+
+content:
+  - name: posts
+    label: 博客文章
+    type: collection
+    path: _posts
+    subfolders: false
+    format: yaml-frontmatter
+    filename: "{date}-{title}.md"
+
+    fields:
+      - name: layout
+        type: string
+        default: post
+        hidden: true
+
+      - name: title
+        label: 标题
+        type: string
+        required: true
+
+      - name: subtitle
+        label: 副标题
+        type: string
+
+      - name: date
+        label: 发布日期
+        type: date
+        required: true
+        options:
+          format: yyyy-MM-dd
+
+      - name: author
+        type: string
+        default: CLOUDUH
+        hidden: true
+
+      - name: header-img
+        type: string
+        default: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
+        hidden: true
+
+      - name: permalink
+        label: 文章地址
+        type: string
+        description: 例如 /post/260810
+
+      - name: tags
+        label: 标签
+        type: string
+        list: true
+
+      - name: body
+        label: 正文
+        type: rich-text
+        default: |
+          ## Abstract
+
+          ## 1 Section
+
+          ## 2 Section
+
+          ## 3 Section
+
+          ## Conclusion

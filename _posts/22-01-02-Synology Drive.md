@@ -2,10 +2,10 @@
 layout: post
 title: "实验室 NAS Synology Drive 同步使用指南"
 subtitle: "给实验室做的指南"
-date: 220102
+date: "2022-01-02"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/220102
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/220102"
 tags:
 - TJU
 - NAS

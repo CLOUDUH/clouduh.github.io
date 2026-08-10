@@ -2,10 +2,10 @@
 layout: post
 title: "Easy Scholar 文献分区检索助手"
 subtitle: "数一数二的科研工具"
-date: 220328
+date: "2022-03-28"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/220328
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/220328"
 tags:
 - Research
 ---

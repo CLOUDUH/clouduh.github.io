@@ -2,10 +2,10 @@
 layout: post
 title: "利用群晖 NAS 中的 WebDAV 服务实现 Zotero 的文献同步"
 subtitle: "有点折腾"
-date: 220615
+date: "2022-06-15"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/220615
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/220615"
 tags:
 - Research
 - NAS

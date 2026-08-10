@@ -2,10 +2,10 @@
 layout: post
 title: "MateBook14 外接 4k 屏幕的快乐"
 subtitle: "被互动最多的文章"
-date: 210710
+date: "2021-07-10"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/210710
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/210710"
 tags:
 - HUAWEI
 ---

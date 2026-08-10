@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 利用 Sunshine 和 Moonlight 实现 Windows 远程串流
-subtitle: 可以在宿舍低延迟打电脑游戏了
-date: 2024-07-12
-author: CLOUDUH
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
-permalink: /post/240712
+title: "利用 Sunshine 和 Moonlight 实现 Windows 远程串流"
+subtitle: "可以在宿舍低延迟打电脑游戏了"
+date: "2024-07-12"
+author: "CLOUDUH"
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg"
+permalink: "/post/240712"
 tags:
   - Windows
 ---

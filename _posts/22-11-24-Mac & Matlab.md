@@ -2,10 +2,10 @@
 layout: post
 title: "在 M1 Mac 上运行 ARM 架构的 MATLAB 2022b"
 subtitle: "工科果粉喜大普奔"
-date: 221124
+date: "2022-11-24"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/221124
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/221124"
 tags:
 - Research
 - Apple

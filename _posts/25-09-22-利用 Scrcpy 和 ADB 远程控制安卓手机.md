@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 利用 Scrcpy 和 ADB 远程控制安卓手机
-subtitle: 懒得骂某些软件了真的
-date: 250922
-author: CLOUDUH
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
-permalink: /post/250922
+title: "利用 Scrcpy 和 ADB 远程控制安卓手机"
+subtitle: "懒得骂某些软件了真的"
+date: "2025-09-22"
+author: "CLOUDUH"
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg"
+permalink: "/post/250922"
 tags:
   - Crack
 ---

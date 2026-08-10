@@ -2,10 +2,10 @@
 layout: post
 title: "利用 Github Pages 建立个人博客"
 subtitle: "本网站的来源"
-date: 220907
+date: "2022-09-07"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/220907
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/220907"
 tags:
 - Website
 ---

@@ -2,10 +2,10 @@
 layout: post
 title: "使用 AltServer 实现 iOS 微信双开"
 subtitle: "解决备用机难题"
-date: 230301
+date: "2023-03-01"
 author: "CLOUDUH"
-header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
-permalink: /post/230301
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/230301"
 tags:
 - Apple
 - Crack
