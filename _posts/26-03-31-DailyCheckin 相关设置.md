@@ -4,8 +4,8 @@ title: "DailyCheckin 相关设置"
 subtitle: "总是忘记在哪"
 date: "2026-03-31"
 author: "CLOUDUH"
-header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg"
-permalink: "/post/260331"
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/26033101"
 tags:
   - Homelab
 ---

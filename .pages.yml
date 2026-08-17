@@ -41,7 +41,7 @@ content:
 
       - name: header-img
         type: string
-        default: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg
+        default: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg
         hidden: true
 
       - name: permalink

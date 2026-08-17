@@ -1,27 +1,186 @@
 ---
-layout: keynote
-title: "Gallery"
-description: Hey, this is CLOUDUH
+layout: gallery
+title: "GALLERY"
+description: Moments worth keeping
 permalink: /gallery/
-iframe: "https://clouduh.cn/slide/#/"
 ---
 
-<!-- "http://127.0.0.1:4000/slide/#/" -->
-<!-- "https://clouduh.cn/slide/#/" -->
-
-<div class="zh post-container">
-    <p>
-        <font size="6"><b>Coordination, Minimalism and Emotion</b></font>
-    </p>
-
-    <blockquote>
-       I will try to create a personal art album in the future.
-    </blockquote>
-
-    我常常想回到那个初夏<br>
-    自由且无束的男孩<br>
-    来到苍山洱海边<br>
-    明天始终会到来<br>
-    而昨天已经永远不在了<br>
-
+<!-- 将图片放入 /gallery 文件夹即可；支持 JPG、JPEG、PNG 和 WebP，页面最多展示 30 张。 -->
+{% assign gallery_photos = site.static_files | sort: "path" | reverse %}
+{% assign gallery_count = 0 %}
+<div class="gallery-grid" id="gallery-grid">
+    {% for photo in gallery_photos %}
+        {% assign photo_extension = photo.extname | downcase %}
+        {% if photo.path contains '/gallery/' %}
+            {% if photo_extension == '.jpg' or photo_extension == '.jpeg' or photo_extension == '.png' or photo_extension == '.webp' %}
+                {% if gallery_count < 30 %}
+                    {% assign gallery_count = gallery_count | plus: 1 %}
+                    <figure class="gallery-card {% cycle 'gallery-card--short', 'gallery-card--long', 'gallery-card--medium', 'gallery-card--short', 'gallery-card--tall', 'gallery-card--medium', 'gallery-card--long', 'gallery-card--short', 'gallery-card--tall', 'gallery-card--medium' %}">
+                        <button class="gallery-card__button" type="button" data-gallery-index="{{ gallery_count | minus: 1 }}" aria-label="查看第 {{ gallery_count }} 张照片">
+                            <img class="gallery-card__image" src="{{ photo.path | prepend: site.baseurl }}" alt="旅途照片 {{ gallery_count }}" {% if gallery_count > 4 %}loading="lazy"{% endif %} decoding="async">
+                        </button>
+                    </figure>
+                {% endif %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
 </div>
+
+<div class="gallery-lightbox" id="gallery-lightbox" role="dialog" aria-modal="true" aria-label="照片预览" hidden>
+    <button class="gallery-lightbox__control gallery-lightbox__control--previous" type="button" aria-label="上一张照片">&#8249;</button>
+    <div class="gallery-lightbox__stage">
+        <img class="gallery-lightbox__image" src="" alt="">
+        <div class="gallery-lightbox__counter" aria-live="polite"></div>
+    </div>
+    <button class="gallery-lightbox__control gallery-lightbox__control--next" type="button" aria-label="下一张照片">&#8250;</button>
+    <button class="gallery-lightbox__close" type="button" aria-label="关闭照片预览">&times;</button>
+</div>
+
+<script>
+(function () {
+    var galleryGrid = document.getElementById("gallery-grid");
+    var galleryCards = Array.prototype.slice.call(galleryGrid.children);
+
+    for (var shuffleIndex = galleryCards.length - 1; shuffleIndex > 0; shuffleIndex -= 1) {
+        var randomIndex = Math.floor(Math.random() * (shuffleIndex + 1));
+        var temporaryCard = galleryCards[shuffleIndex];
+        galleryCards[shuffleIndex] = galleryCards[randomIndex];
+        galleryCards[randomIndex] = temporaryCard;
+    }
+
+    var gallerySizeClasses = ["gallery-card--short", "gallery-card--medium", "gallery-card--long", "gallery-card--tall"];
+    var openingSizeClasses = ["gallery-card--short", "gallery-card--tall", "gallery-card--medium", "gallery-card--long"];
+    var layoutFrame;
+
+    function getGalleryColumnCount() {
+        if (window.matchMedia("(max-width: 479px)").matches) {
+            return 1;
+        }
+
+        if (window.matchMedia("(max-width: 767px)").matches) {
+            return 2;
+        }
+
+        if (window.matchMedia("(min-width: 1200px) and (min-aspect-ratio: 8 / 5)").matches) {
+            return 4;
+        }
+
+        return 3;
+    }
+
+    function setCardSize(card, sizeClass) {
+        gallerySizeClasses.forEach(function (className) {
+            card.classList.remove(className);
+        });
+        card.classList.add(sizeClass);
+    }
+
+    function buildGalleryColumns() {
+        var columnCount = getGalleryColumnCount();
+        var columns = [];
+
+        galleryGrid.innerHTML = "";
+
+        for (var columnIndex = 0; columnIndex < columnCount; columnIndex += 1) {
+            var column = document.createElement("div");
+            column.className = "gallery-column";
+            galleryGrid.appendChild(column);
+            columns.push(column);
+        }
+
+        galleryCards.forEach(function (card, cardIndex) {
+            if (cardIndex < columnCount) {
+                setCardSize(card, openingSizeClasses[cardIndex]);
+                columns[cardIndex].appendChild(card);
+                return;
+            }
+
+            var shortestColumn = columns.reduce(function (currentShortest, candidate) {
+                return candidate.scrollHeight < currentShortest.scrollHeight ? candidate : currentShortest;
+            });
+            shortestColumn.appendChild(card);
+        });
+    }
+
+    function scheduleGalleryLayout() {
+        window.cancelAnimationFrame(layoutFrame);
+        layoutFrame = window.requestAnimationFrame(buildGalleryColumns);
+    }
+
+    buildGalleryColumns();
+    window.addEventListener("resize", scheduleGalleryLayout);
+
+    var galleryButtons = galleryCards.map(function (card) {
+        return card.querySelector(".gallery-card__button");
+    });
+    var lightbox = document.getElementById("gallery-lightbox");
+    var lightboxImage = lightbox.querySelector(".gallery-lightbox__image");
+    var lightboxCounter = lightbox.querySelector(".gallery-lightbox__counter");
+    var closeButton = lightbox.querySelector(".gallery-lightbox__close");
+    var previousButton = lightbox.querySelector(".gallery-lightbox__control--previous");
+    var nextButton = lightbox.querySelector(".gallery-lightbox__control--next");
+    var currentIndex = 0;
+    var returnFocus;
+
+    function showPhoto(index) {
+        currentIndex = (index + galleryButtons.length) % galleryButtons.length;
+        var thumbnail = galleryButtons[currentIndex].querySelector("img");
+        lightboxImage.src = thumbnail.src;
+        lightboxImage.alt = thumbnail.alt;
+        lightboxCounter.textContent = (currentIndex + 1) + " / " + galleryButtons.length;
+    }
+
+    function openLightbox(index, trigger) {
+        returnFocus = trigger;
+        showPhoto(index);
+        lightbox.hidden = false;
+        document.body.classList.add("gallery-lightbox-open");
+        closeButton.focus();
+    }
+
+    function closeLightbox() {
+        lightbox.hidden = true;
+        lightboxImage.src = "";
+        document.body.classList.remove("gallery-lightbox-open");
+        if (returnFocus) {
+            returnFocus.focus();
+        }
+    }
+
+    galleryButtons.forEach(function (button, index) {
+        button.addEventListener("click", function () {
+            openLightbox(index, button);
+        });
+    });
+
+    previousButton.addEventListener("click", function () {
+        showPhoto(currentIndex - 1);
+    });
+
+    nextButton.addEventListener("click", function () {
+        showPhoto(currentIndex + 1);
+    });
+
+    closeButton.addEventListener("click", closeLightbox);
+
+    lightbox.addEventListener("click", function (event) {
+        if (event.target === lightbox) {
+            closeLightbox();
+        }
+    });
+
+    document.addEventListener("keydown", function (event) {
+        if (lightbox.hidden) {
+            return;
+        }
+
+        if (event.key === "Escape") {
+            closeLightbox();
+        } else if (event.key === "ArrowLeft") {
+            showPhoto(currentIndex - 1);
+        } else if (event.key === "ArrowRight") {
+            showPhoto(currentIndex + 1);
+        }
+    });
+})();
+</script>

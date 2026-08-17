@@ -5,7 +5,7 @@ subtitle: "工科果粉喜大普奔"
 date: "2022-11-24"
 author: "CLOUDUH"
 header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
-permalink: "/post/221124"
+permalink: "/post/22112401"
 tags:
 - Research
 - Apple
@@ -15,13 +15,13 @@ tags:
 
 ## Abstract
 
-本文主要介绍了适用于M系列芯片（ARM架构）的Matlab 2022b Beta的特性，记录进行此版本的下载与安装，随后使用Matlab Benchmark和民间代码进行测试，对比Rosetta转译x86版本与ARM测试版本的性能。
+本文主要介绍了适用于 M 系列芯片（ARM 架构）的 Matlab 2022b Beta 的特性，记录进行此版本的下载与安装，随后使用 Matlab Benchmark 和民间代码进行测试，对比 Rosetta 转译 x86 版本与 ARM 测试版本的性能。
 
-> 重点是，这次或许真的可以好好的在M1上使用Matlab了。
+> 重点是，这次或许真的可以好好的在 M1 上使用 Matlab 了。
 
-## 1 ARM测试版介绍
+## 1 ARM 测试版介绍
 
-Matlab于近日开启了Matlab 2022b Apple Silicon Beta版本的公开测试，这次适配了很多的原生工具包，在打开速度、运行速度以及兼容性上提升了不少。最重要的是，beta测试版是免费使用的，截止日期为2023年6月30日。
+Matlab 于近日开启了 Matlab 2022b Apple Silicon Beta 版本的公开测试，这次适配了很多的原生工具包，在打开速度、运行速度以及兼容性上提升了不少。最重要的是，beta 测试版是免费使用的，截止日期为 2023 年 6 月 30 日。
 
 [R2022b Native Apple Silicon Platform Open Beta Installation - MATLAB & Simulink](https://ww2.mathworks.cn/support/apple-silicon-r2022b-beta.html)
 
@@ -50,24 +50,24 @@ Matlab于近日开启了Matlab 2022b Apple Silicon Beta版本的公开测试，�
 
 - 测试版本没有正式签名，因此使用时可能会报错。
 - 附加组件管理器仍然不能使用，不过可以手动安装来实现。
-- 适用于Python的MATLAB引擎API是不可用的。
+- 适用于 Python 的 MATLAB 引擎 API 是不可用的。
 - 公开测试版需要 Java 运行时环境 (JRE)。
 
-相比于之前2022a beta版本什么都用不了的情况，这次2022b beta版本属实带来了不少的惊喜，很多基础的功能都可以正常使用了。
+相比于之前 2022a beta 版本什么都用不了的情况，这次 2022b beta 版本属实带来了不少的惊喜，很多基础的功能都可以正常使用了。
 
 >  The MATLAB R2022a native Apple silicon platform open beta has the following limitations: **The open beta includes MATLAB only.** Simulink and toolboxes are not available.
 
 ## 2 下载与安装
 
-官方开启了MATLAB R2022b针对于苹果芯片的公开测试，填写姓名和邮箱即可获取下载链接。
+官方开启了 MATLAB R2022b 针对于苹果芯片的公开测试，填写姓名和邮箱即可获取下载链接。
 
 ![](../attachment/Pasted%20image%2020221127231934.png)
 
-> 实测是可以同时安装一个正式版和一个beta版本的。
+> 实测是可以同时安装一个正式版和一个 beta 版本的。
 
-### 2.1 安装运行环境JRE
+### 2.1 安装运行环境 JRE
 
-公开测试版需要安装JRE才能正常打开程序，官方推荐了Amazon Corretto 8，选择`macOS aarch64`平台的版本进行下载和安装。
+公开测试版需要安装 JRE 才能正常打开程序，官方推荐了 Amazon Corretto 8，选择`macOS aarch64`平台的版本进行下载和安装。
 
 官方说明：[Amazon Corretto 8 Installation Instructions for macOS 10.10 or later - Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/macos-install.html?version=java-8-lts&os=macos&architecture=arm-64-bit&package=jdk#download-openjdk)
 
@@ -83,15 +83,15 @@ Matlab于近日开启了Matlab 2022b Apple Silicon Beta版本的公开测试，�
 /usr/libexec/java_home --verbose
 ```
 
-（可选的）添加JRE至环境变量中：
+（可选的）添加 JRE 至环境变量中：
 
 ```shell
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Contents/Home
 ```
 
-> 如何添加环境变量的操作不再赘述，自行google。
+> 如何添加环境变量的操作不再赘述，自行 google。
 
-### 2.2 安装Matlab R2022b
+### 2.2 安装 Matlab R2022b
 
 下载链接：[下载 MATLAB、Simulink、Stateflow 和其他 MathWorks 产品](https://ww2.mathworks.cn/downloads/csd/AppleSiliconPlatformOpenBeta/MATLAB_R2022b_Beta_install.dmg) 
 
@@ -103,21 +103,21 @@ export JAVA_HOME=/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Content
 
 ### 2.3 成功运行
 
-开放测试版没有经过公证。 macOS会将其标记为来自不明身份的开发者，因此可能打不开，按照官方的操作流程：
+开放测试版没有经过公证。 macOS 会将其标记为来自不明身份的开发者，因此可能打不开，按照官方的操作流程：
 
-- 按住CTRL键，右键单击MATLAB_R2022b_beta.app
+- 按住 CTRL 键，右键单击 MATLAB_R2022b_beta.app
 - 从上下文菜单中选择 "打开"
-- 然后，在弹出的窗口中点击 "打开"，以启动MATLAB
+- 然后，在弹出的窗口中点击 "打开"，以启动 MATLAB
 
 ![](../attachment/Pasted%20image%2020221124160935.png)
 
-打开活动监视器看一下种类，是Apple无疑。
+打开活动监视器看一下种类，是 Apple 无疑。
 
 ![](../attachment/Pasted%20image%2020221124160951.png)
 
-## 3 ARM与Rosetta的性能对比
+## 3 ARM 与 Rosetta 的性能对比
 
-本章节使用ARM架构的Mac运行了两个不同的版本，进行了性能对比。
+本章节使用 ARM 架构的 Mac 运行了两个不同的版本，进行了性能对比。
 
 ### 3.1 测试平台
 
@@ -126,19 +126,19 @@ export JAVA_HOME=/Library/Java/JavaVirtualMachines/amazon-corretto-8.jdk/Content
 ARM：Matlab R2022b Apple Silicon Open Beta
 Rosetta： Matlab R2021b x64
 
-> 实测Mac这两个可以共存，但是不要一起打开，为了方便区分我改了图标。
+> 实测 Mac 这两个可以共存，但是不要一起打开，为了方便区分我改了图标。
 
 ![](../attachment/Pasted%20image%2020221127233906.png)
 
-### 3.2 Benchmark性能测试
+### 3.2 Benchmark 性能测试
 
-Matlab 提供了官方的测试函数，只要在Matlab命令行窗口输入`bench`即可执行。
+Matlab 提供了官方的测试函数，只要在 Matlab 命令行窗口输入`bench`即可执行。
 
 `bench()`函数将测量六个不同基准任务的执行时间，并将结果与几台基准计算机进行比较：返回包含测量的执行时间的 1×6 向量、显示基准计算机的执行时间、创建一个条形图，根据计算机的速度对其进行排序。
 
 官方说明文档：[MATLAB bench - MathWorks 中国](https://ww2.mathworks.cn/help/matlab/ref/bench.html)
 
-这里运行10次bench，取10次每个基准的最优解，测试结果如下：
+这里运行 10 次 bench，取 10 次每个基准的最优解，测试结果如下：
 
 ```matlab
 % 进行10圈bench测试(两个软件中运行）
@@ -155,7 +155,7 @@ ARM_min =
     0.4757    0.1529    0.1466    0.2978    0.9582    0.7098
 ```
 
-不同基准测试所有的时间，2022b ARM版本相比于2021b Rosetta转译版本，整体速度提升在50%以上。
+不同基准测试所有的时间，2022b ARM 版本相比于 2021b Rosetta 转译版本，整体速度提升在 50%以上。
 
 ```matlab
 % bench各个基准速度提升(%)
@@ -164,7 +164,7 @@ Enhancement = 100 * ARM_min ./ Rosetta_min
 Enhancement = [54.7156, 48.2302, 44.4283, 25.1799, 61.8257, 75.2962]
 ```
 
-运行得到的截图如下，可以看出2022b ARM要比2021b Rosetta快了接近50%以上。
+运行得到的截图如下，可以看出 2022b ARM 要比 2021b Rosetta 快了接近 50%以上。
 
 ![](../attachment/Pasted%20image%2020221124164845.png)
 
@@ -172,9 +172,9 @@ Enhancement = [54.7156, 48.2302, 44.4283, 25.1799, 61.8257, 75.2962]
 
 ### 3.3 民间矩阵性能测试
 
-知乎上一段Matlab测试代码，使用各种cpu运行同一段matlab代码的用时比较，代码中考察了乘法、系数矩阵、逆矩阵、快速傅里叶、LU分解、QR分解、奇异值分解以及特征值等8种常用运算，感兴趣的可以点进去看一下。
+知乎上一段 Matlab 测试代码，使用各种 cpu 运行同一段 matlab 代码的用时比较，代码中考察了乘法、系数矩阵、逆矩阵、快速傅里叶、LU 分解、QR 分解、奇异值分解以及特征值等 8 种常用运算，感兴趣的可以点进去看一下。
 
-[请问AMD锐龙5000系列在MATLAB下的表现？ - 知乎](https://www.zhihu.com/question/435741427/answer/1687421295)
+[请问 AMD 锐龙 5000 系列在 MATLAB 下的表现？ - 知乎](https://www.zhihu.com/question/435741427/answer/1687421295)
 
 > 由于使用版本不同，可比性较差，但是可以反应一定的问题。
 
@@ -259,7 +259,7 @@ disp(['Total          :   ' sprintf('%6f',total)])
 | Eigen          | 19.114926 | 13.883716 | 72.63%      |
 | Total          | 29.220369 | 20.567354 | 70.39%      |
 
-可以看出总体有50%以上的提升，虽然仍然不能跟x86平台battle，但是目前来说已经足够使用了，可以参考上述链接评论区的数据或者我挑选出的几个数据。
+可以看出总体有 50%以上的提升，虽然仍然不能跟 x86 平台 battle，但是目前来说已经足够使用了，可以参考上述链接评论区的数据或者我挑选出的几个数据。
 
 ```matlab
 % AMD 5950X R2020b  @Falccm

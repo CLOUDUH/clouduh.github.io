@@ -1,7 +1,0 @@
-{
-  "deleteOption": ".trash",
-  "logsModal": true,
-  "excludedFolders": "_includes, _layouts, _site, css, fonts, img, js, less, pages",
-  "ribbonIcon": true,
-  "excludeSubfolders": true
-}

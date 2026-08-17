@@ -8,6 +8,86 @@ keyword: ""
 url: "http://clouduh.cn"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
+# Home page settings
+# 首页所有可编辑内容统一放在这里，index.html 只负责页面结构。
+home_page:
+  hero_subtitle: "Forever Young, Forever Free"
+
+  # 欢迎区块
+  welcome:
+    title: "Welcome to my homepage"
+    lines:
+      - "Keep learning, keep building, and keep a record of the process."
+      - "Technology is more interesting when it solves a real problem."
+      - "Small experiments often become the most useful notes."
+      - "Photos preserve the details that memory quietly loses."
+      - "Stay curious, stay patient, and enjoy the journey."
+    buttons:
+      - icon: "📋"
+        title: "Recent"
+        subtitle: "Recent posts"
+        url: "/recent/"
+      - icon: "📚"
+        title: "Articles"
+        subtitle: "All articles"
+        url: "/blog/"
+      - icon: "📷"
+        title: "Gallery"
+        subtitle: "Some photos"
+        url: "/gallery/"
+      - icon: "👴"
+        title: "About"
+        subtitle: "About me"
+        url: "/about/"
+
+  # 文章区块：只需填写文章标题，链接、摘要、日期和作者会自动读取。
+  articles:
+    small_title: "RECENT NOTES"
+    title: "看看我最近在折腾什么东西"
+    post_titles:
+      - "校园网下 ikuai 路由器 IPv6 配置"
+      - "Mac 鼠标软件排查"
+      - "DailyCheckin 相关设置"
+      - "Zotero 相关设置"
+      - "Synology Data Backup by Hyper Back and Rclone"
+      - "利用 Scrcpy 和 ADB 远程控制安卓手机"
+
+  # 项目区块：修改 image、subtitle、text 和 url 即可更新卡片与外链。
+  projects:
+    small_title: "MEMORABLE MOMENTS"
+    title: "那些难忘的记忆和美好的时光"
+    items:
+      - image: "https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/star/prj_1.png"
+        subtitle: "Always on the road"
+        text: "云与川西 我的甘孜自驾游Vlog"
+        url: "https://www.bilibili.com/video/BV1Cm4y1p75o/"
+      - image: "https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/star/prj_2.png"
+        subtitle: "Feel the wind and freedom"
+        text: "从天安门骑到天津之眼 京津骑行Vlog"
+        url: "https://www.bilibili.com/video/BV15Z421v7JD/"
+      - image: "https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/star/prj_3.png"
+        subtitle: "Beautiful mountains and waters"
+        text: "太行巍巍 谷流滔滔"
+        url: "https://www.bilibili.com/video/BV11j411x7Hz/"
+
+  # 照片区块：桌面端固定 2 行 3 列，只需修改 image 和 text。
+  photos:
+    small_title: "LIFE IN FRAMES"
+    title: "欣赏一下我旅途中拍的照片吧"
+    items:
+      - image: "https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/photo/photo_1.jpeg"
+        text: "云南丽江玉龙雪山"
+      - image: "https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/photo/photo_2.jpeg"
+        text: "四川甘孜四姑娘山"
+      - image: "https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/photo/photo_3.jpeg"
+        text: "云南大理苍山"
+      - image: "https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/photo/photo_4.jpeg"
+        text: "巴西里约热内卢海岸"
+      - image: "https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/photo/photo_5.jpeg"
+        text: "日本山梨富士山"
+      - image: "https://cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/photo/photo_6.jpeg"
+        text: "内蒙古阿尔山驼峰岭天池"
+
 
 # SNS settings
 RSS: false
@@ -22,12 +102,21 @@ RSS: false
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude:
+  - less
+  - node_modules
+  - Gruntfile.js
+  - package.json
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - Rakefile
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 # Markdown settings

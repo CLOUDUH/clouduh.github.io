@@ -5,7 +5,7 @@ subtitle: "即将失业"
 date: "2023-03-04"
 author: "CLOUDUH"
 header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
-permalink: "/post/230304"
+permalink: "/post/23030401"
 tags:
 - Research
 - Apple
@@ -20,11 +20,11 @@ tags:
 
 ## 1 介绍
 
-本文是在 Visual Studio Code 中部署的 LaTeX环境，得益于 VS Code 强大的拓展性，可以安装各种插件来实现丰富的拓展性。本文涉及到多个插件各有千秋，用途是不同的，比如 Copilot 帮助你输出，ChatGPT 帮你润色，Grammarly 帮助你纠错，基本涵盖了论文写作的三个过程。我列了如下表格，让你对这几个工具又一个初步的认识
+本文是在 Visual Studio Code 中部署的 LaTeX 环境，得益于 VS Code 强大的拓展性，可以安装各种插件来实现丰富的拓展性。本文涉及到多个插件各有千秋，用途是不同的，比如 Copilot 帮助你输出，ChatGPT 帮你润色，Grammarly 帮助你纠错，基本涵盖了论文写作的三个过程。我列了如下表格，让你对这几个工具又一个初步的认识
 
 | 名称             | 地位     | 功能             | 实现难度 | 增益等级   |     |
 | -------------- | ------ | -------------- | ---- | ------ | --- |
-| LaTeX          | 环境     | 将代码转换为PDF      | 简单   | 无      |     |
+| LaTeX          | 环境     | 将代码转换为 PDF      | 简单   | 无      |     |
 | VS Code        | 集大成者   | 整合多工具的高效编辑器    | 简单   | 一般     |     |
 | GitHub Copilot | 狡猾的马屁精 | 不断猜你的心思，帮你写出来  | 一般   | 拍手叫绝   |     |
 | ChatGPT        | 听话的女仆  | 帮你生成、润色你不想写的东西 | 地狱   | 人类终将灭亡 |     |
@@ -44,7 +44,7 @@ Windows 推荐的 LaTeX 环境：[TeX Live](https://tug.org/texlive/)，macOS �
 
 ![](../attachment/Pasted%20image%2020230304231411.png)
 
-进入镜像，**右击install-tl-windows.bat-选择使用管理员身份运行**。
+进入镜像，**右击 install-tl-windows.bat-选择使用管理员身份运行**。
 
 ![](../attachment/Pasted%20image%2020230304212917.png)
 
@@ -145,7 +145,7 @@ Visual Studio Code（简称 VS Code）是一款由微软开发且跨平台的免
 
 ## 5 配置 GitHub Copilot
 
-GitHub Copilot 是 GitHub 和 OpenAI 合作开发的一个人工智能工具，用户在使用Visual Studio Code 等集成开发环境时可以通过自动补全代码，并基于你的上下文给出推荐的代码建议。根据官方介绍，Copilot 已经接受了来自 GitHub 上公开可用存储库的数十亿行代码的训练，因此，理论上他支持目前所有主流编程语言，这意味着它也可以帮你写文档和论文。
+GitHub Copilot 是 GitHub 和 OpenAI 合作开发的一个人工智能工具，用户在使用 Visual Studio Code 等集成开发环境时可以通过自动补全代码，并基于你的上下文给出推荐的代码建议。根据官方介绍，Copilot 已经接受了来自 GitHub 上公开可用存储库的数十亿行代码的训练，因此，理论上他支持目前所有主流编程语言，这意味着它也可以帮你写文档和论文。
 
 ![](../attachment/Pasted%20image%2020230304203545.png)
 
@@ -181,7 +181,7 @@ GitHub Copilot 对学生用户是免费使用的，因此可以申请 GitHub Edu
 
 ## 6 配置 Grammarly
 
-Grammarly是一款在线语法纠正和校对工具，支持Windows、Mac、iOS和Android等多个平台。Grammarly可以自动检测用户所书写的英文是否存在语法、拼写、标点等错误，帮你纠正标点符号、修正语法错误、调整语气以及给出风格建议等；对学术写作来说，Grammarly还可以帮助查重。
+Grammarly 是一款在线语法纠正和校对工具，支持 Windows、Mac、iOS 和 Android 等多个平台。Grammarly 可以自动检测用户所书写的英文是否存在语法、拼写、标点等错误，帮你纠正标点符号、修正语法错误、调整语气以及给出风格建议等；对学术写作来说，Grammarly 还可以帮助查重。
 
 ![](../attachment/Pasted%20image%2020230304210718.png)
 
@@ -215,4 +215,4 @@ VS Code 弹出网页之后，点击继续即可。
 
 ## 7 Conclusion
 
-本文首先介绍了如何在 Windows 和 macOS 上安装 LaTeX 环境，随后简单介绍了VS Code 安装几个插件的方法。随后，分别介绍了配置人工智能聊天机器人 ChatGPT、代码自动补全AI工具 GitHub Copilot 以及语法辅助写作工具 Grammarly 的方法，并通过一些小例子展示了其效果。
+本文首先介绍了如何在 Windows 和 macOS 上安装 LaTeX 环境，随后简单介绍了 VS Code 安装几个插件的方法。随后，分别介绍了配置人工智能聊天机器人 ChatGPT、代码自动补全 AI 工具 GitHub Copilot 以及语法辅助写作工具 Grammarly 的方法，并通过一些小例子展示了其效果。

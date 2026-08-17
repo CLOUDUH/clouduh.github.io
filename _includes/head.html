@@ -16,6 +16,9 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/hux-blog.min.css" | prepend: site.baseurl }}">
+    {% if page.layout == 'home' %}
+    <link rel="stylesheet" href="{{ "/css/home.css" | prepend: site.baseurl }}">
+    {% endif %}
 
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">

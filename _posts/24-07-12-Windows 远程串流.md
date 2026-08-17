@@ -4,8 +4,8 @@ title: "利用 Sunshine 和 Moonlight 实现 Windows 远程串流"
 subtitle: "可以在宿舍低延迟打电脑游戏了"
 date: "2024-07-12"
 author: "CLOUDUH"
-header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg"
-permalink: "/post/240712"
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/24071201"
 tags:
   - Windows
 ---
@@ -189,7 +189,7 @@ Sunshine 啥都好，就要求必须有一个实体显示器才能进行映射�
 - 显卡诱骗器（插在显卡上，假装有一个高清的输出）
 - 虚拟显示器，按照连接安装一下即可
 
-[GitHub - KtzeAbyss/Easy-Virtual-Display: Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显卡欺骗。](https://github.com/KtzeAbyss/Easy-Virtual-Display)
+[GitHub - KtzeAbyss/Easy-Virtual-Display: Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在 win 中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显卡欺骗。](https://github.com/KtzeAbyss/Easy-Virtual-Display)
 
 # 6 实机延迟测试
 

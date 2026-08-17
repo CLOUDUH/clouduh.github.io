@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "使用 AltServer 实现 iOS 微信双开"
+title: "使用 AltStore 实现 iOS 微信双开"
 subtitle: "解决备用机难题"
 date: "2023-03-01"
 author: "CLOUDUH"
 header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
-permalink: "/post/230301"
+permalink: "/post/23030101"
 tags:
 - Apple
 - Crack
@@ -19,7 +19,7 @@ tags:
 本文介绍了如何通过 AltStore 自签名实现 iOS 微信双开，首先介绍了如何安装 AltStore 和 AltServer 软件，随后说明了 IPA 砸壳安装包的获取方式以及为了避免 URL 冲突而做出的代码修改，最后实现了 iOS 的微信双开以及后台的自动更新。
 
 优点：完全免费、不用担心数据安全、可以自动更新
-缺点：操作稍微复杂、单次更新最多使用7天、更新需要有电脑在身边。
+缺点：操作稍微复杂、单次更新最多使用 7 天、更新需要有电脑在身边。
 
 ## 1 电脑端安装 AltServer
 
@@ -57,11 +57,11 @@ AltServer 需要安装一个邮箱插件，直接安装即可。
 
 ### 1.3 连接 iPhone 安装 AltStore
 
-使用数据线连接 iPhone 至电脑，点击菜单栏的 AltServer 图标， 点击**Install AltStore...**
+使用数据线连接 iPhone 至电脑，点击菜单栏的 AltServer 图标， 点击 **Install AltStore...**
 
 ![](../attachment/Pasted%20image%2020230304140509.png)
 
-这里会要求输入您的APPLE ID和密码，大胆的输入，没问题的。
+这里会要求输入您的 APPLE ID 和密码，大胆的输入，没问题的。
 
 ![](../attachment/Pasted%20image%2020230304141655.png)
 
@@ -71,7 +71,7 @@ AltServer 需要安装一个邮箱插件，直接安装即可。
 
 ### 2.1 信任开发者
 
-打开**设置-通用-VPN与设备管理**，点击设备信任即可。
+打开**设置-通用-VPN 与设备管理**，点击设备信任即可。
 
 ![](../attachment/Pasted%20image%2020230304142954.png)
 
@@ -206,10 +206,10 @@ ipatool download -b <bundleId>
 
 ### 6.2 通过快捷指令定时进行刷新
 
-在设置中，点击**Add to Siri** ，添加快捷指令。
+在设置中，点击 **Add to Siri** ，添加快捷指令。
 
 ![](../attachment/IMG_1133.png)
 
-在快捷指令库里，设置一个自动化，这个根据个人的习惯来，因为我基本上每天都离在电脑旁边，因此设置了日落前4小时内自动触发。
+在快捷指令库里，设置一个自动化，这个根据个人的习惯来，因为我基本上每天都离在电脑旁边，因此设置了日落前 4 小时内自动触发。
 
 ![](../attachment/IMG_1134.png)

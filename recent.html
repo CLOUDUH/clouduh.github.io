@@ -1,0 +1,56 @@
+---
+layout: recent
+title: RECENT
+description: The palest ink is better than the best memory
+header-img: /cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/recent-bg.jpg
+permalink: /recent/
+---
+
+<style>
+.recent-page {
+    padding-top: 12px;
+    padding-bottom: 24px;
+}
+
+.recent-page .post-preview:first-of-type .post-title {
+    margin-top: 18px;
+}
+
+.recent-post-link {
+    display: block;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.recent-post-link:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.recent-post-link:focus-visible {
+    border-radius: 3px;
+    box-shadow: 0 0 0 2px rgba(0, 133, 161, 0.28);
+}
+</style>
+
+{% for post in site.posts limit: 20 %}
+{% assign abstract_section = post.content | split: "## Abstract" | last | split: "## " | first %}
+<div class="post-preview">
+    <a class="recent-post-link" href="{{ post.url | prepend: site.baseurl }}" target="_self">
+        <h2 class="post-title">
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        <div class="post-content-preview">
+            {{ abstract_section | markdownify | strip_html | strip_newlines | strip | truncate: 260 }}
+        </div>
+    </a>
+    <p class="post-meta">
+        {{ post.date | date: "%Y-%m-%d" }} via {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}
+    </p>
+</div>
+<hr>
+{% endfor %}

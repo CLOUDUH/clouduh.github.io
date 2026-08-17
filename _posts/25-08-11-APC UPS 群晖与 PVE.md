@@ -4,8 +4,8 @@ title: "APC UPS 在群晖和 PVE 的部署"
 subtitle: "保护我珍贵的硬盘"
 date: "2025-08-11"
 author: "CLOUDUH"
-header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg"
-permalink: "/post/250811"
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/25081101"
 tags:
   - Homelab
   - NAS

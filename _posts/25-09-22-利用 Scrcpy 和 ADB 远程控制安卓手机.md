@@ -4,8 +4,8 @@ title: "利用 Scrcpy 和 ADB 远程控制安卓手机"
 subtitle: "懒得骂某些软件了真的"
 date: "2025-09-22"
 author: "CLOUDUH"
-header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/home-bg.jpg"
-permalink: "/post/250922"
+header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
+permalink: "/post/25092201"
 tags:
   - Crack
 ---
@@ -199,7 +199,7 @@ adb tcpip 5555
 - 打开 URL——把公网自动化 URL Scheme 复制进去 
 - 否则
 - 添加 Tailscale——Connect
-- 打开 URL——把 Tailscale自动化 URL Scheme 复制进去 
+- 打开 URL——把 Tailscale 自动化 URL Scheme 复制进去
 
 ![](../attachment/Pasted%20image%2020250922224130.png)
 

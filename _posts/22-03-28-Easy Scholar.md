@@ -5,7 +5,7 @@ subtitle: "数一数二的科研工具"
 date: "2022-03-28"
 author: "CLOUDUH"
 header-img: "/cloudu-oss.oss-cn-beijing.aliyuncs.com/blogimg/blog-bg.jpg"
-permalink: "/post/220328"
+permalink: "/post/22032801"
 tags:
 - Research
 ---
@@ -14,19 +14,19 @@ tags:
 
 ## Abstract
 
-最近发现了一个检索文献的好工具Easy Scholar，在检索文献的时候能够标注出该文献的分区，通过颜色的标注可以迅速找到高质量的文献，插件免费，而且安装和使用简单。
+最近发现了一个检索文献的好工具 Easy Scholar，在检索文献的时候能够标注出该文献的分区，通过颜色的标注可以迅速找到高质量的文献，插件免费，而且安装和使用简单。
 
-侵删声明：本文是针对Easy Scholar插件使用介绍，若本文内容侵犯到插件作者或您的利益，请及时联系作者删除本文。
+侵删声明：本文是针对 Easy Scholar 插件使用介绍，若本文内容侵犯到插件作者或您的利益，请及时联系作者删除本文。
 
 ![](../attachment/Pasted%20image%2020220330113857.png)
 
 ## 1 安装和说明
 
-GitHub仓库的地址：
+GitHub 仓库的地址：
 
 [GitHub - Nixiak-nan/easyScholar](https://github.com/Nixiak-nan/easyScholar)
 
-Edge和Chrome的应用商店安装链接如下：
+Edge 和 Chrome 的应用商店安装链接如下：
 
 [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/easyscholar/bpepicgagmdchlkjjeeiekpoafehpagm)
 
@@ -34,11 +34,11 @@ Edge和Chrome的应用商店安装链接如下：
 
 ## 2 适用范围
 
-相信的使用教程请参考作者官方Blog
+相信的使用教程请参考作者官方 Blog
 
-[easyScholar简介_zhangxiangnan0906的博客-CSDN博客_dblp插件](https://blog.csdn.net/weixin_49328057/article/details/113148625?spm=1001.2014.3001.5502)
+[easyScholar 简介_zhangxiangnan0906 的博客-CSDN 博客_dblp 插件](https://blog.csdn.net/weixin_49328057/article/details/113148625?spm=1001.2014.3001.5502)
 
-此插件支持非常多的学术检索网站，常用的Google Scholar和知网都没有问题。
+此插件支持非常多的学术检索网站，常用的 Google Scholar 和知网都没有问题。
 
 ![](../attachment/Pasted%20image%2020220328223312.png)
 
@@ -62,9 +62,9 @@ Edge和Chrome的应用商店安装链接如下：
 
 ![](../attachment/Pasted%20image%2020220330115140.png)
 
-值得注意的是，因为API的请求数量是有限的，因此可能会出现无法翻译的情况，这是一个很普遍的问题，因此对于翻译软件，还是建议使用专门的软件。
+值得注意的是，因为 API 的请求数量是有限的，因此可能会出现无法翻译的情况，这是一个很普遍的问题，因此对于翻译软件，还是建议使用专门的软件。
 
-> Mac上强烈推荐Bob，Windows上推荐CopyTranslator
+> Mac 上强烈推荐 Bob，Windows 上推荐 CopyTranslator
 
 ## 3 师兄的反馈
 
