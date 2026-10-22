@@ -1,0 +1,3488 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T08:17:32.691597+00:00",
+  "source": "/Volumes/FATCLOUD/燕翔相册_按事件整理/遗漏照片",
+  "destination": "/Volumes/FATCLOUD/燕翔相册_按事件整理/遗漏照片",
+  "scope": "move遗漏视频 from date buckets into event-style video folders; photo buckets untouched",
+  "bucketToEvent": {
+    "181222": "181130_步入正轨",
+    "190102": "181130_步入正轨",
+    "190308": "190302_大二下开学",
+    "190309": "190302_大二下开学",
+    "190317": "190302_大二下开学",
+    "190321": "190302_大二下开学",
+    "190324": "190302_大二下开学",
+    "190503": "190430_劳动节与马拉松",
+    "190504": "190430_劳动节与马拉松",
+    "190516": "190513_挑战杯间隙",
+    "190518": "190513_挑战杯间隙",
+    "190525": "190513_挑战杯间隙",
+    "190606": "190513_挑战杯间隙",
+    "190609": "190513_挑战杯间隙",
+    "190622": "190513_挑战杯间隙",
+    "190529": "190529_车队毕业",
+    "190710": "190701_大二暑假",
+    "190715": "190701_大二暑假",
+    "190915": "190901_比赛之前",
+    "191001": "190901_比赛之前"
+  },
+  "operations": [
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0001车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0001车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0002车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0002车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0003车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0003车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0004车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0004车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0005队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0005队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0006队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0006队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0012车手.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0012车手.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0016车手.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0016车手.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0017车手.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0017车手.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0019.车MOV.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0019.车MOV.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0020车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0020车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0021车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0021车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0022车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0022车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0023车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0023车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0024车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0024车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0025车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0025车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0026车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0026车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0027车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0027车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0028队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0028队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0029队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0029队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0030队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0030队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0031队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0031队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0032车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0032车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0033车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0033车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0034车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0034车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0035队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0035队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0036队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0036队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0037车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0037车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0038队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0038队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0039队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0039队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0041队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0041队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0042队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0042队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0043队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0043队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0044队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0044队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0045队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0045队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0046队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0046队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0047队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0047队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0049队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0049队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0050队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0050队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0051队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0051队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0052赞助商.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0052赞助商.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0053车手.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0053车手.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0054车手.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0054车手.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0056车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0056车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0057.车MOV.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0057.车MOV.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0058车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0058车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0059车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0059车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0060车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0060车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0061队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0061队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0062车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0062车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0063队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0063队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0064车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0064车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0065车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0065车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0066车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0066车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0067车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0067车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0068队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0068队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0069车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0069车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0070队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0070队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0071车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0071车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0072车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0072车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0074队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0074队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0075队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0075队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0076队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0076队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0079队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0079队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0080队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0080队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0080队员调试.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0080队员调试.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0081队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0081队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0082队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0082队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0084队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0084队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0085队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0085队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0086队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0086队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0087队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0087队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0088队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0088队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0089队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0089队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0090车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0090车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0091车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0091车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0092车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0092车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0093车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0093车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0094车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0094车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0095车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0095车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0096车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0096车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0097车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0097车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0098队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0098队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0101车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0101车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0102车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0102车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0103队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0103队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0104队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0104队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0105队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0105队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0106赞助商.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0106赞助商.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0107队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0107队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0108队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0108队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0109队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0109队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0110队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0110队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0111队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0111队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0112队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0112队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0113队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0113队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0118队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0118队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0119队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0119队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0127队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0127队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0128队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0128队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0131车手.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0131车手.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0132车手.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0132车手.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0135车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0135车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0136车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0136车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0139队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0139队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0140队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0140队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0141车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0141车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0142车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0142车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0144车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0144车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0145车手.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0145车手.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0147车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0147车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0148车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0148车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0149车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0149车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0150车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0150车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0151队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0151队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0152车手 .MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0152车手 .MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0153队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0153队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0161队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0161队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0162队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0162队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0163队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0163队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0164队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0164队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0166队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0166队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0167队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0167队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0168车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0168车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0169车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0169车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0170车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0170车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0171车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0171车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0172车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0172车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0173车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0173车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0174车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0174车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0175车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0175车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0176队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0176队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0178队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0178队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0179队员.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0179队员.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0181车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0181车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0184车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0184车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0185车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0185车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0186车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0186车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0187车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0187车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/181222/video/YX9_0188车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0188车.MOV",
+      "bucket": "181222",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190102/video/YX9_0021.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0021.MOV",
+      "bucket": "190102",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190102/video/YX9_0026.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0026.MOV",
+      "bucket": "190102",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190102/video/YX9_0027.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0027.MOV",
+      "bucket": "190102",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190102/video/YX9_0034.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0034.MOV",
+      "bucket": "190102",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190102/video/YX9_0036.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0036.MOV",
+      "bucket": "190102",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190102/video/YX9_0037.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0037.MOV",
+      "bucket": "190102",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190102/video/YX9_0038.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0038.MOV",
+      "bucket": "190102",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190102/video/YX9_0045.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0045.MOV",
+      "bucket": "190102",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190102/video/YX9_0049.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/181130_步入正轨/video/YX9_0049.MOV",
+      "bucket": "190102",
+      "event": "181130_步入正轨",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190308/video/YX9_0005.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0005.MOV",
+      "bucket": "190308",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190308/video/YX9_0006.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0006.MOV",
+      "bucket": "190308",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190308/video/采访.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/采访.MOV",
+      "bucket": "190308",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0022.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0022.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0023.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0023.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0024.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0024.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0025.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0025.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0026.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0026.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0028.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0028.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0029.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0029.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0043.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0043.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0044.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0044.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0045.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0045.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0046.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0046.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190309/video/YX9_0047.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0047.MOV",
+      "bucket": "190309",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190317/video/YX9_0056.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0056.MOV",
+      "bucket": "190317",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190317/video/YX9_0057.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0057.MOV",
+      "bucket": "190317",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190317/video/YX9_0058.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0058.MOV",
+      "bucket": "190317",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190321/video/YX9_0001.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0001.MOV",
+      "bucket": "190321",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190321/video/YX9_0021.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0021.MOV",
+      "bucket": "190321",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190321/video/YX9_0037.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0037.MOV",
+      "bucket": "190321",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190321/video/YX9_0038.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0038.MOV",
+      "bucket": "190321",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190321/video/YX9_0073.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0073.MOV",
+      "bucket": "190321",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190321/video/YX9_0081.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0081.MOV",
+      "bucket": "190321",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190324/video/YX9_0146.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0146.MOV",
+      "bucket": "190324",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190324/video/YX9_0147.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0147.MOV",
+      "bucket": "190324",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190324/video/YX9_0148.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0148.MOV",
+      "bucket": "190324",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190324/video/YX9_0149.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190302_大二下开学/video/YX9_0149.MOV",
+      "bucket": "190324",
+      "event": "190302_大二下开学",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0001.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0001.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0003.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0003.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0004.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0004.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0005.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0005.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0006.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0006.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0007.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0007.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0008.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0008.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0013(1).MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0013(1).MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0013.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0013.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0017.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0017.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0018.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0018.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0025.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0025.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0026.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0026.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0029.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0029.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0030.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0030.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0031.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0031.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0032.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0032.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0033.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0033.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0034.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0034.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190503/video/YX9_0037.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0037.MOV",
+      "bucket": "190503",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/VID_20190504_072155.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/VID_20190504_072155.mp4",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/VID_20190504_090439.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/VID_20190504_090439.mp4",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/VID_20190504_090844.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/VID_20190504_090844.mp4",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/VID_20190504_150855.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/VID_20190504_150855.mp4",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/VID_20190504_150857.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/VID_20190504_150857.mp4",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/VID_20190504_151002.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/VID_20190504_151002.mp4",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/VID_20190504_151438.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/VID_20190504_151438.mp4",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0003.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0003__190504.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0004.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0004__190504.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0006.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0006__190504.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0010.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0010.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0011.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0011.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0012.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0012.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0013.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0013__190504.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0014.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0014.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0016.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0016.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0017.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0017__190504.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0019.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0019.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0020.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0020.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0021.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0021.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0022.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0022.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190504/video/YX9_0024.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190430_劳动节与马拉松/video/YX9_0024.MOV",
+      "bucket": "190504",
+      "event": "190430_劳动节与马拉松",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/8字中间.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/8字中间.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6919.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6919.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6921.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6921.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6923.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6923.mp4",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6925.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6925.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6926.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6926.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6927.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6927.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6928.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6928.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6947.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6947.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6948.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6948.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6949.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6949.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6950.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6950.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6951.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6951.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6952.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6952.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6970.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6970.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6974.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6974.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6976.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6976.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6980.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6980.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6981.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6981.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6982.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6982.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6983.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6983.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6984.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6984.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6985.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6985.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6986.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6986.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6987.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6987.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6988.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6988.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6989.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6989.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6990.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6990.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6991.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6991.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6993.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6993.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6994.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6994.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6995.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6995.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6996.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6996.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6997.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6997.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6998.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6998.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_6999.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_6999.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7001.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7001.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7002.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7002.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7003.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7003.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7004.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7004.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7005.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7005.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7006.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7006.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7007.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7007.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7008.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7008.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7009.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7009.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7010.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7010.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7011.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7011.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7012.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7012.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7013.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7013.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7014.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7014.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7015.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7015.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7016.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7016.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7017.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7017.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7020.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7020.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7021.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7021.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/IMG_7022.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/IMG_7022.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0241.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0241.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0325.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0325.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0377.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0377.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0378.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0378.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0379.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0379.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0380.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0380.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0381.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0381.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0382.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0382.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0383.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0383.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0386.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0386.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0388.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0388.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0391.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0391.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0392.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0392.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0397.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0397.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0473.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0473.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0474.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0474.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0687.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0687.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0688.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0688.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0689.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0689.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0690.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0690.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0691.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0691.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0692.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0692.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0693.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0693.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0695.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0695.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0696.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0696.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0697.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0697.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0698.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0698.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0705.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0705.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/YX9_0706.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0706.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/一圈人.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/一圈人.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/准备1.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/准备1.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/出发前.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/出发前.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/出发路上.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/出发路上.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/副驾驶.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/副驾驶.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/回来1.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/回来1.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/回来2.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/回来2.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/回来3.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/回来3.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/弯道.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/弯道.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/弯道2.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/弯道2.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/抬车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/抬车.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/推车出来.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/推车出来.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/放轮胎.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/放轮胎.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/放轮胎2.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/放轮胎2.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/无人机.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/无人机.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/无人机升起.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/无人机升起.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/点火.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/点火.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/皮卡来.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/皮卡来.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/直线.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/直线.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/继雨哥笑.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/继雨哥笑.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/花絮.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/花絮.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/花絮2.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/花絮2.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/花絮3.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/花絮3.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/花絮李雨遨.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/花絮李雨遨.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/赛车场景.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/赛车场景.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/跟车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/跟车.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/跟车2.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/跟车2.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/跟车3.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/跟车3.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/跟车侧.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/跟车侧.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/跟车前面.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/跟车前面.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/跟车斜前方.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/跟车斜前方.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/队员开车.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/队员开车.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/集装箱关.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/集装箱关.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/集装箱开.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/集装箱开.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190516/video/飘移动.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/飘移动.MOV",
+      "bucket": "190516",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0723.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0723.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0732.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0732.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0739.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0739.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0763.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0763.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0778.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0778.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0840.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0840.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0842.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0842.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0848.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0848.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0850.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0850.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0853.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0853.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0854.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0854.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0855.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0855.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0868.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0868.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0870.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0870.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0873.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0873.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0913.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0913.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190518/video/YX9_0917.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0917.MOV",
+      "bucket": "190518",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0374.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0374.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0378.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0378__190525.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0379.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0379__190525.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0380.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0380__190525.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0381.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0381__190525.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0382.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0382__190525.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0383.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0383__190525.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0384.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0384.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0385.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0385.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0386.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0386__190525.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0387.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0387.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0388.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0388__190525.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0389.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0389.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0390.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0390.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190525/video/YX9_0391.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0391__190525.MOV",
+      "bucket": "190525",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190606/video/YX9_0001.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0001.MOV",
+      "bucket": "190606",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190606/video/YX9_0002.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0002.MOV",
+      "bucket": "190606",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190606/video/YX9_0003.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0003.MOV",
+      "bucket": "190606",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190606/video/YX9_0004.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0004.MOV",
+      "bucket": "190606",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190606/video/YX9_0005.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0005.MOV",
+      "bucket": "190606",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190606/video/YX9_0006.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0006.MOV",
+      "bucket": "190606",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190606/video/YX9_0007.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0007.MOV",
+      "bucket": "190606",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190606/video/YX9_0008.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0008.MOV",
+      "bucket": "190606",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190606/video/YX9_0009.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0009.MOV",
+      "bucket": "190606",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/7.25延时装车.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/7.25延时装车.mp4",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0001.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0001__190609.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0002.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0002__190609.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0003.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0003__190609.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0004.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0004__190609.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0005.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0005__190609.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0006.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0006__190609.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0007.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0007__190609.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0008.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0008__190609.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0009.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0009__190609.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": true
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0010.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0010.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0011.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0011.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0012.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0012.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0013.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0013.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0014.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0014.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0015.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0015.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0016.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0016.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0017.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0017.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0018.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0018.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0019.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0019.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0020.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0020.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0021.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0021.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0022.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0022.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0023.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0023.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0024.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0024.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0025.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0025.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0026.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0026.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0027.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0027.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0028.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0028.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0029.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0029.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0030.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0030.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0031.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0031.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0038.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0038.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0039.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0039.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0040.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0040.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0041.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0041.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0042.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0042.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0043.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0043.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0044.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0044.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0045.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0045.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0046.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0046.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0047.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0047.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0048.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0048.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0049.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0049.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0050.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0050.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0051.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0051.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0052.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0052.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0053.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0053.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/YX9_0054.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0054.MOV",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190609/video/展示视频.mp4",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/展示视频.mp4",
+      "bucket": "190609",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0265.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0265.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0266.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0266.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0267.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0267.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0274.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0274.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0275.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0275.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0289.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0289.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0291.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0291.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0292.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0292.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0293.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0293.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190622/video/YX9_0294.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190513_挑战杯间隙/video/YX9_0294.MOV",
+      "bucket": "190622",
+      "event": "190513_挑战杯间隙",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190529/video/YX9_0133.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190529_车队毕业/video/YX9_0133.MOV",
+      "bucket": "190529",
+      "event": "190529_车队毕业",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190529/video/YX9_0369.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190529_车队毕业/video/YX9_0369.MOV",
+      "bucket": "190529",
+      "event": "190529_车队毕业",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190710/video/YX9_0022.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190701_大二暑假/video/YX9_0022.MOV",
+      "bucket": "190710",
+      "event": "190701_大二暑假",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190710/video/YX9_0048.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190701_大二暑假/video/YX9_0048.MOV",
+      "bucket": "190710",
+      "event": "190701_大二暑假",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190710/video/YX9_0049.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190701_大二暑假/video/YX9_0049.MOV",
+      "bucket": "190710",
+      "event": "190701_大二暑假",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190715/video/YX9_0007.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190701_大二暑假/video/YX9_0007.MOV",
+      "bucket": "190715",
+      "event": "190701_大二暑假",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0253.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0253.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0254.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0254.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0255.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0255.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0256.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0256.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0257.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0257.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0271.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0271.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0272.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0272.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0273.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0273.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0274.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0274.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0285.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0285.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0301.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0301.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0313.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0313.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0314.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0314.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0345.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0345.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0541.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0541.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0543.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0543.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0544.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0544.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0548.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0548.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0552.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0552.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0553.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0553.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0554.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0554.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0555.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0555.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0561.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0561.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0562.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0562.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0653.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0653.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0654.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0654.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0666.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0666.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/190915/video/YX0_0688.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0688.MOV",
+      "bucket": "190915",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0381.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0381.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0392.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0392.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0393.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0393.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0394.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0394.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0396.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0396.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0397.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0397.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0470.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0470.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0471.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0471.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0472.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0472.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0474.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0474.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0475.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0475.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0476.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0476.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0477.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0477.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0482.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0482.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0489.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0489.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    },
+    {
+      "source": "燕翔相册_按事件整理/遗漏照片/191001/video/YX0_0498.MOV",
+      "dest": "燕翔相册_按事件整理/遗漏照片/190901_比赛之前/video/YX0_0498.MOV",
+      "bucket": "191001",
+      "event": "190901_比赛之前",
+      "renamedForCollision": false
+    }
+  ],
+  "startedAt": "2026-09-08T08:18:15.895702+00:00",
+  "completedAt": "2026-09-08T08:18:17.007541+00:00",
+  "moved": 490,
+  "companionsHandled": 490,
+  "removedEmptyVideoDirs": [
+    "燕翔相册_按事件整理/遗漏照片/181222/video",
+    "燕翔相册_按事件整理/遗漏照片/190102/video",
+    "燕翔相册_按事件整理/遗漏照片/190308/video",
+    "燕翔相册_按事件整理/遗漏照片/190309/video",
+    "燕翔相册_按事件整理/遗漏照片/190317/video",
+    "燕翔相册_按事件整理/遗漏照片/190321/video",
+    "燕翔相册_按事件整理/遗漏照片/190324/video",
+    "燕翔相册_按事件整理/遗漏照片/190503/video",
+    "燕翔相册_按事件整理/遗漏照片/190504/video",
+    "燕翔相册_按事件整理/遗漏照片/190516/video",
+    "燕翔相册_按事件整理/遗漏照片/190518/video",
+    "燕翔相册_按事件整理/遗漏照片/190525/video",
+    "燕翔相册_按事件整理/遗漏照片/190529/video",
+    "燕翔相册_按事件整理/遗漏照片/190606/video",
+    "燕翔相册_按事件整理/遗漏照片/190609/video",
+    "燕翔相册_按事件整理/遗漏照片/190622/video",
+    "燕翔相册_按事件整理/遗漏照片/190710/video",
+    "燕翔相册_按事件整理/遗漏照片/190715/video",
+    "燕翔相册_按事件整理/遗漏照片/190915/video",
+    "燕翔相册_按事件整理/遗漏照片/191001/video"
+  ],
+  "keptVideoDirs": []
+}

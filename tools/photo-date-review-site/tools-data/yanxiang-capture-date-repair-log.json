@@ -1,0 +1,11 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T01:31:24.636563+00:00",
+  "candidateCount": 178,
+  "photoFiles": 58,
+  "videoFiles": 120,
+  "succeeded": 178,
+  "errors": 0,
+  "metadataChangedFiles": 178,
+  "note": "Date assigned from original date subfolder; existing time-of-day preserved where available, otherwise deterministic sequence."
+}

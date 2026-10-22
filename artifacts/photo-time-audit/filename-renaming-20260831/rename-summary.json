@@ -1,0 +1,28 @@
+{
+  "candidate_files": 1700,
+  "ready_to_rename": 1700,
+  "missing_time": 0,
+  "by_prefix": {
+    "wechat": 1612,
+    "baidu": 14,
+    "cache": 4,
+    "faceapp": 5,
+    "camera": 4,
+    "jike": 44,
+    "taobao": 6,
+    "rednote": 7,
+    "bili": 1,
+    "idlefish": 3
+  },
+  "by_timestamp_source": {
+    "filename_epoch": 617,
+    "FileModifyDate": 80,
+    "CreateDate": 326,
+    "DateTimeOriginal": 529,
+    "CreationDate": 139,
+    "MediaCreateDate": 1,
+    "ModifyDate": 8
+  },
+  "collision_groups": 14,
+  "files_with_suffix": 19
+}

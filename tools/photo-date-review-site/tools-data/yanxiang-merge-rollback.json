@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T01:05:26.158801+00:00",
+  "root": "/Volumes/FATCLOUD/燕翔相册_按事件整理",
+  "forwardLogs": [
+    "tools-data/yanxiang-merge-plan.json",
+    "tools-data/yanxiang-merge-plan-v2.json"
+  ],
+  "reverseOrder": [
+    "tools-data/yanxiang-merge-plan-v2.json operations (reverse)",
+    "tools-data/yanxiang-merge-plan.json operations[0:14600] (reverse)"
+  ],
+  "restoredOperations": 19595,
+  "alreadyRestored": 0,
+  "emptyDestDirsRemoved": [
+    "燕翔相册_按事件整理/171022_车队招新/photo",
+    "燕翔相册_按事件整理/171022_车队招新/video",
+    "燕翔相册_按事件整理/180226_大一下开学/photo",
+    "燕翔相册_按事件整理/180428_五一前后/photo",
+    "燕翔相册_按事件整理/180530_焦躁暑假/photo",
+    "燕翔相册_按事件整理/181013_车队轴心/photo",
+    "燕翔相册_按事件整理/181130_步入正轨/photo",
+    "燕翔相册_按事件整理/181130_步入正轨/video",
+    "燕翔相册_按事件整理/190302_大二下开学/photo",
+    "燕翔相册_按事件整理/190302_大二下开学/video",
+    "燕翔相册_按事件整理/190503_劳动节与马拉松/photo",
+    "燕翔相册_按事件整理/190503_劳动节与马拉松/video",
+    "燕翔相册_按事件整理/190529_车队毕业/photo",
+    "燕翔相册_按事件整理/190529_车队毕业/video",
+    "燕翔相册_按事件整理/190626_挑战杯间隙/photo",
+    "燕翔相册_按事件整理/190626_挑战杯间隙/video",
+    "燕翔相册_按事件整理/190702_大二暑假/photo",
+    "燕翔相册_按事件整理/190702_大二暑假/video",
+    "燕翔相册_按事件整理/190906_比赛之前/photo",
+    "燕翔相册_按事件整理/190906_比赛之前/video",
+    "燕翔相册_按事件整理/191117_珠海比赛/photo",
+    "燕翔相册_按事件整理/191117_珠海比赛/video",
+    "燕翔相册_按事件整理/191128_比赛之后/photo",
+    "燕翔相册_按事件整理/191128_比赛之后/video",
+    "燕翔相册_按事件整理/200905_疫情回校/photo",
+    "燕翔相册_按事件整理/200905_疫情回校/video",
+    "燕翔相册_按事件整理/未采用/photo",
+    "燕翔相册_按事件整理/未采用/video"
+  ],
+  "keptPreexistingDirs": [
+    "燕翔相册_按事件整理/180927_9号发布会/photo"
+  ],
+  "mediaDeleted": 0,
+  "note": "Restored files to their original event/date folders; no file content or filename was changed by rollback."
+}

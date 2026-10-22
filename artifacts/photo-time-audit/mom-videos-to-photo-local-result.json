@@ -1,0 +1,95 @@
+{
+  "completed": 18,
+  "operations": [
+    {
+      "src": "/Volumes/photo/210327_王耀冉天津行/video/wechat_210328_110759.MP4",
+      "dst": "/Volumes/photo/210327_王耀冉天津行/photo/wechat_210328_110759.MP4",
+      "sha256": "a90319d1d2e94622e18f059651ecff1b98546e832b0e008cb4b84bac02624b1f"
+    },
+    {
+      "src": "/Volumes/photo/180200_大一下/video/IMG_1587.MOV",
+      "dst": "/Volumes/photo/180200_大一下/photo/IMG_1587.MOV",
+      "sha256": "bb4ac92fee37654eca4778ebbdf84b56ac6f9ba647cd5d9ad872c5b897fcc79a"
+    },
+    {
+      "src": "/Volumes/photo/180200_大一下/video/IMG_1585.MOV",
+      "dst": "/Volumes/photo/180200_大一下/photo/IMG_1585.MOV",
+      "sha256": "990b1591d4f547706497fe69a8989734d6d256fe529e1f65740e0f4817cc4d34"
+    },
+    {
+      "src": "/Volumes/photo/180501_北京周子豪/video/IMG_2089.mp4",
+      "dst": "/Volumes/photo/180501_北京周子豪/photo/IMG_2089.mp4",
+      "sha256": "b8305e87b6522b2a36411a57424506c96ba58ed6052403f1a4ff3f499d7eb285"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3457.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3457.MOV",
+      "sha256": "a0cd798dfe164d6c8af5ac9a701542abe31529e2b2ef542747124f1b117f29b1"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3468.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3468.MOV",
+      "sha256": "6c9a4359e6377256df0676bcf2fba2c423f40c68740962000820247b5692c1ec"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3469.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3469.MOV",
+      "sha256": "4b31171dc435dc51faf380260c4fd269423e8473c08267a6e9b4e692ca7e919a"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3458.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3458.MOV",
+      "sha256": "dd27e3c04014ebafa9f2713b8fde1da9daaccffd2d02746b2c4699941e0dc41a"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3464.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3464.MOV",
+      "sha256": "563ce20a6cd75bca93aa8e61c196c3c501273be534494fe681e422bd6474e086"
+    },
+    {
+      "src": "/Volumes/photo/181016_阿纳亚/video/FinalVideo_1539178139.239015.MP4",
+      "dst": "/Volumes/photo/181016_阿纳亚/photo/FinalVideo_1539178139.239015.MP4",
+      "sha256": "bf8956ac54899a48de46f11f49343f4fd394c10514ba78cca382823130f6f62d"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3467.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3467.MOV",
+      "sha256": "5030f24da2e701fd2978643aa2132564979e39eeacab197e50fcf3c874adcad0"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3462.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3462.MOV",
+      "sha256": "add1625b7992c54b10260bfc2df0412caa811dc0f0219863debbc15843ea8f38"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3463.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3463.MOV",
+      "sha256": "f776042082f6b72a6ee0fde51ff56d3121e0e4f250e51a474841b48bbcdead0c"
+    },
+    {
+      "src": "/Volumes/photo/181016_阿纳亚/video/FinalVideo_1539178453.654956.MP4",
+      "dst": "/Volumes/photo/181016_阿纳亚/photo/FinalVideo_1539178453.654956.MP4",
+      "sha256": "5a70e1887f7689d538be8b05dc77465dac9a4eca89fab5c04482115e2ae64160"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3461.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3461.MOV",
+      "sha256": "079a4618071a76ddeac6ad607c7392205578490d5f972931bf513b77ca577ab0"
+    },
+    {
+      "src": "/Volumes/photo/190200_大二下/video/IMG_3460.MOV",
+      "dst": "/Volumes/photo/190200_大二下/photo/IMG_3460.MOV",
+      "sha256": "5488270c5dcbe55f54c6d8402987c0d358ab3b47b69065d50103a22b28efceb4"
+    },
+    {
+      "src": "/Volumes/photo/181001_国庆天津滨州/video/IMG_2876.MOV",
+      "dst": "/Volumes/photo/181001_国庆天津滨州/photo/IMG_2876.MOV",
+      "sha256": "be008c0bf84a47ece6de18837272c97f596cbacd2f716b82d99e2b0e7f170c27"
+    },
+    {
+      "src": "/Volumes/photo/200923_天津会友/video/9f89fc97b1a3df3f6ded664269a2b42a.MOV",
+      "dst": "/Volumes/photo/200923_天津会友/photo/9f89fc97b1a3df3f6ded664269a2b42a.MOV",
+      "sha256": "31f9d1d9af724d40a0afc2f9d6d8a1b9676f63ff0353a3f2ec2baab98765b967"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "relative_to_library": "220501_夏天封校/IMG_20220522_124517_1.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2022-05-22 12:45:17",
+    "reason": "Root refined JPEG disagreed with identical original and explicit IMG filename timestamp."
+  },
+  {
+    "relative_to_library": "260111_寒冷腊月/20260117_143914.mov",
+    "media_type": "video",
+    "extension": ".mov",
+    "proposed_time": "2026-01-17 14:39:14",
+    "reason": "Root MOV and source MP4 were visually confirmed as the same video; filename carries local time."
+  },
+  {
+    "relative_to_library": "260505_劳动节/ChatGPT Image 2026年5月5日 13_19_38.png",
+    "media_type": "photo",
+    "extension": ".png",
+    "proposed_time": "2026-05-01 10:13:57",
+    "reason": "Generated refined image visually matched source photo 20260501_101357.jpg and should inherit source capture time."
+  },
+  {
+    "relative_to_library": "211130_封校期间/photo/CLOUDUH_211219143927.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-12-19 14:39:27",
+    "reason": "Source EXIF was batch-shifted; filename and root copy agree on the original time."
+  },
+  {
+    "relative_to_library": "211130_封校期间/photo/CLOUDUH_211221142014.png",
+    "media_type": "photo",
+    "extension": ".png",
+    "proposed_time": "2021-12-21 14:20:14",
+    "reason": "Source EXIF was batch-shifted; explicit CLOUDUH filename supplies the intended time."
+  },
+  {
+    "relative_to_library": "220216_春天封校/photo/CLOUDUH_220317070014.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2022-03-17 07:00:14",
+    "reason": "Source EXIF was set to October; filename and root copy agree on March 17."
+  }
+]

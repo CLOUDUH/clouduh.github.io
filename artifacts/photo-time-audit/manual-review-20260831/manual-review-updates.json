@@ -1,0 +1,222 @@
+[
+  {
+    "relative_to_library": "180700_大一暑假/IMG_20180513_034703.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2018-05-12 03:47:03",
+    "reason": "explicit user date",
+    "note": "18年秦皇岛马拉松",
+    "review_decision": "set",
+    "current_time": "2018-05-13 03:47:03"
+  },
+  {
+    "relative_to_library": "210527_年级大合照/IMG_20210524_224106.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-05-26 22:41:06",
+    "reason": "explicit user date",
+    "note": "本科毕业大合照那天",
+    "review_decision": "set",
+    "current_time": "2021-05-24 22:41:06"
+  },
+  {
+    "relative_to_library": "210527_年级大合照/IMG_20210527_121326.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-05-26 12:13:26",
+    "reason": "propagated from same-day note group",
+    "note": "毕业大合照那天",
+    "review_decision": "unset",
+    "current_time": "2021-05-27 12:13:26"
+  },
+  {
+    "relative_to_library": "210527_年级大合照/IMG_20210527_122714.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-05-26 12:27:14",
+    "reason": "propagated from same-day note group",
+    "note": "毕业大合照那天",
+    "review_decision": "unset",
+    "current_time": "2021-05-27 12:27:14"
+  },
+  {
+    "relative_to_library": "210527_年级大合照/IMG_20210527_170746.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-05-26 17:07:46",
+    "reason": "propagated from same-day note group",
+    "note": "毕业大合照那天",
+    "review_decision": "unset",
+    "current_time": "2021-05-27 17:07:46"
+  },
+  {
+    "relative_to_library": "210530_车辆足球队/IMG_20210528_181606.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-05-30 18:16:06",
+    "reason": "explicit user date",
+    "note": "毕业球赛",
+    "review_decision": "set",
+    "current_time": "2021-05-28 18:16:06"
+  },
+  {
+    "relative_to_library": "210530_车辆足球队/IMG_20210528_181943.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-05-30 18:19:43",
+    "reason": "propagated from same-day note group",
+    "note": "毕业球赛",
+    "review_decision": "unset",
+    "current_time": "2021-05-28 18:19:43"
+  },
+  {
+    "relative_to_library": "210616_昆明大理/IMG_20211111_191438.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-06-15 19:14:38",
+    "reason": "note says same day as previous photo, whose current date is 2021-06-15",
+    "note": "与上一张一天，在云南大理的第一天",
+    "review_decision": "set",
+    "current_time": "2021-11-11 19:14:38"
+  },
+  {
+    "relative_to_library": "210616_昆明大理/IMG_20211111_191438_1.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-06-15 19:14:38",
+    "reason": "propagated from same-day note group",
+    "note": "云南大理第一天",
+    "review_decision": "unset",
+    "current_time": "2021-11-11 19:14:38"
+  },
+  {
+    "relative_to_library": "210616_昆明大理/IMG_20211111_191438_2.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-06-15 19:14:38",
+    "reason": "propagated from same-day note group",
+    "note": "云南大理第一天",
+    "review_decision": "unset",
+    "current_time": "2021-11-11 19:14:38"
+  },
+  {
+    "relative_to_library": "210616_昆明大理/IMG_20211111_191438_3.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-06-15 19:14:38",
+    "reason": "propagated from same-day note group",
+    "note": "云南大理第一天",
+    "review_decision": "unset",
+    "current_time": "2021-11-11 19:14:38"
+  },
+  {
+    "relative_to_library": "210616_昆明大理/IMG_20211111_191438_4.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-06-15 19:14:38",
+    "reason": "propagated from same-day note group",
+    "note": "云南大理第一天",
+    "review_decision": "unset",
+    "current_time": "2021-11-11 19:14:38"
+  },
+  {
+    "relative_to_library": "210616_昆明大理/IMG_20211111_191459.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-06-15 19:14:59",
+    "reason": "propagated from same-day note group",
+    "note": "云南大理第一天",
+    "review_decision": "unset",
+    "current_time": "2021-11-11 19:14:59"
+  },
+  {
+    "relative_to_library": "210618_丽江/IMG_20211111_191448.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-06-18 19:14:48",
+    "reason": "propagated from same-day note group",
+    "note": "云南丽江第二天",
+    "review_decision": "unset",
+    "current_time": "2021-11-11 19:14:48"
+  },
+  {
+    "relative_to_library": "210618_丽江/IMG_20211111_191451.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-06-17 19:14:51",
+    "reason": "propagated from same-day note group",
+    "note": "云南丽江第一天",
+    "review_decision": "unset",
+    "current_time": "2021-11-11 19:14:51"
+  },
+  {
+    "relative_to_library": "220130_虎年春节/CLOUDUH_211130191517.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2021-08-04 19:15:17",
+    "reason": "explicit user date",
+    "note": "",
+    "review_decision": "set",
+    "current_time": "2021-11-30 19:15:17"
+  },
+  {
+    "relative_to_library": "231012_民航参观/WechatIMG3.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2023-10-12 19:27:29",
+    "reason": "explicit user date",
+    "note": "民航参观",
+    "review_decision": "set",
+    "current_time": "2023-10-03 19:27:29"
+  },
+  {
+    "relative_to_library": "231012_民航参观/WechatIMG4.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2023-10-12 15:44:08",
+    "reason": "propagated from same-day note group",
+    "note": "民航参观",
+    "review_decision": "unset",
+    "current_time": "2023-10-10 15:44:08"
+  },
+  {
+    "relative_to_library": "240312_姐姐结婚/161021711422396_.pic_hd.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2024-03-28 02:31:54",
+    "reason": "explicit user date",
+    "note": "姐姐结婚",
+    "review_decision": "set",
+    "current_time": "2021-01-10 02:31:54"
+  },
+  {
+    "relative_to_library": "240312_姐姐结婚/161051711422709_.pic.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2024-03-28 13:51:54",
+    "reason": "propagated from same-day note group",
+    "note": "姐姐结婚",
+    "review_decision": "unset",
+    "current_time": "2021-01-13 13:51:54"
+  },
+  {
+    "relative_to_library": "240613_CAA学生分会/WechatIMG448.jpg",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2024-06-12 11:21:33",
+    "reason": "propagated from same-day note group",
+    "note": "学会会议前一天",
+    "review_decision": "unset",
+    "current_time": "2024-06-16 11:21:33"
+  },
+  {
+    "relative_to_library": "240801_强化暑假/IMG_0776.JPG",
+    "media_type": "photo",
+    "extension": ".jpg",
+    "proposed_time": "2024-08-04 22:20:37",
+    "reason": "explicit user date",
+    "note": "",
+    "review_decision": "set",
+    "current_time": "2024-10-24 22:20:37"
+  }
+]

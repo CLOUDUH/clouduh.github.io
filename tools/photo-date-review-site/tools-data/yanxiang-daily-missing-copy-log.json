@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T06:12:17.936282+00:00",
+  "source": "/Volumes/FATCLOUD/2019/日常记录",
+  "destination": "/Volumes/FATCLOUD/燕翔相册_按事件整理/遗漏照片",
+  "copied": 706,
+  "errors": 0,
+  "bucketCounts": {
+    "190516": 362,
+    "190919": 149,
+    "190518": 190,
+    "181222": 5
+  },
+  "collisionRenames": 0,
+  "originalsMovedOrDeleted": 0,
+  "crosscheck": "4,551 source photos; 3,845 matched pending; 706 missing"
+}

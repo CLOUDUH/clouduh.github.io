@@ -1,0 +1,83 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T02:58:32.451790+00:00",
+  "source": "/Volumes/photo/待整理照片",
+  "destination": "/Volumes/photo",
+  "summaryDir": "/Volumes/FATCLOUD/燕翔相册_精选汇总_待上传",
+  "favoriteMoved": 110,
+  "favoriteDedupQuarantined": 4,
+  "ordinaryPhotosMoved": 10003,
+  "ordinaryVideosMoved": 100,
+  "quarantineFiles": 4,
+  "summaryCopies": 110,
+  "collisionRenames": 54,
+  "mediaDeleted": 0,
+  "mapping": {
+    "171022_车队招新": {
+      "target": "171022_车队招新",
+      "basis": "new_event_exact_name_rule"
+    },
+    "180226_大一下开学": {
+      "target": "180226_大一下开学",
+      "basis": "exact"
+    },
+    "180428_五一前后": {
+      "target": "180428_五一前后",
+      "basis": "exact"
+    },
+    "180530_焦躁暑期": {
+      "target": "180530_焦躁暑期",
+      "basis": "exact"
+    },
+    "180927_9号发布会": {
+      "target": "180927_9号发布会",
+      "basis": "new_event"
+    },
+    "181013_车队轴心": {
+      "target": "181013_车队轴心",
+      "basis": "exact"
+    },
+    "181130_步入正轨": {
+      "target": "181130_步入正轨",
+      "basis": "new_event"
+    },
+    "190302_大二下开学": {
+      "target": "190302_大二下开学",
+      "basis": "exact"
+    },
+    "190430_劳动节与马拉松": {
+      "target": "190430_劳动节与马拉松",
+      "basis": "exact"
+    },
+    "190513_挑战杯间隙": {
+      "target": "190513_挑战杯间隙",
+      "basis": "exact"
+    },
+    "190529_车队毕业": {
+      "target": "190529_车队毕业",
+      "basis": "new_event"
+    },
+    "190701_大二暑假": {
+      "target": "190701_大二暑假",
+      "basis": "exact"
+    },
+    "190901_比赛之前": {
+      "target": "190901_比赛之前",
+      "basis": "exact"
+    },
+    "191117_珠海比赛": {
+      "target": "191117_珠海比赛",
+      "basis": "exact"
+    },
+    "191128_比赛之后": {
+      "target": "191128_比赛之后",
+      "basis": "exact"
+    },
+    "200801_疫情回校": {
+      "target": "200801_疫情回校",
+      "basis": "exact"
+    }
+  },
+  "removedStagingDirs": 43,
+  "keptStagingDirs": []
+}

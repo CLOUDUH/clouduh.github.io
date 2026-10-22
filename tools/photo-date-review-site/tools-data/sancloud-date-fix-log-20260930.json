@@ -1,0 +1,2986 @@
+{
+  "generated_at": "2026-09-30T02:25:27.668178+00:00",
+  "scope": [
+    "260927_红树林",
+    "260926_出发亚庇",
+    "260928_天堂岛",
+    "260929_近岛与日落"
+  ],
+  "expected_dates": {
+    "260927_红树林": "2026:09:27",
+    "260926_出发亚庇": "2026:09:26",
+    "260928_天堂岛": "2026:09:28",
+    "260929_近岛与日落": "2026:09:29"
+  },
+  "plan_path": "/Users/cloudu/Documents/document/05_Note/clouduh.github.io/tools/photo-date-review-site/tools-data/sancloud-date-fix-plan-20260930.json",
+  "planned_count": 111,
+  "initial_write": {
+    "modified_count": 111,
+    "error_count": 0,
+    "initial_verify_fail_count": 29
+  },
+  "filesystem_and_timezone_correction_count": 111,
+  "error_count": 0,
+  "final_verified_count": 111,
+  "final_verify_fail_count": 0,
+  "errors": [],
+  "verify_fail": [],
+  "items": [
+    {
+      "path": "/Volumes/SANCLOUD/260927_红树林/video/wx_camera_1790494751708.mp4",
+      "root": "260927_红树林",
+      "expected_date": "2026:09:27",
+      "action": "fill_zero_media_dates",
+      "source_date": "2026:09:27",
+      "before": {
+        "CreateDate": "0000:00:00 00:00:00",
+        "ModifyDate": "0000:00:00 00:00:00",
+        "MediaCreateDate": "0000:00:00 00:00:00",
+        "MediaModifyDate": "0000:00:00 00:00:00",
+        "TrackCreateDate": "0000:00:00 00:00:00",
+        "TrackModifyDate": "0000:00:00 00:00:00",
+        "FileModifyDate": "2026:09:27 15:39:11+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:27 15:39:11",
+        "ModifyDate": "2026:09:27 15:39:11",
+        "MediaCreateDate": "2026:09:27 15:39:11+08:00",
+        "MediaModifyDate": "2026:09:27 15:39:11+08:00",
+        "TrackCreateDate": "2026:09:27 15:39:11+08:00",
+        "TrackModifyDate": "2026:09:27 15:39:11+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:27 15:39:11+08:00",
+        "FileModifyDate": "2026:09:27 15:39:11+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260927_红树林/video/wx_camera_1790489528615.mp4",
+      "root": "260927_红树林",
+      "expected_date": "2026:09:27",
+      "action": "fill_zero_media_dates",
+      "source_date": "2026:09:27",
+      "before": {
+        "CreateDate": "0000:00:00 00:00:00",
+        "ModifyDate": "0000:00:00 00:00:00",
+        "MediaCreateDate": "0000:00:00 00:00:00",
+        "MediaModifyDate": "0000:00:00 00:00:00",
+        "TrackCreateDate": "0000:00:00 00:00:00",
+        "TrackModifyDate": "0000:00:00 00:00:00",
+        "FileModifyDate": "2026:09:27 14:12:08+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:27 14:12:08",
+        "ModifyDate": "2026:09:27 14:12:08",
+        "MediaCreateDate": "2026:09:27 14:12:08+08:00",
+        "MediaModifyDate": "2026:09:27 14:12:08+08:00",
+        "TrackCreateDate": "2026:09:27 14:12:08+08:00",
+        "TrackModifyDate": "2026:09:27 14:12:08+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:27 14:12:08+08:00",
+        "FileModifyDate": "2026:09:27 14:12:08+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260927_红树林/photo/IMG_2419.HEIC",
+      "root": "260927_红树林",
+      "expected_date": "2026:09:27",
+      "action": "shift_day",
+      "source_date": "2026:09:28",
+      "before": {
+        "DateTimeOriginal": "2026:09:28 11:12:28",
+        "CreateDate": "2026:09:28 11:12:28",
+        "ModifyDate": "2026:09:28 11:12:28",
+        "FileModifyDate": "2026:09:28 16:41:21+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:27 11:12:28",
+        "CreateDate": "2026:09:27 11:12:28",
+        "ModifyDate": "2026:09:27 11:12:28",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:27 16:41:21+08:00",
+        "FileModifyDate": "2026:09:27 16:41:21+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/video/wx_camera_1790409686220.mp4",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "fill_zero_media_dates",
+      "source_date": "2026:09:26",
+      "before": {
+        "CreateDate": "0000:00:00 00:00:00",
+        "ModifyDate": "0000:00:00 00:00:00",
+        "MediaCreateDate": "0000:00:00 00:00:00",
+        "MediaModifyDate": "0000:00:00 00:00:00",
+        "TrackCreateDate": "0000:00:00 00:00:00",
+        "TrackModifyDate": "0000:00:00 00:00:00",
+        "FileModifyDate": "2026:09:26 16:01:26+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:26 16:01:26",
+        "ModifyDate": "2026:09:26 16:01:26",
+        "MediaCreateDate": "2026:09:26 16:01:26+08:00",
+        "MediaModifyDate": "2026:09:26 16:01:26+08:00",
+        "TrackCreateDate": "2026:09:26 16:01:26+08:00",
+        "TrackModifyDate": "2026:09:26 16:01:26+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 16:01:26+08:00",
+        "FileModifyDate": "2026:09:26 16:01:26+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/video/sd1790236611_2.MP4",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "CreateDate": "2026:09:24 15:56:49+08:00",
+        "ModifyDate": "2026:09:24 15:56:51+08:00",
+        "MediaCreateDate": "2026:09:24 15:56:49+08:00",
+        "MediaModifyDate": "2026:09:24 15:56:51+08:00",
+        "TrackCreateDate": "2026:09:24 15:56:49+08:00",
+        "TrackModifyDate": "2026:09:24 15:56:51+08:00",
+        "FileModifyDate": "2026:09:24 15:56:51+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:26 07:56:49",
+        "ModifyDate": "2026:09:26 07:56:51",
+        "MediaCreateDate": "2026:09:26 15:56:49+08:00",
+        "MediaModifyDate": "2026:09:26 15:56:51+08:00",
+        "TrackCreateDate": "2026:09:26 15:56:49+08:00",
+        "TrackModifyDate": "2026:09:26 15:56:51+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 15:56:51+08:00",
+        "FileModifyDate": "2026:09:26 15:56:51+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/video/d81fa695bb39c4b5f2c1a4c581cb72fa.PNG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "FileModifyDate": "2026:09:25 16:55:51+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 16:55:51+08:00",
+        "FileModifyDate": "2026:09:26 16:55:51+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/Screenshot_20260924_151952_rednote.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "DateTimeOriginal": "2026:09:24 15:19:52",
+        "FileModifyDate": "2026:09:24 15:19:52+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 15:19:52",
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 15:19:52+08:00",
+        "FileModifyDate": "2026:09:26 15:19:52+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/wx_camera_1790241026624.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "FileModifyDate": "2026:09:24 17:10:26+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 17:10:26+08:00",
+        "FileModifyDate": "2026:09:26 17:10:26+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_210811.dng",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 21:08:12",
+        "ModifyDate": "2026:09:25 21:08:12",
+        "FileModifyDate": "2026:09:25 21:08:13+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 21:08:12",
+        "CreateDate": null,
+        "ModifyDate": "2026:09:26 21:08:12",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 21:08:13+08:00",
+        "FileModifyDate": "2026:09:26 21:08:13+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_154316.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 15:43:15",
+        "CreateDate": "2026:09:25 15:43:15",
+        "ModifyDate": "2026:09:25 15:43:15",
+        "FileModifyDate": "2026:09:25 15:43:16+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 15:43:15",
+        "CreateDate": "2026:09:26 15:43:15",
+        "ModifyDate": "2026:09:26 15:43:15",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 15:43:16+08:00",
+        "FileModifyDate": "2026:09:26 15:43:16+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_210812.dng",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 21:08:13",
+        "ModifyDate": "2026:09:25 21:08:13",
+        "FileModifyDate": "2026:09:25 21:08:14+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 21:08:13",
+        "CreateDate": null,
+        "ModifyDate": "2026:09:26 21:08:13",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 21:08:14+08:00",
+        "FileModifyDate": "2026:09:26 21:08:14+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/wx_camera_1790241297332.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "FileModifyDate": "2026:09:24 17:14:57+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 17:14:57+08:00",
+        "FileModifyDate": "2026:09:26 17:14:57+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8979.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:50:53",
+        "CreateDate": "2026:09:25 10:50:53",
+        "ModifyDate": "2026:09:25 10:50:53",
+        "FileModifyDate": "2026:09:25 10:50:53+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:50:53",
+        "CreateDate": "2026:09:26 10:50:53",
+        "ModifyDate": "2026:09:26 10:50:53",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:50:53+08:00",
+        "FileModifyDate": "2026:09:26 10:50:53+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8978.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:50:51",
+        "CreateDate": "2026:09:25 10:50:51",
+        "ModifyDate": "2026:09:25 10:50:51",
+        "FileModifyDate": "2026:09:25 10:50:51+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:50:51",
+        "CreateDate": "2026:09:26 10:50:51",
+        "ModifyDate": "2026:09:26 10:50:51",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:50:51+08:00",
+        "FileModifyDate": "2026:09:26 10:50:51+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_131856.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 13:18:55",
+        "CreateDate": "2026:09:25 13:18:55",
+        "ModifyDate": "2026:09:25 13:18:55",
+        "FileModifyDate": "2026:09:25 13:18:57+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 13:18:55",
+        "CreateDate": "2026:09:26 13:18:55",
+        "ModifyDate": "2026:09:26 13:18:55",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 13:18:57+08:00",
+        "FileModifyDate": "2026:09:26 13:18:57+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8968.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:30:41",
+        "CreateDate": "2026:09:25 10:30:41",
+        "ModifyDate": "2026:09:25 10:30:41",
+        "FileModifyDate": "2026:09:25 10:30:41+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:30:41",
+        "CreateDate": "2026:09:26 10:30:41",
+        "ModifyDate": "2026:09:26 10:30:41",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:30:41+08:00",
+        "FileModifyDate": "2026:09:26 10:30:41+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8955.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "FileModifyDate": "2026:09:24 12:06:58+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 12:06:58+08:00",
+        "FileModifyDate": "2026:09:26 12:06:58+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_184154.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 18:41:54",
+        "CreateDate": "2026:09:25 18:41:54",
+        "ModifyDate": "2026:09:25 18:41:54",
+        "FileModifyDate": "2026:09:25 18:41:56+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 18:41:54",
+        "CreateDate": "2026:09:26 18:41:54",
+        "ModifyDate": "2026:09:26 18:41:54",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 18:41:56+08:00",
+        "FileModifyDate": "2026:09:26 18:41:56+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8969.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:30:45",
+        "CreateDate": "2026:09:25 10:30:45",
+        "ModifyDate": "2026:09:25 10:30:45",
+        "FileModifyDate": "2026:09:25 10:30:45+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:30:45",
+        "CreateDate": "2026:09:26 10:30:45",
+        "ModifyDate": "2026:09:26 10:30:45",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:30:45+08:00",
+        "FileModifyDate": "2026:09:26 10:30:45+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8980.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 16:06:55",
+        "CreateDate": "2026:09:25 16:06:55",
+        "ModifyDate": "2026:09:25 16:06:55",
+        "FileModifyDate": "2026:09:25 16:06:55+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 16:06:55",
+        "CreateDate": "2026:09:26 16:06:55",
+        "ModifyDate": "2026:09:26 16:06:55",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 16:06:55+08:00",
+        "FileModifyDate": "2026:09:26 16:06:55+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8956.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "FileModifyDate": "2026:09:24 12:12:23+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 12:12:23+08:00",
+        "FileModifyDate": "2026:09:26 12:12:23+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260927_015638.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:27",
+      "before": {
+        "DateTimeOriginal": "2026:09:27 01:56:38",
+        "CreateDate": "2026:09:27 01:56:38",
+        "ModifyDate": "2026:09:27 01:56:38",
+        "FileModifyDate": "2026:09:27 01:56:41+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 01:56:38",
+        "CreateDate": "2026:09:26 01:56:38",
+        "ModifyDate": "2026:09:26 01:56:38",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 01:56:41+08:00",
+        "FileModifyDate": "2026:09:26 01:56:41+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8967.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:30:39",
+        "CreateDate": "2026:09:25 10:30:39",
+        "ModifyDate": "2026:09:25 10:30:39",
+        "FileModifyDate": "2026:09:25 10:30:39+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:30:39",
+        "CreateDate": "2026:09:26 10:30:39",
+        "ModifyDate": "2026:09:26 10:30:39",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:30:39+08:00",
+        "FileModifyDate": "2026:09:26 10:30:39+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8973.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:31:35",
+        "CreateDate": "2026:09:25 10:31:35",
+        "ModifyDate": "2026:09:25 10:31:35",
+        "FileModifyDate": "2026:09:25 10:31:35+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:31:35",
+        "CreateDate": "2026:09:26 10:31:35",
+        "ModifyDate": "2026:09:26 10:31:35",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:31:35+08:00",
+        "FileModifyDate": "2026:09:26 10:31:35+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8972.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:31:32",
+        "CreateDate": "2026:09:25 10:31:32",
+        "ModifyDate": "2026:09:25 10:31:32",
+        "FileModifyDate": "2026:09:25 10:31:32+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:31:32",
+        "CreateDate": "2026:09:26 10:31:32",
+        "ModifyDate": "2026:09:26 10:31:32",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:31:32+08:00",
+        "FileModifyDate": "2026:09:26 10:31:32+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8966.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:30:28",
+        "CreateDate": "2026:09:25 10:30:28",
+        "ModifyDate": "2026:09:25 10:30:28",
+        "FileModifyDate": "2026:09:25 10:30:28+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:30:28",
+        "CreateDate": "2026:09:26 10:30:28",
+        "ModifyDate": "2026:09:26 10:30:28",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:30:28+08:00",
+        "FileModifyDate": "2026:09:26 10:30:28+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_131858.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 13:18:58",
+        "CreateDate": "2026:09:25 13:18:58",
+        "ModifyDate": "2026:09:25 13:18:58",
+        "FileModifyDate": "2026:09:25 13:18:59+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 13:18:58",
+        "CreateDate": "2026:09:26 13:18:58",
+        "ModifyDate": "2026:09:26 13:18:58",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 13:18:59+08:00",
+        "FileModifyDate": "2026:09:26 13:18:59+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8970.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:30:49",
+        "CreateDate": "2026:09:25 10:30:49",
+        "ModifyDate": "2026:09:25 10:30:49",
+        "FileModifyDate": "2026:09:25 10:30:49+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:30:49",
+        "CreateDate": "2026:09:26 10:30:49",
+        "ModifyDate": "2026:09:26 10:30:49",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:30:49+08:00",
+        "FileModifyDate": "2026:09:26 10:30:49+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8964.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 09:40:12",
+        "CreateDate": "2026:09:25 09:40:12",
+        "ModifyDate": "2026:09:25 09:40:12",
+        "FileModifyDate": "2026:09:25 09:40:12+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 09:40:12",
+        "CreateDate": "2026:09:26 09:40:12",
+        "ModifyDate": "2026:09:26 09:40:12",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 09:40:12+08:00",
+        "FileModifyDate": "2026:09:26 09:40:12+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8959.PNG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "DateTimeOriginal": "2026:09:24 19:42:51",
+        "ModifyDate": "2026:09:24 19:42:51",
+        "FileModifyDate": "2026:09:24 19:42:51+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 19:42:51",
+        "CreateDate": null,
+        "ModifyDate": "2026:09:26 19:42:51",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 19:42:51+08:00",
+        "FileModifyDate": "2026:09:26 19:42:51+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8965.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 09:40:18",
+        "CreateDate": "2026:09:25 09:40:18",
+        "ModifyDate": "2026:09:25 09:40:18",
+        "FileModifyDate": "2026:09:25 09:40:18+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 09:40:18",
+        "CreateDate": "2026:09:26 09:40:18",
+        "ModifyDate": "2026:09:26 09:40:18",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 09:40:18+08:00",
+        "FileModifyDate": "2026:09:26 09:40:18+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8971.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:31:28",
+        "CreateDate": "2026:09:25 10:31:28",
+        "ModifyDate": "2026:09:25 10:31:28",
+        "FileModifyDate": "2026:09:25 10:31:28+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:31:28",
+        "CreateDate": "2026:09:26 10:31:28",
+        "ModifyDate": "2026:09:26 10:31:28",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:31:28+08:00",
+        "FileModifyDate": "2026:09:26 10:31:28+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8975.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:32:54",
+        "CreateDate": "2026:09:25 10:32:54",
+        "ModifyDate": "2026:09:25 10:32:54",
+        "FileModifyDate": "2026:09:25 10:32:54+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:32:54",
+        "CreateDate": "2026:09:26 10:32:54",
+        "ModifyDate": "2026:09:26 10:32:54",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:32:54+08:00",
+        "FileModifyDate": "2026:09:26 10:32:54+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8961.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "FileModifyDate": "2026:09:25 00:32:58+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 00:32:58+08:00",
+        "FileModifyDate": "2026:09:26 00:32:58+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/wx_camera_1790241163667.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "FileModifyDate": "2026:09:24 17:12:43+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 17:12:43+08:00",
+        "FileModifyDate": "2026:09:26 17:12:43+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8960.PNG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "DateTimeOriginal": "2026:09:24 19:42:51",
+        "ModifyDate": "2026:09:24 19:42:51",
+        "FileModifyDate": "2026:09:24 19:42:51+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 19:42:51",
+        "CreateDate": null,
+        "ModifyDate": "2026:09:26 19:42:51",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 19:42:51+08:00",
+        "FileModifyDate": "2026:09:26 19:42:51+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_183424.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 18:34:23",
+        "CreateDate": "2026:09:25 18:34:23",
+        "ModifyDate": "2026:09:25 18:34:23",
+        "FileModifyDate": "2026:09:25 18:34:25+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 18:34:23",
+        "CreateDate": "2026:09:26 18:34:23",
+        "ModifyDate": "2026:09:26 18:34:23",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 18:34:25+08:00",
+        "FileModifyDate": "2026:09:26 18:34:25+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_131902.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 13:19:02",
+        "CreateDate": "2026:09:25 13:19:02",
+        "ModifyDate": "2026:09:25 13:19:02",
+        "FileModifyDate": "2026:09:25 13:19:02+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 13:19:02",
+        "CreateDate": "2026:09:26 13:19:02",
+        "ModifyDate": "2026:09:26 13:19:02",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 13:19:02+08:00",
+        "FileModifyDate": "2026:09:26 13:19:02+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8974.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:31:39",
+        "CreateDate": "2026:09:25 10:31:39",
+        "ModifyDate": "2026:09:25 10:31:39",
+        "FileModifyDate": "2026:09:25 10:31:39+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:31:39",
+        "CreateDate": "2026:09:26 10:31:39",
+        "ModifyDate": "2026:09:26 10:31:39",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:31:39+08:00",
+        "FileModifyDate": "2026:09:26 10:31:39+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8962.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "FileModifyDate": "2026:09:25 00:35:09+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 00:35:09+08:00",
+        "FileModifyDate": "2026:09:26 00:35:09+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8976.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:32:56",
+        "CreateDate": "2026:09:25 10:32:56",
+        "ModifyDate": "2026:09:25 10:32:56",
+        "FileModifyDate": "2026:09:25 10:32:56+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:32:56",
+        "CreateDate": "2026:09:26 10:32:56",
+        "ModifyDate": "2026:09:26 10:32:56",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:32:56+08:00",
+        "FileModifyDate": "2026:09:26 10:32:56+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_183432.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 18:34:31",
+        "CreateDate": "2026:09:25 18:34:31",
+        "ModifyDate": "2026:09:25 18:34:31",
+        "FileModifyDate": "2026:09:25 18:34:32+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 18:34:31",
+        "CreateDate": "2026:09:26 18:34:31",
+        "ModifyDate": "2026:09:26 18:34:31",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 18:34:32+08:00",
+        "FileModifyDate": "2026:09:26 18:34:32+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8977.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 10:50:45",
+        "CreateDate": "2026:09:25 10:50:45",
+        "ModifyDate": "2026:09:25 10:50:45",
+        "FileModifyDate": "2026:09:25 10:50:45+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 10:50:45",
+        "CreateDate": "2026:09:26 10:50:45",
+        "ModifyDate": "2026:09:26 10:50:45",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 10:50:45+08:00",
+        "FileModifyDate": "2026:09:26 10:50:45+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/IMG_8963.JPG",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 09:40:06",
+        "CreateDate": "2026:09:25 09:40:06",
+        "ModifyDate": "2026:09:25 09:40:06",
+        "FileModifyDate": "2026:09:25 09:40:06+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 09:40:06",
+        "CreateDate": "2026:09:26 09:40:06",
+        "ModifyDate": "2026:09:26 09:40:06",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 09:40:06+08:00",
+        "FileModifyDate": "2026:09:26 09:40:06+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/20260925_154319.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "DateTimeOriginal": "2026:09:25 15:43:19",
+        "CreateDate": "2026:09:25 15:43:19",
+        "ModifyDate": "2026:09:25 15:43:19",
+        "FileModifyDate": "2026:09:25 15:43:19+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 15:43:19",
+        "CreateDate": "2026:09:26 15:43:19",
+        "ModifyDate": "2026:09:26 15:43:19",
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 15:43:19+08:00",
+        "FileModifyDate": "2026:09:26 15:43:19+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260926_出发亚庇/photo/Screenshot_20260924_171847_WeChat.jpg",
+      "root": "260926_出发亚庇",
+      "expected_date": "2026:09:26",
+      "action": "shift_day",
+      "source_date": "2026:09:24",
+      "before": {
+        "DateTimeOriginal": "2026:09:24 17:18:47",
+        "FileModifyDate": "2026:09:24 17:18:48+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": "2026:09:26 17:18:47",
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:26 17:18:48+08:00",
+        "FileModifyDate": "2026:09:26 17:18:48+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260726_111100_0732_1790569383331_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:07:26",
+      "before": {
+        "CreateDate": "2026:07:26 11:11:01+08:00",
+        "ModifyDate": "2026:07:26 11:11:01+08:00",
+        "MediaCreateDate": "2026:07:26 11:11:01+08:00",
+        "MediaModifyDate": "2026:07:26 11:11:01+08:00",
+        "TrackCreateDate": "2026:07:26 11:11:01+08:00",
+        "TrackModifyDate": "2026:07:26 11:11:01+08:00",
+        "FileModifyDate": "2026:09:28 12:23:03+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:11:01",
+        "ModifyDate": "2026:09:28 03:11:01",
+        "MediaCreateDate": "2026:09:28 11:11:01+08:00",
+        "MediaModifyDate": "2026:09:28 11:11:01+08:00",
+        "TrackCreateDate": "2026:09:28 11:11:01+08:00",
+        "TrackModifyDate": "2026:09:28 11:11:01+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:03+08:00",
+        "FileModifyDate": "2026:09:28 12:23:03+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260726_111144_0734_1790569384619_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:07:26",
+      "before": {
+        "CreateDate": "2026:07:26 11:11:45+08:00",
+        "ModifyDate": "2026:07:26 11:11:45+08:00",
+        "MediaCreateDate": "2026:07:26 11:11:45+08:00",
+        "MediaModifyDate": "2026:07:26 11:11:45+08:00",
+        "TrackCreateDate": "2026:07:26 11:11:45+08:00",
+        "TrackModifyDate": "2026:07:26 11:11:45+08:00",
+        "FileModifyDate": "2026:09:28 12:23:04+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:11:45",
+        "ModifyDate": "2026:09:28 03:11:45",
+        "MediaCreateDate": "2026:09:28 11:11:45+08:00",
+        "MediaModifyDate": "2026:09:28 11:11:45+08:00",
+        "TrackCreateDate": "2026:09:28 11:11:45+08:00",
+        "TrackModifyDate": "2026:09:28 11:11:45+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:04+08:00",
+        "FileModifyDate": "2026:09:28 12:23:04+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260914_102410_0647_1790569378254_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:14",
+      "before": {
+        "CreateDate": "2026:09:14 10:24:11+08:00",
+        "ModifyDate": "2026:09:14 10:24:11+08:00",
+        "MediaCreateDate": "2026:09:14 10:24:11+08:00",
+        "MediaModifyDate": "2026:09:14 10:24:11+08:00",
+        "TrackCreateDate": "2026:09:14 10:24:11+08:00",
+        "TrackModifyDate": "2026:09:14 10:24:11+08:00",
+        "FileModifyDate": "2026:09:28 12:22:58+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 02:24:11",
+        "ModifyDate": "2026:09:28 02:24:11",
+        "MediaCreateDate": "2026:09:28 10:24:11+08:00",
+        "MediaModifyDate": "2026:09:28 10:24:11+08:00",
+        "TrackCreateDate": "2026:09:28 10:24:11+08:00",
+        "TrackModifyDate": "2026:09:28 10:24:11+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:22:58+08:00",
+        "FileModifyDate": "2026:09:28 12:22:58+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260614_095922_0446_1790569391354_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:06:14",
+      "before": {
+        "CreateDate": "2026:06:14 09:59:23+08:00",
+        "ModifyDate": "2026:06:14 09:59:23+08:00",
+        "MediaCreateDate": "2026:06:14 09:59:23+08:00",
+        "MediaModifyDate": "2026:06:14 09:59:23+08:00",
+        "TrackCreateDate": "2026:06:14 09:59:23+08:00",
+        "TrackModifyDate": "2026:06:14 09:59:23+08:00",
+        "FileModifyDate": "2026:09:28 12:23:11+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 01:59:23",
+        "ModifyDate": "2026:09:28 01:59:23",
+        "MediaCreateDate": "2026:09:28 09:59:23+08:00",
+        "MediaModifyDate": "2026:09:28 09:59:23+08:00",
+        "TrackCreateDate": "2026:09:28 09:59:23+08:00",
+        "TrackModifyDate": "2026:09:28 09:59:23+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:11+08:00",
+        "FileModifyDate": "2026:09:28 12:23:11+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260527_095104_0196_1790569402988_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:05:27",
+      "before": {
+        "CreateDate": "2026:05:27 09:51:06+08:00",
+        "ModifyDate": "2026:05:27 09:51:06+08:00",
+        "MediaCreateDate": "2026:05:27 09:51:06+08:00",
+        "MediaModifyDate": "2026:05:27 09:51:06+08:00",
+        "TrackCreateDate": "2026:05:27 09:51:06+08:00",
+        "TrackModifyDate": "2026:05:27 09:51:06+08:00",
+        "FileModifyDate": "2026:09:28 12:23:23+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 01:51:06",
+        "ModifyDate": "2026:09:28 01:51:06",
+        "MediaCreateDate": "2026:09:28 09:51:06+08:00",
+        "MediaModifyDate": "2026:09:28 09:51:06+08:00",
+        "TrackCreateDate": "2026:09:28 09:51:06+08:00",
+        "TrackModifyDate": "2026:09:28 09:51:06+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:23+08:00",
+        "FileModifyDate": "2026:09:28 12:23:23+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260612_112604_0436_1790569390243_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:06:12",
+      "before": {
+        "CreateDate": "2026:06:12 11:26:06+08:00",
+        "ModifyDate": "2026:06:12 11:26:06+08:00",
+        "MediaCreateDate": "2026:06:12 11:26:06+08:00",
+        "MediaModifyDate": "2026:06:12 11:26:06+08:00",
+        "TrackCreateDate": "2026:06:12 11:26:06+08:00",
+        "TrackModifyDate": "2026:06:12 11:26:06+08:00",
+        "FileModifyDate": "2026:09:28 12:23:10+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:26:06",
+        "ModifyDate": "2026:09:28 03:26:06",
+        "MediaCreateDate": "2026:09:28 11:26:06+08:00",
+        "MediaModifyDate": "2026:09:28 11:26:06+08:00",
+        "TrackCreateDate": "2026:09:28 11:26:06+08:00",
+        "TrackModifyDate": "2026:09:28 11:26:06+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:10+08:00",
+        "FileModifyDate": "2026:09:28 12:23:10+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260605_103554_0272_1790569398000_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:06:05",
+      "before": {
+        "CreateDate": "2026:06:05 10:35:56+08:00",
+        "ModifyDate": "2026:06:05 10:35:56+08:00",
+        "MediaCreateDate": "2026:06:05 10:35:56+08:00",
+        "MediaModifyDate": "2026:06:05 10:35:56+08:00",
+        "TrackCreateDate": "2026:06:05 10:35:56+08:00",
+        "TrackModifyDate": "2026:06:05 10:35:56+08:00",
+        "FileModifyDate": "2026:09:28 12:23:18+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 02:35:56",
+        "ModifyDate": "2026:09:28 02:35:56",
+        "MediaCreateDate": "2026:09:28 10:35:56+08:00",
+        "MediaModifyDate": "2026:09:28 10:35:56+08:00",
+        "TrackCreateDate": "2026:09:28 10:35:56+08:00",
+        "TrackModifyDate": "2026:09:28 10:35:56+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:18+08:00",
+        "FileModifyDate": "2026:09:28 12:23:18+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260527_095714_0198_1790569401605_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:05:27",
+      "before": {
+        "CreateDate": "2026:05:27 09:57:14+08:00",
+        "ModifyDate": "2026:05:27 09:57:14+08:00",
+        "MediaCreateDate": "2026:05:27 09:57:14+08:00",
+        "MediaModifyDate": "2026:05:27 09:57:14+08:00",
+        "TrackCreateDate": "2026:05:27 09:57:14+08:00",
+        "TrackModifyDate": "2026:05:27 09:57:14+08:00",
+        "FileModifyDate": "2026:09:28 12:23:21+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 01:57:14",
+        "ModifyDate": "2026:09:28 01:57:14",
+        "MediaCreateDate": "2026:09:28 09:57:14+08:00",
+        "MediaModifyDate": "2026:09:28 09:57:14+08:00",
+        "TrackCreateDate": "2026:09:28 09:57:14+08:00",
+        "TrackModifyDate": "2026:09:28 09:57:14+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:21+08:00",
+        "FileModifyDate": "2026:09:28 12:23:21+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/wx_camera_1790605688430.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "fill_zero_media_dates",
+      "source_date": "2026:09:28",
+      "before": {
+        "CreateDate": "0000:00:00 00:00:00",
+        "ModifyDate": "0000:00:00 00:00:00",
+        "MediaCreateDate": "0000:00:00 00:00:00",
+        "MediaModifyDate": "0000:00:00 00:00:00",
+        "TrackCreateDate": "0000:00:00 00:00:00",
+        "TrackModifyDate": "0000:00:00 00:00:00",
+        "FileModifyDate": "2026:09:28 22:28:08+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 22:28:08",
+        "ModifyDate": "2026:09:28 22:28:08",
+        "MediaCreateDate": "2026:09:28 22:28:08+08:00",
+        "MediaModifyDate": "2026:09:28 22:28:08+08:00",
+        "TrackCreateDate": "2026:09:28 22:28:08+08:00",
+        "TrackModifyDate": "2026:09:28 22:28:08+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 22:28:08+08:00",
+        "FileModifyDate": "2026:09:28 22:28:08+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260825_110438_0103_1790569381082_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:08:25",
+      "before": {
+        "CreateDate": "2026:08:25 11:04:40+08:00",
+        "ModifyDate": "2026:08:25 11:04:40+08:00",
+        "MediaCreateDate": "2026:08:25 11:04:40+08:00",
+        "MediaModifyDate": "2026:08:25 11:04:40+08:00",
+        "TrackCreateDate": "2026:08:25 11:04:40+08:00",
+        "TrackModifyDate": "2026:08:25 11:04:40+08:00",
+        "FileModifyDate": "2026:09:28 12:23:01+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:04:40",
+        "ModifyDate": "2026:09:28 03:04:40",
+        "MediaCreateDate": "2026:09:28 11:04:40+08:00",
+        "MediaModifyDate": "2026:09:28 11:04:40+08:00",
+        "TrackCreateDate": "2026:09:28 11:04:40+08:00",
+        "TrackModifyDate": "2026:09:28 11:04:40+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:01+08:00",
+        "FileModifyDate": "2026:09:28 12:23:01+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260605_110026_0274_1790569396701_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:06:05",
+      "before": {
+        "CreateDate": "2026:06:05 11:00:27+08:00",
+        "ModifyDate": "2026:06:05 11:00:27+08:00",
+        "MediaCreateDate": "2026:06:05 11:00:27+08:00",
+        "MediaModifyDate": "2026:06:05 11:00:27+08:00",
+        "TrackCreateDate": "2026:06:05 11:00:27+08:00",
+        "TrackModifyDate": "2026:06:05 11:00:27+08:00",
+        "FileModifyDate": "2026:09:28 12:23:16+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:00:27",
+        "ModifyDate": "2026:09:28 03:00:27",
+        "MediaCreateDate": "2026:09:28 11:00:27+08:00",
+        "MediaModifyDate": "2026:09:28 11:00:27+08:00",
+        "TrackCreateDate": "2026:09:28 11:00:27+08:00",
+        "TrackModifyDate": "2026:09:28 11:00:27+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:16+08:00",
+        "FileModifyDate": "2026:09:28 12:23:16+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260527_094702_0193_1790569405635_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:05:27",
+      "before": {
+        "CreateDate": "2026:05:27 09:47:04+08:00",
+        "ModifyDate": "2026:05:27 09:47:04+08:00",
+        "MediaCreateDate": "2026:05:27 09:47:04+08:00",
+        "MediaModifyDate": "2026:05:27 09:47:04+08:00",
+        "TrackCreateDate": "2026:05:27 09:47:04+08:00",
+        "TrackModifyDate": "2026:05:27 09:47:04+08:00",
+        "FileModifyDate": "2026:09:28 12:23:25+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 01:47:04",
+        "ModifyDate": "2026:09:28 01:47:04",
+        "MediaCreateDate": "2026:09:28 09:47:04+08:00",
+        "MediaModifyDate": "2026:09:28 09:47:04+08:00",
+        "TrackCreateDate": "2026:09:28 09:47:04+08:00",
+        "TrackModifyDate": "2026:09:28 09:47:04+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:25+08:00",
+        "FileModifyDate": "2026:09:28 12:23:25+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260527_094902_0195_1790569404676_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:05:27",
+      "before": {
+        "CreateDate": "2026:05:27 09:49:03+08:00",
+        "ModifyDate": "2026:05:27 09:49:03+08:00",
+        "MediaCreateDate": "2026:05:27 09:49:03+08:00",
+        "MediaModifyDate": "2026:05:27 09:49:03+08:00",
+        "TrackCreateDate": "2026:05:27 09:49:03+08:00",
+        "TrackModifyDate": "2026:05:27 09:49:03+08:00",
+        "FileModifyDate": "2026:09:28 12:23:24+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 01:49:03",
+        "ModifyDate": "2026:09:28 01:49:03",
+        "MediaCreateDate": "2026:09:28 09:49:03+08:00",
+        "MediaModifyDate": "2026:09:28 09:49:03+08:00",
+        "TrackCreateDate": "2026:09:28 09:49:03+08:00",
+        "TrackModifyDate": "2026:09:28 09:49:03+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:24+08:00",
+        "FileModifyDate": "2026:09:28 12:23:24+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260925_102948_0711_1790569374297_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "CreateDate": "2026:09:25 10:29:50+08:00",
+        "ModifyDate": "2026:09:25 10:29:50+08:00",
+        "MediaCreateDate": "2026:09:25 10:29:50+08:00",
+        "MediaModifyDate": "2026:09:25 10:29:50+08:00",
+        "TrackCreateDate": "2026:09:25 10:29:50+08:00",
+        "TrackModifyDate": "2026:09:25 10:29:50+08:00",
+        "FileModifyDate": "2026:09:28 12:22:54+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 02:29:50",
+        "ModifyDate": "2026:09:28 02:29:50",
+        "MediaCreateDate": "2026:09:28 10:29:50+08:00",
+        "MediaModifyDate": "2026:09:28 10:29:50+08:00",
+        "TrackCreateDate": "2026:09:28 10:29:50+08:00",
+        "TrackModifyDate": "2026:09:28 10:29:50+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:22:54+08:00",
+        "FileModifyDate": "2026:09:28 12:22:54+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260612_114054_0443_1790569389361_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:06:12",
+      "before": {
+        "CreateDate": "2026:06:12 11:40:56+08:00",
+        "ModifyDate": "2026:06:12 11:40:56+08:00",
+        "MediaCreateDate": "2026:06:12 11:40:56+08:00",
+        "MediaModifyDate": "2026:06:12 11:40:56+08:00",
+        "TrackCreateDate": "2026:06:12 11:40:56+08:00",
+        "TrackModifyDate": "2026:06:12 11:40:56+08:00",
+        "FileModifyDate": "2026:09:28 12:23:09+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:40:56",
+        "ModifyDate": "2026:09:28 03:40:56",
+        "MediaCreateDate": "2026:09:28 11:40:56+08:00",
+        "MediaModifyDate": "2026:09:28 11:40:56+08:00",
+        "TrackCreateDate": "2026:09:28 11:40:56+08:00",
+        "TrackModifyDate": "2026:09:28 11:40:56+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:09+08:00",
+        "FileModifyDate": "2026:09:28 12:23:09+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260925_110202_0716_1790569376199_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:25",
+      "before": {
+        "CreateDate": "2026:09:25 11:02:03+08:00",
+        "ModifyDate": "2026:09:25 11:02:03+08:00",
+        "MediaCreateDate": "2026:09:25 11:02:03+08:00",
+        "MediaModifyDate": "2026:09:25 11:02:03+08:00",
+        "TrackCreateDate": "2026:09:25 11:02:03+08:00",
+        "TrackModifyDate": "2026:09:25 11:02:03+08:00",
+        "FileModifyDate": "2026:09:28 12:22:56+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:02:03",
+        "ModifyDate": "2026:09:28 03:02:03",
+        "MediaCreateDate": "2026:09:28 11:02:03+08:00",
+        "MediaModifyDate": "2026:09:28 11:02:03+08:00",
+        "TrackCreateDate": "2026:09:28 11:02:03+08:00",
+        "TrackModifyDate": "2026:09:28 11:02:03+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:22:56+08:00",
+        "FileModifyDate": "2026:09:28 12:22:56+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260609_102556_0307_1790569392758_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:06:09",
+      "before": {
+        "CreateDate": "2026:06:09 10:25:58+08:00",
+        "ModifyDate": "2026:06:09 10:25:58+08:00",
+        "MediaCreateDate": "2026:06:09 10:25:58+08:00",
+        "MediaModifyDate": "2026:06:09 10:25:58+08:00",
+        "TrackCreateDate": "2026:06:09 10:25:58+08:00",
+        "TrackModifyDate": "2026:06:09 10:25:58+08:00",
+        "FileModifyDate": "2026:09:28 12:23:12+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 02:25:58",
+        "ModifyDate": "2026:09:28 02:25:58",
+        "MediaCreateDate": "2026:09:28 10:25:58+08:00",
+        "MediaModifyDate": "2026:09:28 10:25:58+08:00",
+        "TrackCreateDate": "2026:09:28 10:25:58+08:00",
+        "TrackModifyDate": "2026:09:28 10:25:58+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:12+08:00",
+        "FileModifyDate": "2026:09:28 12:23:12+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260726_110912_0730_1790569386738_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:07:26",
+      "before": {
+        "CreateDate": "2026:07:26 11:09:14+08:00",
+        "ModifyDate": "2026:07:26 11:09:14+08:00",
+        "MediaCreateDate": "2026:07:26 11:09:14+08:00",
+        "MediaModifyDate": "2026:07:26 11:09:14+08:00",
+        "TrackCreateDate": "2026:07:26 11:09:14+08:00",
+        "TrackModifyDate": "2026:07:26 11:09:14+08:00",
+        "FileModifyDate": "2026:09:28 12:23:06+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:09:14",
+        "ModifyDate": "2026:09:28 03:09:14",
+        "MediaCreateDate": "2026:09:28 11:09:14+08:00",
+        "MediaModifyDate": "2026:09:28 11:09:14+08:00",
+        "TrackCreateDate": "2026:09:28 11:09:14+08:00",
+        "TrackModifyDate": "2026:09:28 11:09:14+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:06+08:00",
+        "FileModifyDate": "2026:09:28 12:23:06+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260825_110606_0105_1790569382172_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:08:25",
+      "before": {
+        "CreateDate": "2026:08:25 11:06:07+08:00",
+        "ModifyDate": "2026:08:25 11:06:07+08:00",
+        "MediaCreateDate": "2026:08:25 11:06:07+08:00",
+        "MediaModifyDate": "2026:08:25 11:06:07+08:00",
+        "TrackCreateDate": "2026:08:25 11:06:07+08:00",
+        "TrackModifyDate": "2026:08:25 11:06:07+08:00",
+        "FileModifyDate": "2026:09:28 12:23:02+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:06:07",
+        "ModifyDate": "2026:09:28 03:06:07",
+        "MediaCreateDate": "2026:09:28 11:06:07+08:00",
+        "MediaModifyDate": "2026:09:28 11:06:07+08:00",
+        "TrackCreateDate": "2026:09:28 11:06:07+08:00",
+        "TrackModifyDate": "2026:09:28 11:06:07+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:02+08:00",
+        "FileModifyDate": "2026:09:28 12:23:02+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260621_101444_0767_1790569387818_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:06:21",
+      "before": {
+        "CreateDate": "2026:06:21 10:14:45+08:00",
+        "ModifyDate": "2026:06:21 10:14:45+08:00",
+        "MediaCreateDate": "2026:06:21 10:14:45+08:00",
+        "MediaModifyDate": "2026:06:21 10:14:45+08:00",
+        "TrackCreateDate": "2026:06:21 10:14:45+08:00",
+        "TrackModifyDate": "2026:06:21 10:14:45+08:00",
+        "FileModifyDate": "2026:09:28 12:23:07+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 02:14:45",
+        "ModifyDate": "2026:09:28 02:14:45",
+        "MediaCreateDate": "2026:09:28 10:14:45+08:00",
+        "MediaModifyDate": "2026:09:28 10:14:45+08:00",
+        "TrackCreateDate": "2026:09:28 10:14:45+08:00",
+        "TrackModifyDate": "2026:09:28 10:14:45+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:07+08:00",
+        "FileModifyDate": "2026:09:28 12:23:07+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260726_111128_0733_1790569384095_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:07:26",
+      "before": {
+        "CreateDate": "2026:07:26 11:11:29+08:00",
+        "ModifyDate": "2026:07:26 11:11:29+08:00",
+        "MediaCreateDate": "2026:07:26 11:11:29+08:00",
+        "MediaModifyDate": "2026:07:26 11:11:29+08:00",
+        "TrackCreateDate": "2026:07:26 11:11:29+08:00",
+        "TrackModifyDate": "2026:07:26 11:11:29+08:00",
+        "FileModifyDate": "2026:09:28 12:23:04+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:11:29",
+        "ModifyDate": "2026:09:28 03:11:29",
+        "MediaCreateDate": "2026:09:28 11:11:29+08:00",
+        "MediaModifyDate": "2026:09:28 11:11:29+08:00",
+        "TrackCreateDate": "2026:09:28 11:11:29+08:00",
+        "TrackModifyDate": "2026:09:28 11:11:29+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:04+08:00",
+        "FileModifyDate": "2026:09:28 12:23:04+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/wx_camera_1790564839525.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "fill_zero_media_dates",
+      "source_date": "2026:09:28",
+      "before": {
+        "CreateDate": "0000:00:00 00:00:00",
+        "ModifyDate": "0000:00:00 00:00:00",
+        "MediaCreateDate": "0000:00:00 00:00:00",
+        "MediaModifyDate": "0000:00:00 00:00:00",
+        "TrackCreateDate": "0000:00:00 00:00:00",
+        "TrackModifyDate": "0000:00:00 00:00:00",
+        "FileModifyDate": "2026:09:28 11:07:19+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 11:07:19",
+        "ModifyDate": "2026:09:28 11:07:19",
+        "MediaCreateDate": "2026:09:28 11:07:19+08:00",
+        "MediaModifyDate": "2026:09:28 11:07:19+08:00",
+        "TrackCreateDate": "2026:09:28 11:07:19+08:00",
+        "TrackModifyDate": "2026:09:28 11:07:19+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:07:19+08:00",
+        "FileModifyDate": "2026:09:28 11:07:19+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260605_110130_0275_1790569393783_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:06:05",
+      "before": {
+        "CreateDate": "2026:06:05 11:01:30+08:00",
+        "ModifyDate": "2026:06:05 11:01:30+08:00",
+        "MediaCreateDate": "2026:06:05 11:01:30+08:00",
+        "MediaModifyDate": "2026:06:05 11:01:30+08:00",
+        "TrackCreateDate": "2026:06:05 11:01:30+08:00",
+        "TrackModifyDate": "2026:06:05 11:01:30+08:00",
+        "FileModifyDate": "2026:09:28 12:23:13+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:01:30",
+        "ModifyDate": "2026:09:28 03:01:30",
+        "MediaCreateDate": "2026:09:28 11:01:30+08:00",
+        "MediaModifyDate": "2026:09:28 11:01:30+08:00",
+        "TrackCreateDate": "2026:09:28 11:01:30+08:00",
+        "TrackModifyDate": "2026:09:28 11:01:30+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:13+08:00",
+        "FileModifyDate": "2026:09:28 12:23:13+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260726_110340_0728_1790569385534_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:07:26",
+      "before": {
+        "CreateDate": "2026:07:26 11:03:42+08:00",
+        "ModifyDate": "2026:07:26 11:03:42+08:00",
+        "MediaCreateDate": "2026:07:26 11:03:42+08:00",
+        "MediaModifyDate": "2026:07:26 11:03:42+08:00",
+        "TrackCreateDate": "2026:07:26 11:03:42+08:00",
+        "TrackModifyDate": "2026:07:26 11:03:42+08:00",
+        "FileModifyDate": "2026:09:28 12:23:05+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:03:42",
+        "ModifyDate": "2026:09:28 03:03:42",
+        "MediaCreateDate": "2026:09:28 11:03:42+08:00",
+        "MediaModifyDate": "2026:09:28 11:03:42+08:00",
+        "TrackCreateDate": "2026:09:28 11:03:42+08:00",
+        "TrackModifyDate": "2026:09:28 11:03:42+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:05+08:00",
+        "FileModifyDate": "2026:09:28 12:23:05+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/video/dji_mimo_20260609_110630_0309_1790569400058_video.mp4",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:06:09",
+      "before": {
+        "CreateDate": "2026:06:09 11:06:32+08:00",
+        "ModifyDate": "2026:06:09 11:06:32+08:00",
+        "MediaCreateDate": "2026:06:09 11:06:32+08:00",
+        "MediaModifyDate": "2026:06:09 11:06:32+08:00",
+        "TrackCreateDate": "2026:06:09 11:06:32+08:00",
+        "TrackModifyDate": "2026:06:09 11:06:32+08:00",
+        "FileModifyDate": "2026:09:28 12:23:20+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:28 03:06:32",
+        "ModifyDate": "2026:09:28 03:06:32",
+        "MediaCreateDate": "2026:09:28 11:06:32+08:00",
+        "MediaModifyDate": "2026:09:28 11:06:32+08:00",
+        "TrackCreateDate": "2026:09:28 11:06:32+08:00",
+        "TrackModifyDate": "2026:09:28 11:06:32+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 12:23:20+08:00",
+        "FileModifyDate": "2026:09:28 12:23:20+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653956387.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:52:36+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:52:36+08:00",
+        "FileModifyDate": "2026:09:28 11:52:36+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654072372.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:32+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:32+08:00",
+        "FileModifyDate": "2026:09:28 11:54:32+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653926458.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:52:06+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:52:06+08:00",
+        "FileModifyDate": "2026:09:28 11:52:06+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654020551.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:40+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:40+08:00",
+        "FileModifyDate": "2026:09:28 11:53:40+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654056160.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:16+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:16+08:00",
+        "FileModifyDate": "2026:09:28 11:54:16+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654061693.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:21+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:21+08:00",
+        "FileModifyDate": "2026:09:28 11:54:21+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654050992.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:11+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:11+08:00",
+        "FileModifyDate": "2026:09:28 11:54:11+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653857164.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:50:57+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:50:57+08:00",
+        "FileModifyDate": "2026:09:28 11:50:57+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654027489.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:47+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:47+08:00",
+        "FileModifyDate": "2026:09:28 11:53:47+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653968369.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:52:48+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:52:48+08:00",
+        "FileModifyDate": "2026:09:28 11:52:48+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654001922.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:21+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:21+08:00",
+        "FileModifyDate": "2026:09:28 11:53:21+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654069730.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:29+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:29+08:00",
+        "FileModifyDate": "2026:09:28 11:54:29+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653862241.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:51:02+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:51:02+08:00",
+        "FileModifyDate": "2026:09:28 11:51:02+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653980767.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:00+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:00+08:00",
+        "FileModifyDate": "2026:09:28 11:53:00+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654094082.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:54+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:54+08:00",
+        "FileModifyDate": "2026:09:28 11:54:54+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654090541.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:50+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:50+08:00",
+        "FileModifyDate": "2026:09:28 11:54:50+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654025932.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:45+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:45+08:00",
+        "FileModifyDate": "2026:09:28 11:53:45+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654038222.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:58+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:58+08:00",
+        "FileModifyDate": "2026:09:28 11:53:58+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654101726.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:55:01+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:55:01+08:00",
+        "FileModifyDate": "2026:09:28 11:55:01+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654035092.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:55+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:55+08:00",
+        "FileModifyDate": "2026:09:28 11:53:55+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654064034.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:24+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:24+08:00",
+        "FileModifyDate": "2026:09:28 11:54:24+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654032502.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:52+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:52+08:00",
+        "FileModifyDate": "2026:09:28 11:53:52+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653917006.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:51:57+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:51:57+08:00",
+        "FileModifyDate": "2026:09:28 11:51:57+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653914282.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:51:54+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:51:54+08:00",
+        "FileModifyDate": "2026:09:28 11:51:54+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653935739.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:52:15+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:52:15+08:00",
+        "FileModifyDate": "2026:09:28 11:52:15+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654030771.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:50+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:50+08:00",
+        "FileModifyDate": "2026:09:28 11:53:50+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654023650.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:43+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:43+08:00",
+        "FileModifyDate": "2026:09:28 11:53:43+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654059897.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:19+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:19+08:00",
+        "FileModifyDate": "2026:09:28 11:54:19+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654053564.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:13+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:13+08:00",
+        "FileModifyDate": "2026:09:28 11:54:13+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654036528.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:56+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:56+08:00",
+        "FileModifyDate": "2026:09:28 11:53:56+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654076118.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:36+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:36+08:00",
+        "FileModifyDate": "2026:09:28 11:54:36+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654112501.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:55:12+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:55:12+08:00",
+        "FileModifyDate": "2026:09:28 11:55:12+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654013378.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:53:33+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:53:33+08:00",
+        "FileModifyDate": "2026:09:28 11:53:33+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790654082307.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:54:42+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:54:42+08:00",
+        "FileModifyDate": "2026:09:28 11:54:42+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653975433.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:52:55+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:52:55+08:00",
+        "FileModifyDate": "2026:09:28 11:52:55+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260928_天堂岛/photo/mmexport1790653946947.jpg",
+      "root": "260928_天堂岛",
+      "expected_date": "2026:09:28",
+      "action": "shift_day",
+      "source_date": "2026:09:29",
+      "before": {
+        "FileModifyDate": "2026:09:29 11:52:26+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": null,
+        "ModifyDate": null,
+        "MediaCreateDate": null,
+        "MediaModifyDate": null,
+        "TrackCreateDate": null,
+        "TrackModifyDate": null,
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:28 11:52:26+08:00",
+        "FileModifyDate": "2026:09:28 11:52:26+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260929_近岛与日落/video/wx_camera_1790678186080.mp4",
+      "root": "260929_近岛与日落",
+      "expected_date": "2026:09:29",
+      "action": "fill_zero_media_dates",
+      "source_date": "2026:09:29",
+      "before": {
+        "CreateDate": "0000:00:00 00:00:00",
+        "ModifyDate": "0000:00:00 00:00:00",
+        "MediaCreateDate": "0000:00:00 00:00:00",
+        "MediaModifyDate": "0000:00:00 00:00:00",
+        "TrackCreateDate": "0000:00:00 00:00:00",
+        "TrackModifyDate": "0000:00:00 00:00:00",
+        "FileModifyDate": "2026:09:29 18:36:26+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:29 18:36:26",
+        "ModifyDate": "2026:09:29 18:36:26",
+        "MediaCreateDate": "2026:09:29 18:36:26+08:00",
+        "MediaModifyDate": "2026:09:29 18:36:26+08:00",
+        "TrackCreateDate": "2026:09:29 18:36:26+08:00",
+        "TrackModifyDate": "2026:09:29 18:36:26+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:29 18:36:26+08:00",
+        "FileModifyDate": "2026:09:29 18:36:26+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260929_近岛与日落/video/wx_camera_1790670274305.mp4",
+      "root": "260929_近岛与日落",
+      "expected_date": "2026:09:29",
+      "action": "fill_zero_media_dates",
+      "source_date": "2026:09:29",
+      "before": {
+        "CreateDate": "0000:00:00 00:00:00",
+        "ModifyDate": "0000:00:00 00:00:00",
+        "MediaCreateDate": "0000:00:00 00:00:00",
+        "MediaModifyDate": "0000:00:00 00:00:00",
+        "TrackCreateDate": "0000:00:00 00:00:00",
+        "TrackModifyDate": "0000:00:00 00:00:00",
+        "FileModifyDate": "2026:09:29 16:24:34+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:29 16:24:34",
+        "ModifyDate": "2026:09:29 16:24:34",
+        "MediaCreateDate": "2026:09:29 16:24:34+08:00",
+        "MediaModifyDate": "2026:09:29 16:24:34+08:00",
+        "TrackCreateDate": "2026:09:29 16:24:34+08:00",
+        "TrackModifyDate": "2026:09:29 16:24:34+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:29 16:24:34+08:00",
+        "FileModifyDate": "2026:09:29 16:24:34+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260929_近岛与日落/video/wx_camera_1790678215192.mp4",
+      "root": "260929_近岛与日落",
+      "expected_date": "2026:09:29",
+      "action": "fill_zero_media_dates",
+      "source_date": "2026:09:29",
+      "before": {
+        "CreateDate": "0000:00:00 00:00:00",
+        "ModifyDate": "0000:00:00 00:00:00",
+        "MediaCreateDate": "0000:00:00 00:00:00",
+        "MediaModifyDate": "0000:00:00 00:00:00",
+        "TrackCreateDate": "0000:00:00 00:00:00",
+        "TrackModifyDate": "0000:00:00 00:00:00",
+        "FileModifyDate": "2026:09:29 18:36:55+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:29 18:36:55",
+        "ModifyDate": "2026:09:29 18:36:55",
+        "MediaCreateDate": "2026:09:29 18:36:55+08:00",
+        "MediaModifyDate": "2026:09:29 18:36:55+08:00",
+        "TrackCreateDate": "2026:09:29 18:36:55+08:00",
+        "TrackModifyDate": "2026:09:29 18:36:55+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:29 18:36:55+08:00",
+        "FileModifyDate": "2026:09:29 18:36:55+08:00"
+      },
+      "bad": []
+    },
+    {
+      "path": "/Volumes/SANCLOUD/260929_近岛与日落/video/wx_camera_1790681379015.mp4",
+      "root": "260929_近岛与日落",
+      "expected_date": "2026:09:29",
+      "action": "fill_zero_media_dates",
+      "source_date": "2026:09:29",
+      "before": {
+        "CreateDate": "0000:00:00 00:00:00",
+        "ModifyDate": "0000:00:00 00:00:00",
+        "MediaCreateDate": "0000:00:00 00:00:00",
+        "MediaModifyDate": "0000:00:00 00:00:00",
+        "TrackCreateDate": "0000:00:00 00:00:00",
+        "TrackModifyDate": "0000:00:00 00:00:00",
+        "FileModifyDate": "2026:09:29 19:29:39+08:00"
+      },
+      "after": {
+        "DateTimeOriginal": null,
+        "CreateDate": "2026:09:29 19:29:39",
+        "ModifyDate": "2026:09:29 19:29:39",
+        "MediaCreateDate": "2026:09:29 19:29:39+08:00",
+        "MediaModifyDate": "2026:09:29 19:29:39+08:00",
+        "TrackCreateDate": "2026:09:29 19:29:39+08:00",
+        "TrackModifyDate": "2026:09:29 19:29:39+08:00",
+        "XMPCreateDate": null,
+        "XMPModifyDate": null,
+        "FileCreateDate": "2026:09:29 19:29:39+08:00",
+        "FileModifyDate": "2026:09:29 19:29:39+08:00"
+      },
+      "bad": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "root_media": 2945,
+  "reliable_matches": 2463,
+  "consistent_exact": 2261,
+  "root_review_candidates": 5,
+  "source_metadata_suspects": 3,
+  "source_missing_capture_rows": 184,
+  "source_missing_capture_unique_files": 184,
+  "unresolved": 482
+}

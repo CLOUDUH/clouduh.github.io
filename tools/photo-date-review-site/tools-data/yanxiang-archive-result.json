@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-09-04T14:58:11.806336+08:00",
+  "status": "ok",
+  "scanned": 24581,
+  "includedBeforeDedup": 22897,
+  "included": 22312,
+  "photos": 22138,
+  "videos": 174,
+  "duplicatesSkipped": 585,
+  "excluded": 1684,
+  "bytes": 237888551307,
+  "days": 270,
+  "copied": 14511,
+  "skippedExisting": 7801,
+  "renamedForCollision": 100,
+  "errors": [],
+  "currentMedia": 22260,
+  "currentPhotos": 22086,
+  "currentVideos": 174,
+  "currentBytes": 237488682087,
+  "idPhotosAndDocumentsRemoved": 52,
+  "reviewPage": "/yanxiang-review",
+  "reviewManifestPhotos": 22086,
+  "excludedSummary": {
+    "没有可靠日期": 196,
+    "缺少相机依据或疑似设计图片": 157,
+    "剪辑素材/零碎片段目录": 294,
+    "批量目录中的相机编号零碎视频": 960,
+    "无法确认是相机视频或成片": 13,
+    "相机默认2016-01-01日期且无法可靠定位": 56,
+    "少于3秒的零碎视频": 8
+  }
+}

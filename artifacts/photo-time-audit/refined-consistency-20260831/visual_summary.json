@@ -1,0 +1,12 @@
+{
+  "unmatched_photos": 582,
+  "events": 57,
+  "feature_paths_requested": 8171,
+  "usable_features": 8170,
+  "classifications": {
+    "weak_visual_match": 208,
+    "strong_visual_match": 86,
+    "probable_visual_match": 37,
+    "no_source_images": 251
+  }
+}

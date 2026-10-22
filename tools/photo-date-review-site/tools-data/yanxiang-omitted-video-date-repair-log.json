@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T08:37:51.584501+00:00",
+  "album": "待整理视频",
+  "fixed": 482,
+  "errors": 0,
+  "missingFixed": 481,
+  "outsideFixed": 1,
+  "basis": "原遗漏视频日期桶；已有时分秒保留，缺失时分秒按同日期顺序分配",
+  "noRenameOrMove": true,
+  "postVerification": {
+    "videosChecked": 490,
+    "withinEventRange": 490,
+    "outsideEventRange": 0,
+    "missingCaptureDate": 0,
+    "special7_25Date": [
+      {
+        "file": "燕翔相册_按事件整理/待整理视频/190513_挑战杯间隙/video/7.25延时装车.mp4",
+        "date": "2019-06-09"
+      }
+    ]
+  }
+}

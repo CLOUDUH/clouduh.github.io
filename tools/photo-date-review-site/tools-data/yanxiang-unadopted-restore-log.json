@@ -1,0 +1,14 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T01:42:06.241222+00:00",
+  "scope": "未采用 only",
+  "restoredOperations": 9673,
+  "dateFoldersRestored": 91,
+  "emptyDestDirsRemoved": [
+    "燕翔相册_按事件整理/未采用/photo",
+    "燕翔相册_按事件整理/未采用/video"
+  ],
+  "nonEmptyDestDirsKept": [],
+  "mediaDeleted": 0,
+  "note": "未采用 restored to date folders; other event folders unchanged."
+}

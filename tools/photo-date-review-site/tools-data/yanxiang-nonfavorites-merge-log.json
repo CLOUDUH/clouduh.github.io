@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T01:10:47.060807+00:00",
+  "root": "/Volumes/FATCLOUD/燕翔相册_按事件整理",
+  "scope": "date-child media only; parent-root favorites untouched",
+  "mediaMoved": 19465,
+  "hiddenMoved": 39,
+  "totalMoved": 19504,
+  "collisionRenames": 7009,
+  "dateDirsRemoved": 209,
+  "emptyDirsRemoved": 248,
+  "mediaDeleted": 0,
+  "rootFavoritesUntouched": 114,
+  "notes": [
+    "Root-level精选媒体 were excluded from operations.",
+    "Collision files received deterministic __YYMMDD suffixes; no overwrite."
+  ]
+}

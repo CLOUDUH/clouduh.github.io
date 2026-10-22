@@ -1,0 +1,377 @@
+{
+  "explicitPhotoMoves": 53,
+  "rootPicksMovedWithPhotos": 0,
+  "folderMerges": [
+    {
+      "kind": "folder_merge",
+      "source": "181126_车队轴心",
+      "target": "181013_车队轴心",
+      "moved": 3,
+      "exactDuplicatesRecycled": 0,
+      "renamedConflicts": 0
+    },
+    {
+      "kind": "folder_merge",
+      "source": "190317_港西绿地",
+      "target": "190302_大二下开学",
+      "moved": 1,
+      "exactDuplicatesRecycled": 0,
+      "renamedConflicts": 0
+    },
+    {
+      "kind": "folder_merge",
+      "source": "191026_大三比赛后",
+      "target": "191201_比赛之后",
+      "moved": 4,
+      "exactDuplicatesRecycled": 0,
+      "renamedConflicts": 0
+    }
+  ],
+  "tripFolderRenamed": "180930_国庆游玩 -> 180929_国庆游玩",
+  "journal": [
+    {
+      "kind": "photo_move",
+      "source": "171204_大一冬天/photo/2017-09-15(88).jpg",
+      "target": "170904_开学/photo/2017-09-15(88).jpg",
+      "datetime": "2017-09-15 21:16:08"
+    },
+    {
+      "kind": "photo_move",
+      "source": "190710_锦州旅行/photo/IMG_4172.JPG",
+      "target": "150000_高中生活/photo/IMG_4172.JPG",
+      "datetime": "2015-07-15 22:31:58"
+    },
+    {
+      "kind": "photo_move",
+      "source": "190710_锦州旅行/photo/IMG_4173.JPG",
+      "target": "150000_高中生活/photo/IMG_4173.JPG",
+      "datetime": "2015-07-15 22:32:07"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/13f4f9ffbbf692c9.jpg",
+      "target": "180929_国庆游玩/photo/13f4f9ffbbf692c9.jpg",
+      "datetime": "2018-09-29 17:17:42"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/5c9250beffabfb0.jpg",
+      "target": "180929_国庆游玩/photo/5c9250beffabfb0.jpg",
+      "datetime": "2018-09-29 09:07:56"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/CLOUDUH_180929210953.jpg",
+      "target": "180929_国庆游玩/photo/CLOUDUH_180929210953.jpg",
+      "datetime": "2018-09-29 21:09:53"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/qq_pic_merged_1538461404727.jpg",
+      "target": "180929_国庆游玩/photo/qq_pic_merged_1538461404727.jpg",
+      "datetime": "2018-09-29 19:56:30"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180928_201453.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180928_201453.jpg",
+      "datetime": "2018-09-28 20:14:53"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_063700.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_063700.jpg",
+      "datetime": "2018-09-29 06:37:00"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_080911.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_080911.jpg",
+      "datetime": "2018-09-29 08:09:11"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_081426.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_081426.jpg",
+      "datetime": "2018-09-29 08:14:26"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_081435.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_081435.jpg",
+      "datetime": "2018-09-29 08:14:35"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_083730.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_083730.jpg",
+      "datetime": "2018-09-29 08:37:30"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_083736.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_083736.jpg",
+      "datetime": "2018-09-29 08:37:36"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_083807.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_083807.jpg",
+      "datetime": "2018-09-29 08:38:07"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_083914.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_083914.jpg",
+      "datetime": "2018-09-29 08:39:14"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_084045.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_084045.jpg",
+      "datetime": "2018-09-29 08:40:45"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_084052.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_084052.jpg",
+      "datetime": "2018-09-29 08:40:52"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_084059.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_084059.jpg",
+      "datetime": "2018-09-29 08:40:59"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_084405.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_084405.jpg",
+      "datetime": "2018-09-29 08:44:05"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_084646.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_084646.jpg",
+      "datetime": "2018-09-29 08:46:46"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_084717.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_084717.jpg",
+      "datetime": "2018-09-29 08:47:17"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_085116.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_085116.jpg",
+      "datetime": "2018-09-29 08:51:16"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_085353.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_085353.jpg",
+      "datetime": "2018-09-29 08:53:53"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_085438.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_085438.jpg",
+      "datetime": "2018-09-29 08:54:38"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_085455.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_085455.jpg",
+      "datetime": "2018-09-29 08:54:55"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_090405.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_090405.jpg",
+      "datetime": "2018-09-29 09:04:05"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_090501.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_090501.jpg",
+      "datetime": "2018-09-29 09:05:01"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_090845.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_090845.jpg",
+      "datetime": "2018-09-29 09:08:45"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_091434.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_091434.jpg",
+      "datetime": "2018-09-29 09:14:34"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_094009.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_094009.jpg",
+      "datetime": "2018-09-29 09:40:09"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_100341.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_100341.jpg",
+      "datetime": "2018-09-29 10:03:41"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_103842.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_103842.jpg",
+      "datetime": "2018-09-29 10:38:42"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_130632.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_130632.jpg",
+      "datetime": "2018-09-29 13:06:32"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_140518.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_140518.jpg",
+      "datetime": "2018-09-29 14:05:18"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_140729.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_140729.jpg",
+      "datetime": "2018-09-29 14:07:29"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_140826.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_140826.jpg",
+      "datetime": "2018-09-29 14:08:26"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_141601.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_141601.jpg",
+      "datetime": "2018-09-29 14:16:01"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_141654.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_141654.jpg",
+      "datetime": "2018-09-29 14:16:54"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_141705.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_141705.jpg",
+      "datetime": "2018-09-29 14:17:05"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_141722.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_141722.jpg",
+      "datetime": "2018-09-29 14:17:22"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_142451.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_142451.jpg",
+      "datetime": "2018-09-29 14:24:51"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_145126.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_145126.jpg",
+      "datetime": "2018-09-29 14:51:26"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_151833.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_151833.jpg",
+      "datetime": "2018-09-29 15:18:33"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_152201.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_152201.jpg",
+      "datetime": "2018-09-29 15:22:01"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_155933.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_155933.jpg",
+      "datetime": "2018-09-29 15:59:33"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_162147.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_162147.jpg",
+      "datetime": "2018-09-29 16:21:47"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_162620.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_162620.jpg",
+      "datetime": "2018-09-29 16:26:20"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_162632.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_162632.jpg",
+      "datetime": "2018-09-29 16:26:32"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_162809.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_162809.jpg",
+      "datetime": "2018-09-29 16:28:09"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_163941.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_163941.jpg",
+      "datetime": "2018-09-29 16:39:41"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180929_175857.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180929_175857.jpg",
+      "datetime": "2018-09-29 17:58:57"
+    },
+    {
+      "kind": "photo_move",
+      "source": "180906_大二开学/photo/IMG_20180930_084936.jpg",
+      "target": "180929_国庆游玩/photo/IMG_20180930_084936.jpg",
+      "datetime": "2018-09-30 08:49:36"
+    },
+    {
+      "kind": "folder_merge",
+      "source": "181126_车队轴心",
+      "target": "181013_车队轴心",
+      "moved": 3,
+      "exactDuplicatesRecycled": 0,
+      "renamedConflicts": 0
+    },
+    {
+      "kind": "folder_merge",
+      "source": "190317_港西绿地",
+      "target": "190302_大二下开学",
+      "moved": 1,
+      "exactDuplicatesRecycled": 0,
+      "renamedConflicts": 0
+    },
+    {
+      "kind": "folder_merge",
+      "source": "191026_大三比赛后",
+      "target": "191201_比赛之后",
+      "moved": 4,
+      "exactDuplicatesRecycled": 0,
+      "renamedConflicts": 0
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

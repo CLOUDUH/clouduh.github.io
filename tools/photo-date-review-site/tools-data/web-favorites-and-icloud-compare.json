@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "webExport": "photo-favorite-selection-all (3).json",
+  "webNewBefore2022": 269,
+  "alreadyIdentical": 35,
+  "existingEditedSameName": 15,
+  "missingFavoritesCopied": 219,
+  "album180929Copied": 21,
+  "currentAllLibraryFavorites": 3002,
+  "currentPre2022Favorites": 851,
+  "summaryBatches": 18,
+  "icloudFiles": 709,
+  "icloudImages": 705,
+  "icloudVideos": 4,
+  "matchedImages": 598,
+  "differenceItems": 364,
+  "icloudPhotoButNotFavorite": 83,
+  "icloudNoReliableNasMatch": 24,
+  "nasFavoriteMissingFromIcloud": 253,
+  "icloudVideoOnly": 4,
+  "photosDeleted": 0
+}

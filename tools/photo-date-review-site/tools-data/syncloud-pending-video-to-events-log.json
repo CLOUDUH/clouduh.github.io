@@ -1,0 +1,13 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T11:15:03.145664+00:00",
+  "source": "/Volumes/photo/待整理视频",
+  "destination": "/Volumes/photo/<事件>/video",
+  "events": 8,
+  "movedVideos": 490,
+  "collisionRenames": 12,
+  "removedSourceEventDirs": 16,
+  "keptSourceDirs": [],
+  "mediaDeleted": 0,
+  "fatcloudBackupUntouched": true
+}

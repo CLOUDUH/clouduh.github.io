@@ -1,0 +1,14 @@
+{
+  "status": "ok",
+  "target": "/volume2/photo/2022年前精选汇总",
+  "sourceDefinition": "日期编号早于220000的相册根目录精选图片",
+  "sortOrder": "DateTimeOriginal, CreateDate, FileModifyDate",
+  "copied": 851,
+  "bytes": 3154507387,
+  "batches": 18,
+  "batchCounts": [50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 1],
+  "filenamesPreservedExactly": true,
+  "recreatedFromOriginalFavorites": true,
+  "originalsMoved": 0,
+  "originalsDeleted": 0
+}

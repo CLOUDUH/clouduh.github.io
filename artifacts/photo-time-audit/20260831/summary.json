@@ -1,0 +1,31 @@
+{
+  "library": "/Volumes/photo",
+  "target": "/Volumes/photo/220101_云端记忆",
+  "target_media": 505,
+  "source_2022_images": 2044,
+  "counts_by_confidence": {
+    "medium": 157,
+    "very-low": 1,
+    "high": 347
+  },
+  "counts_by_action": {
+    "modify": 505
+  },
+  "counts_by_month": {
+    "2019-04": 1,
+    "2021-06": 2,
+    "2022-01": 61,
+    "2022-02": 112,
+    "2022-03": 26,
+    "2022-04": 33,
+    "2022-05": 69,
+    "2022-06": 35,
+    "2022-07": 46,
+    "2022-08": 56,
+    "2022-09": 25,
+    "2022-10": 19,
+    "2022-11": 20
+  },
+  "exact_match_targets": 42,
+  "generated_at": "2026-08-31 11:40:49"
+}

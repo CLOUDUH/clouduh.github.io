@@ -1,0 +1,17 @@
+{
+  "root_media": 2945,
+  "status_counts": {
+    "source_capture_missing": 184,
+    "consistent_exact": 2250,
+    "unresolved_no_reliable_match": 482,
+    "consistent_close": 4,
+    "same_day_time_difference": 6,
+    "source_metadata_suspect": 3,
+    "root_metadata_suspect+root_internal_date_conflict": 1,
+    "consistent_exact+root_internal_date_conflict": 11,
+    "date_mismatch_strong": 2,
+    "root_metadata_suspect": 2
+  },
+  "actionable_anomalies": 5,
+  "reliable_matches": 2463
+}

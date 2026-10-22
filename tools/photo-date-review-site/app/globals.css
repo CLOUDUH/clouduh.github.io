@@ -1,0 +1,62 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius) * .65);
+  --radius-md: calc(var(--radius) * .82);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.35);
+  --radius-2xl: calc(var(--radius) * 1.75);
+  --radius-3xl: calc(var(--radius) * 2.2);
+}
+
+:root {
+  --background: oklch(.975 .012 82);
+  --foreground: oklch(.21 .018 58);
+  --card: oklch(.998 .004 78);
+  --card-foreground: oklch(.21 .018 58);
+  --popover: oklch(.998 .004 78);
+  --popover-foreground: oklch(.21 .018 58);
+  --primary: oklch(.48 .11 158);
+  --primary-foreground: oklch(.99 .006 100);
+  --secondary: oklch(.925 .035 80);
+  --secondary-foreground: oklch(.3 .025 62);
+  --muted: oklch(.945 .017 78);
+  --muted-foreground: oklch(.53 .025 60);
+  --accent: oklch(.92 .048 150);
+  --accent-foreground: oklch(.28 .05 154);
+  --destructive: oklch(.58 .2 28);
+  --border: oklch(.875 .022 74);
+  --input: oklch(.85 .025 72);
+  --ring: oklch(.55 .1 158);
+  --radius: .75rem;
+  --photo-stage: oklch(.17 .012 55);
+}
+
+* { border-color: var(--border); outline-color: color-mix(in oklch, var(--ring), transparent 50%); }
+html { background: var(--background); font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
+body { margin: 0; background: var(--background); color: var(--foreground); }
+button, input, textarea { font: inherit; }
+.bg-photo-stage { background: radial-gradient(circle at 50% 36%, oklch(.27 .015 58), var(--photo-stage) 70%); }
+::selection { background: color-mix(in oklch, var(--primary), white 68%); }

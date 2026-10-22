@@ -1,0 +1,30 @@
+{
+  "stageFavorites": 114,
+  "matches": [
+    {
+      "stage": "待整理照片/191117_珠海比赛/YX0_0367.JPG",
+      "big": "191117_珠海比赛/CLOUDUH_191122154854.JPG",
+      "hash": "bc511bdce3fcc8efe6ff98576022dae47f4879d97523acc4c2b334fcd183f9a2",
+      "event": "191117_珠海比赛"
+    },
+    {
+      "stage": "待整理照片/191117_珠海比赛/YX0_0266.JPG",
+      "big": "191117_珠海比赛/CLOUDUH_191121132103.JPG",
+      "hash": "292da40fc114330ea908cbd37940069ea881899240e3104a3a186116ff282102",
+      "event": "191117_珠海比赛"
+    },
+    {
+      "stage": "待整理照片/191117_珠海比赛/YX0_0260.JPG",
+      "big": "191117_珠海比赛/IMG_20191119_142013.JPG",
+      "hash": "93d0c69e541fda38054c0db59118783b518befebf06d4bab815865296afc96c8",
+      "event": "191117_珠海比赛"
+    },
+    {
+      "stage": "待整理照片/191117_珠海比赛/YX0_0118.JPG",
+      "big": "191117_珠海比赛/CLOUDUH_191122085127.JPG",
+      "hash": "42f84e6649407bf48311230cf36e4cbdbb458cb17387849bdcbca365915ab8c1",
+      "event": "191117_珠海比赛"
+    }
+  ],
+  "method": "corresponding event root; same size then SHA-256"
+}

@@ -1,0 +1,12 @@
+{
+  "root_media": 2945,
+  "source_media_indexed": 41583,
+  "events_and_media_indexes": 241,
+  "match_counts": {
+    "exact_name": 1975,
+    "unmatched": 605,
+    "exact_sha256": 113,
+    "normalized_stem": 252,
+    "ambiguous_multiple": 5
+  }
+}

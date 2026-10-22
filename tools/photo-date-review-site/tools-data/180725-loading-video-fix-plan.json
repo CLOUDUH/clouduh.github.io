@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-08T08:40:13.497421+00:00",
+  "source": "燕翔相册_按事件整理/待整理视频/190513_挑战杯间隙/video/7.25延时装车.mp4",
+  "destination": "燕翔相册_按事件整理/待整理视频/180700_大一暑假/video/7.25延时装车.mp4",
+  "companionSource": "燕翔相册_按事件整理/待整理视频/190513_挑战杯间隙/video/._7.25延时装车.mp4",
+  "companionDestination": "燕翔相册_按事件整理/待整理视频/180700_大一暑假/video/._7.25延时装车.mp4",
+  "oldMetadata": {
+    "SourceFile": "/Volumes/FATCLOUD/燕翔相册_按事件整理/待整理视频/190513_挑战杯间隙/video/7.25延时装车.mp4",
+    "MediaCreateDate": "2019:06:09 01:24:36",
+    "TrackCreateDate": "2019:06:09 01:24:36",
+    "CreateDate": "2018:07:31 09:24:36+08:00",
+    "ModifyDate": "2018:07:31 09:24:58+08:00",
+    "MediaModifyDate": "2019:06:09 01:24:36",
+    "TrackModifyDate": "2019:06:09 01:24:36",
+    "FileModifyDate": "2019:06:09 01:24:36+08:00"
+  },
+  "newLocalDateTime": "2018-07-25 09:24:36+08:00",
+  "newMetadata": {
+    "SourceFile": "/Volumes/FATCLOUD/燕翔相册_按事件整理/待整理视频/190513_挑战杯间隙/video/7.25延时装车.mp4",
+    "MediaCreateDate": "2018:07:25 09:24:36",
+    "TrackCreateDate": "2018:07:25 09:24:36",
+    "CreateDate": "2018:07:25 09:24:36+08:00",
+    "ModifyDate": "2018:07:25 09:24:36+08:00",
+    "MediaModifyDate": "2018:07:25 09:24:36",
+    "TrackModifyDate": "2018:07:25 09:24:36",
+    "FileModifyDate": "2018:07:25 09:24:36+08:00"
+  },
+  "metadataVerifiedDate": "2018-07-25",
+  "completedAt": "2026-09-08T08:40:34.361621+00:00",
+  "companionStatus": "moved_automatically"
+}

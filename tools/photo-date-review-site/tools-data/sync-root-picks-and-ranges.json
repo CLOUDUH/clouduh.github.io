@@ -1,0 +1,50 @@
+{
+  "rootFavoritesSynchronized": 5,
+  "dateRangeRelocations": 2,
+  "actions": [
+    {
+      "source": "110600_初中/TIM图片20180815103418.jpg",
+      "target": "180700_大一暑假/TIM图片20180815144916.jpg",
+      "datetime": "2018-08-15 14:49:16",
+      "reason": "photo原片已跨文件夹，根目录精选同步移动"
+    },
+    {
+      "source": "110600_初中/照片 023.jpg",
+      "target": "150000_高中生活/照片 023.jpg",
+      "datetime": "2015-07-15 11:59:02",
+      "reason": "photo原片已跨文件夹，根目录精选同步移动"
+    },
+    {
+      "source": "110600_初中/照片 024.jpg",
+      "target": "150000_高中生活/照片 024.jpg",
+      "datetime": "2015-07-15 12:36:34",
+      "reason": "photo原片已跨文件夹，根目录精选同步移动"
+    },
+    {
+      "source": "110600_初中/照片 025.jpg",
+      "target": "150000_高中生活/照片 025.jpg",
+      "datetime": "2015-07-15 12:12:55",
+      "reason": "photo原片已跨文件夹，根目录精选同步移动"
+    },
+    {
+      "source": "170701_高中毕业/IMG_20211111_194809.jpeg",
+      "target": "171002_国庆回家/IMG_20171003_200010.jpeg",
+      "datetime": "2017-10-03 20:00:10",
+      "reason": "photo原片已跨文件夹，根目录精选同步移动"
+    },
+    {
+      "source": "170701_高中毕业/photo/406de43c0cd55668.jpg",
+      "target": "150000_高中生活/photo/406de43c0cd55668.jpg",
+      "datetime": "2015-08-11 16:50:27",
+      "reason": "2015-08-11明显属于高中生活"
+    },
+    {
+      "source": "170701_高中毕业/photo/faceu_20171004173037.jpg",
+      "target": "171002_国庆回家/photo/faceu_20171004173037.jpg",
+      "datetime": "2017-10-04 17:30:37",
+      "reason": "2017-10-04明显属于国庆回家"
+    }
+  ],
+  "errors": [],
+  "status": "ok"
+}

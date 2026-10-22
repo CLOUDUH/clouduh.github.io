@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "generatedAt": "2026-09-06",
+  "roots": [
+    "燕翔相册_按事件整理",
+    "燕翔相册_按日期整理"
+  ],
+  "foldersRenamed": 227,
+  "eventParentsRenamed": 17,
+  "eventDateChildrenRestoredToActualDates": 210,
+  "unlabeledDateFoldersRenamed": 52,
+  "unmodifiedCategory": "未采用",
+  "naming": {
+    "event": "YYMMDD_标签/YYMMDD",
+    "unlabeled": "YYMMDD_未标注"
+  },
+  "mediaUnchanged": {
+    "photos": 22086,
+    "videos": 174
+  },
+  "originalArchivesTouched": false,
+  "webManifest": {
+    "path": "public/yanxiang-review/manifest.json",
+    "version": 5,
+    "items": 22086,
+    "missingPaths": 0
+  }
+}
