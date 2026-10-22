@@ -112,6 +112,11 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - Rakefile
+  # Local photo-review tools, audit records, and exported documents
+  - tools
+  - scripts
+  - artifacts
+  - output
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 # Gems

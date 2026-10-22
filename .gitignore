@@ -6,3 +6,17 @@ node_modules
 *.sh
 .trash
 .obsidian/
+
+# Rebuildable local caches and tool output
+.pnpm-store/
+.next/
+dist/
+.wrangler/state/
+.wrangler/tmp/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+__pycache__/
+*.pyc
+*.pyo
+*.tsbuildinfo
